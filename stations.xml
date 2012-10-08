@@ -1,0 +1,3068 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stations>
+	<station lat="49,68549" long="1,77386">Abancourt</station>
+	<station lat="50,10197" long="1,82423">Abbeville</station>
+	<station lat="48,72511" long="2,41896">Ablon</station>
+	<station lat="47,65912" long="3,71302">Accolay</station>
+	<station lat="48,95535" long="2,09327">Achères-Grand-Cormier</station>
+	<station lat="48,96934" long="2,07779">Achères-Ville</station>
+	<station lat="50,08245" long="1,65704">Acheux-Franleu</station>
+	<station lat="50,27832" long="2,76324">Achicourt</station>
+	<station lat="50,13234" long="2,78046">Achiet</station>
+	<station lat="43,43164" long="6,85666">Agay</station>
+	<station lat="43,31754" long="3,46575">Agde</station>
+	<station lat="44,20836" long="0,62031">Agen</station>
+	<station lat="45,28649" long="0,74857">Agonac</station>
+	<station lat="49,40793" long="3,97299">Aguilcourt-Variscourt</station>
+	<station lat="45,53634" long="5,81253">Aiguebelette-le-Lac</station>
+	<station lat="45,54351" long="6,30686">Aiguebelle</station>
+	<station lat="46,01484" long="3,19788">Aigueperse</station>
+	<station lat="43,57112" long="4,19112">Aigues-Mortes</station>
+	<station lat="43,72672" long="4,19333">Aigues-Vives</station>
+	<station lat="44,29873" long="0,33517">Aiguillon</station>
+	<station lat="47,91356" long="6,33659">Aillevillers</station>
+	<station lat="49,75458" long="2,36392">Ailly-sur-Noye</station>
+	<station lat="49,92832" long="2,20053">Ailly-sur-Somme</station>
+	<station lat="43,67857" long="4,20821">Aimargues</station>
+	<station lat="45,55435" long="6,64860">Aime-La Plagne</station>
+	<station lat="47,17011" long="5,15834">Aiserey</station>
+	<station lat="43,52324" long="5,44412">Aix-en-Provence</station>
+	<station lat="43,45527" long="5,31723">Aix-en-Provence-TGV</station>
+	<station lat="45,79601" long="1,14686">Aixe-sur-Vienne</station>
+	<station lat="45,61402" long="2,39853">Aix-la-Marsalouse</station>
+	<station lat="45,68947" long="5,90893">Aix-les-Bains-Le Revard</station>
+	<station lat="45,75174" long="4,77153">Alai</station>
+	<station lat="45,78613" long="5,94856">Albens</station>
+	<station lat="50,00520" long="2,64312">Albert</station>
+	<station lat="45,67340" long="6,38326">Albertville</station>
+	<station lat="44,09198" long="1,44489">Albias</station>
+	<station lat="43,93819" long="2,14080">Albi-Madeleine</station>
+	<station lat="43,92221" long="2,13725">Albi-Ville</station>
+	<station lat="48,43387" long="0,09904">Alençon</station>
+	<station lat="44,12813" long="4,08478">Alès</station>
+	<station lat="42,99722" long="2,25185">Alet-les-Bains</station>
+	<station lat="45,25929" long="1,47299">Allassac</station>
+	<station lat="44,54168" long="3,66423">Allenc</station>
+	<station lat="44,86527" long="0,86939">Alles-sur-Dordogne</station>
+	<station lat="44,91837" long="3,67295">Alleyras</station>
+	<station lat="46,01673" long="4,49499">Allières</station>
+	<station lat="44,79330" long="-0,65986">Alouette-France</station>
+	<station lat="47,62710" long="7,23959">Altkirch</station>
+	<station lat="49,52370" long="4,47380">Amagne-Lucquy</station>
+	<station lat="45,95260" long="1,40591">Ambazac</station>
+	<station lat="45,95395" long="5,34246">Ambérieu</station>
+	<station lat="46,19467" long="6,22535">Ambilly</station>
+	<station lat="47,42145" long="0,98112">Amboise</station>
+	<station lat="46,01159" long="5,33816">Ambronay-Priay</station>
+	<station lat="49,88993" long="2,30982">Amiens</station>
+	<station lat="49,48479" long="3,91056">Amifontaine</station>
+	<station lat="48,43813" long="1,38939">Amilly-Ouerray</station>
+	<station lat="45,97145" long="4,32579">Amplepuis</station>
+	<station lat="47,36947" long="-1,17759">Ancenis</station>
+	<station lat="49,93038" long="4,67163">Anchamps</station>
+	<station lat="46,34964" long="0,25021">Anché-Voulon</station>
+	<station lat="49,05727" long="6,06276">Ancy-sur-Moselle</station>
+	<station lat="46,85967" long="5,92344">Andelot (Jura)</station>
+	<station lat="47,91292" long="5,50561">Andilly</station>
+	<station lat="48,97428" long="2,04836">Andrésy</station>
+	<station lat="45,52168" long="4,25526">Andrézieux</station>
+	<station lat="47,46691" long="-0,53255">Angers-Maître-École</station>
+	<station lat="47,46444" long="-0,55694">Angers-St-Laud</station>
+	<station lat="48,31141" long="2,00373">Angerville</station>
+	<station lat="45,65394" long="0,16453">Angoulême</station>
+	<station lat="46,10790" long="-1,11562">Angoulins-sur-Mer</station>
+	<station lat="49,49587" long="3,44843">Anizy-Pinon</station>
+	<station lat="50,62293" long="3,14475">Annappes</station>
+	<station lat="45,90273" long="6,12255">Annecy</station>
+	<station lat="46,19963" long="6,23677">Annemasse</station>
+	<station lat="49,98502" long="4,09303">Anor</station>
+	<station lat="45,93950" long="4,71974">Anse</station>
+	<station lat="50,60388" long="3,19348">Anstaing</station>
+	<station lat="43,43514" long="6,89216">Anthéor-Cap-Roux</station>
+	<station lat="43,58588" long="7,11942">Antibes</station>
+	<station lat="50,44570" long="2,25859">Anvin</station>
+	<station lat="49,26240" long="6,45953">Anzeling</station>
+	<station lat="49,45862" long="6,37249">Apach (Moselle)</station>
+	<station lat="49,58047" long="3,12113">Appilly</station>
+	<station lat="44,67440" long="-0,39565">Arbanats</station>
+	<station lat="46,91247" long="5,76477">Arbois</station>
+	<station lat="44,65880" long="-1,16535">Arcachon</station>
+	<station lat="47,03018" long="5,77710">Arc-et-Senans</station>
+	<station lat="48,12035" long="6,52683">Arches</station>
+	<station lat="47,60088" long="3,76689">Arcy-sur-Cure</station>
+	<station lat="44,00673" long="-0,80947">Arengosse</station>
+	<station lat="42,54396" long="3,02151">Argelès-sur-Mer</station>
+	<station lat="48,73847" long="-0,02571">Argentan</station>
+	<station lat="48,94654" long="2,25778">Argenteuil</station>
+	<station lat="45,98176" long="6,92616">Argentière</station>
+	<station lat="46,59260" long="1,51851">Argenton-sur-Creuse</station>
+	<station lat="44,82747" long="-0,62619">Arlac</station>
+	<station lat="43,68246" long="4,63284">Arles</station>
+	<station lat="50,28628" long="3,12135">Arleux</station>
+	<station lat="50,68047" long="2,87750">Armentières</station>
+	<station lat="47,92777" long="0,19015">Arnage</station>
+	<station lat="50,83174" long="2,40826">Arnèke</station>
+	<station lat="48,58614" long="2,24049">Arpajon (Essonne)</station>
+	<station lat="50,28671" long="2,78190">Arras</station>
+	<station lat="48,10051" long="1,12920">Arrou</station>
+	<station lat="49,07445" long="6,07848">Ars-sur-Moselle</station>
+	<station lat="48,08095" long="1,88303">Artenay (Loiret)</station>
+	<station lat="43,39205" long="-0,57055">Artix</station>
+	<station lat="45,36615" long="3,31097">Arvant</station>
+	<station lat="50,62197" long="3,15902">Ascq</station>
+	<station lat="48,90530" long="2,28378">Asnières-sur-Seine</station>
+	<station lat="44,51904" long="5,75470">Aspres-sur-Buëch</station>
+	<station lat="43,25464" long="-0,29521">Assat</station>
+	<station lat="44,67367" long="1,87073">Assier</station>
+	<station lat="48,71235" long="2,40310">Athis-Mons</station>
+	<station lat="43,29607" long="5,56632">Aubagne</station>
+	<station lat="45,18177" long="1,64173">Aubazine-St-Hilaire</station>
+	<station lat="48,97187" long="1,84768">Aubergenville-Élisabethville</station>
+	<station lat="48,92410" long="2,38554">Aubervilliers-La Courneuve</station>
+	<station lat="45,98402" long="3,16031">Aubiat</station>
+	<station lat="45,01507" long="-0,41969">Aubie-St-Antoine</station>
+	<station lat="43,65016" long="0,78920">Aubiet</station>
+	<station lat="47,68669" long="0,26655">Aubigné-Racan</station>
+	<station lat="50,26847" long="3,15854">Aubigny-au-Bac</station>
+	<station lat="50,35307" long="2,59286">Aubigny-en-Artois</station>
+	<station lat="44,52729" long="2,23902">Aubin</station>
+	<station lat="50,39410" long="1,97105">Aubin-St-Vaast</station>
+	<station lat="49,21631" long="5,97156">Auboué</station>
+	<station lat="50,10360" long="4,76085">Aubrives</station>
+	<station lat="45,96092" long="2,16050">Aubusson</station>
+	<station lat="43,64739" long="0,59707">Auch</station>
+	<station lat="50,39213" long="2,08842">Auchy-lès-Hesdin</station>
+	<station lat="49,21610" long="-0,59646">Audrieu</station>
+	<station lat="50,87535" long="2,07735">Audruicq</station>
+	<station lat="49,36646" long="5,89138">Audun-le-Roman</station>
+	<station lat="49,47808" long="5,95760">Audun-le-Tiche</station>
+	<station lat="49,71599" long="1,09820">Auffay</station>
+	<station lat="47,76632" long="3,61100">Augy-Vaux</station>
+	<station lat="48,93212" long="2,49454">Aulnay-sous-Bois</station>
+	<station lat="50,19721" long="3,84375">Aulnoye-Aymeries</station>
+	<station lat="49,76476" long="1,75613">Aumale</station>
+	<station lat="44,71675" long="3,28521">Aumont-Aubrac</station>
+	<station lat="48,44545" long="1,77976">Auneau</station>
+	<station lat="47,68012" long="-2,99919">Auray</station>
+	<station lat="45,37116" long="4,19833">Aurec</station>
+	<station lat="44,92075" long="2,43563">Aurillac</station>
+	<station lat="43,34884" long="1,46863">Auterive</station>
+	<station lat="46,95526" long="4,29297">Autun</station>
+	<station lat="49,07092" long="2,17650">Auvers-sur-Oise</station>
+	<station lat="47,79753" long="3,58552">Auxerre-St-Gervais</station>
+	<station lat="47,19221" long="5,37765">Auxonne</station>
+	<station lat="47,49585" long="3,91264">Avallon</station>
+	<station lat="49,06454" long="4,04328">Avenay</station>
+	<station lat="48,87140" long="2,27568">Avenue-Foch</station>
+	<station lat="48,86494" long="2,27211">Avenue-Henri-Martin</station>
+	<station lat="50,11980" long="3,94605">Avesnelles</station>
+	<station lat="50,12654" long="3,93374">Avesnes</station>
+	<station lat="43,94117" long="4,80633">Avignon</station>
+	<station lat="43,36390" long="1,78777">Avignonet</station>
+	<station lat="43,92194" long="4,78581">Avignon-TGV</station>
+	<station lat="50,40649" long="2,83333">Avion</station>
+	<station lat="47,03485" long="2,65234">Avord</station>
+	<station lat="47,12984" long="6,43461">Avoudrey</station>
+	<station lat="48,85357" long="2,27964">Avenue du Pdt Kennedy</station>
+	<station lat="48,69042" long="-1,36997">Avranches</station>
+	<station lat="49,44502" long="2,41799">Avrechy</station>
+	<station lat="42,72503" long="1,83366">Ax-les-Thermes</station>
+	<station lat="49,04879" long="4,00166">Ay</station>
+	<station lat="46,12754" long="-1,12829">Aytré-Plage</station>
+	<station lat="47,26701" long="0,44792">Azay-le-Rideau</station>
+	<station lat="47,36519" long="0,85946">Azay-sur-Cher</station>
+	<station lat="48,49100" long="6,69674">Azerailles</station>
+	<station lat="48,45226" long="6,74405">Baccarat</station>
+	<station lat="44,66516" long="2,16074">Bagnac</station>
+	<station lat="48,23047" long="2,70340">Bagneaux-sur-Loing</station>
+	<station lat="44,52832" long="3,62815">Bagnols-Chadenet</station>
+	<station lat="43,65310" long="4,00667">Baillargues</station>
+	<station lat="48,36675" long="1,32472">Bailleau-le-Pin</station>
+	<station lat="50,72900" long="2,73406">Bailleul (Nord)</station>
+	<station lat="50,33476" long="2,84097">Bailleul-Sire-Berthoult</station>
+	<station lat="47,98122" long="6,29519">Bains-les-Bains</station>
+	<station lat="48,58600" long="6,09954">Bainville</station>
+	<station lat="50,61860" long="3,23522">Baisieux</station>
+	<station lat="49,29317" long="2,34536">Balagny-St-Épin</station>
+	<station lat="45,81757" long="4,18783">Balbigny</station>
+	<station lat="47,33676" long="0,61809">Ballan</station>
+	<station lat="48,53234" long="2,37137">Ballancourt</station>
+	<station lat="47,61985" long="7,15515">Ballersdorf</station>
+	<station lat="44,48228" long="3,45686">Balsièges-Bourg</station>
+	<station lat="44,44598" long="3,19705">Banassac-La Canourgue</station>
+	<station lat="43,14037" long="5,74995">Bandol</station>
+	<station lat="47,92651" long="-3,70673">Bannalec</station>
+	<station lat="42,48262" long="3,12441">Banyuls-sur-Mer</station>
+	<station lat="44,27024" long="2,42726">Baraqueville-Carcenac-Peyralès</station>
+	<station lat="49,55017" long="0,95331">Barentin</station>
+	<station lat="49,63068" long="3,65560">Barenton-Bugny</station>
+	<station lat="44,49936" long="3,41057">Barjac</station>
+	<station lat="48,77317" long="5,16781">Bar-le-Duc</station>
+	<station lat="49,28449" long="5,69970">Baroncourt</station>
+	<station lat="48,40305" long="7,45691">Barr</station>
+	<station lat="44,60414" long="-0,32061">Barsac</station>
+	<station lat="45,56600" long="2,01882">Barsanges</station>
+	<station lat="48,23852" long="4,70688">Bar-sur-Aube</station>
+	<station lat="47,63478" long="7,48767">Bartenheim</station>
+	<station lat="47,68086" long="6,80692">Bas-Évette</station>
+	<station lat="45,29797" long="4,13958">Bas-Monistrol</station>
+	<station lat="49,38053" long="6,23495">Basse-Ham</station>
+	<station lat="44,90131" long="-0,52239">Bassens-Ville</station>
+	<station lat="47,28091" long="-2,47941">Batz-sur-Mer</station>
+	<station lat="47,81149" long="1,66784">Baule</station>
+	<station lat="47,35405" long="6,35912">Baume-les-Dames</station>
+	<station lat="50,51163" long="2,90502">Bauvin-Provin</station>
+	<station lat="48,55152" long="5,07628">Bayard</station>
+	<station lat="49,26945" long="-0,69731">Bayeux</station>
+	<station lat="48,46765" long="6,32219">Bayon</station>
+	<station lat="43,49702" long="-1,47019">Bayonne</station>
+	<station lat="49,36113" long="4,17416">Bazancourt</station>
+	<station lat="43,45318" long="1,62123">Baziège</station>
+	<station lat="49,30523" long="3,61422">Bazoches</station>
+	<station lat="46,86504" long="3,31787">Béard</station>
+	<station lat="43,80215" long="4,64741">Beaucaire</station>
+	<station lat="47,77825" long="1,62571">Beaugency</station>
+	<station lat="43,70679" long="7,33179">Beaulieu-sur-Mer</station>
+	<station lat="50,94553" long="1,89980">Beau-Marais</station>
+	<station lat="49,07442" long="0,77228">Beaumont-le-Roger</station>
+	<station lat="47,02303" long="4,84873">Beaune</station>
+	<station lat="50,42263" long="1,89542">Beaurainville</station>
+	<station lat="44,70139" long="-0,45090">Beautiran</station>
+	<station lat="49,42623" long="2,08794">Beauvais</station>
+	<station lat="46,17670" long="-0,46915">Beauvoir-sur-Niort</station>
+	<station lat="43,72494" long="4,32205">Beauvoisin</station>
+	<station lat="45,23567" long="4,09426">Beauzac</station>
+	<station lat="48,90583" long="2,26831">Bécon-les-Bruyères</station>
+	<station lat="43,60507" long="3,14761">Bédarieux</station>
+	<station lat="44,04274" long="4,89372">Bédarrides</station>
+	<station lat="43,00056" long="-0,60111">Bedous</station>
+	<station lat="44,79978" long="-0,55533">Bègles</station>
+	<station lat="45,70096" long="-0,52729">Beillant</station>
+	<station lat="49,24397" long="4,07097">Reims-Beine-Farman</station>
+	<station lat="48,87411" long="8,07885">Beinheim</station>
+	<station lat="47,63251" long="6,85414">Belfort</station>
+	<station lat="46,12556" long="1,04633">Bellac</station>
+	<station lat="46,11006" long="5,82360">Bellegarde (Ain)</station>
+	<station lat="48,59335" long="-3,32310">Belle-Isle-Bégard</station>
+	<station lat="46,19954" long="3,06660">Bellenaves</station>
+	<station lat="48,81945" long="6,10171">Belleville</station>
+	<station lat="46,11175" long="4,72859">Belleville-sur-Saône</station>
+	<station lat="46,78826" long="-1,43463">Belleville-Vendée</station>
+	<station lat="48,81877" long="2,23010">Bellevue</station>
+	<station lat="46,23879" long="5,63017">Bellignat</station>
+	<station lat="49,09833" long="2,36124">Belloy-St-Martin</station>
+	<station lat="44,77730" long="1,01190">Belvès</station>
+	<station lat="44,56186" long="3,75189">Belvezet</station>
+	<station lat="47,65250" long="-3,07222">Belz-Ploemel</station>
+	<station lat="42,45797" long="1,91803">Béna-Fanès</station>
+	<station lat="43,62761" long="-1,37029">Bénesse-Maremne</station>
+	<station lat="48,90622" long="6,75063">Bénestroff</station>
+	<station lat="48,37380" long="7,58438">Benfeld</station>
+	<station lat="47,00009" long="2,74970">Bengy</station>
+	<station lat="49,13814" long="6,82789">Béning</station>
+	<station lat="44,85728" long="0,48877">Bergerac</station>
+	<station lat="50,96846" long="2,42577">Bergues</station>
+	<station lat="50,61495" long="2,46296">Berguette-Isbergues</station>
+	<station lat="50,19768" long="3,81062">Berlaimont</station>
+	<station lat="49,08699" long="0,59573">Bernay</station>
+	<station lat="43,50088" long="5,17891">Berre</station>
+	<station lat="46,08370" long="1,43203">Bersac</station>
+	<station lat="48,81082" long="7,00654">Berthelming</station>
+	<station lat="48,42849" long="6,79128">Bertrichamps</station>
+	<station lat="50,09099" long="3,44899">Bertry</station>
+	<station lat="47,24093" long="6,03406">Besançon-Mouillère</station>
+	<station lat="47,24721" long="6,02158">Besançon-Viotte</station>
+	<station lat="47,69920" long="-1,87028">Beslé</station>
+	<station lat="49,03546" long="2,21027">Bessancourt</station>
+	<station lat="46,44293" long="3,36058">Bessay</station>
+	<station lat="44,29680" long="4,09279">Bessèges</station>
+	<station lat="44,94254" long="1,73453">Bétaille</station>
+	<station lat="50,52072" long="2,64167">Béthune</station>
+	<station lat="48,18175" long="-1,63413">Betton</station>
+	<station lat="50,38960" long="3,50662">Beuvrages</station>
+	<station lat="50,53582" long="2,69170">Beuvry (Pas-de-Calais)</station>
+	<station lat="48,85965" long="1,87575">Beynes</station>
+	<station lat="45,83385" long="5,00680">Beynost</station>
+	<station lat="43,33627" long="3,21899">Béziers</station>
+	<station lat="50,31664" long="2,94200">Biache-St-Vaast</station>
+	<station lat="43,45922" long="-1,54549">Biarritz</station>
+	<station lat="48,82874" long="2,37794">Bibliothèque-François-Mitterrand</station>
+	<station lat="48,75124" long="2,21556">Bièvres</station>
+	<station lat="48,20581" long="6,80674">Biffontaine</station>
+	<station lat="46,80104" long="2,36941">Bigny</station>
+	<station lat="50,41531" long="2,91167">Billy-Montigny</station>
+	<station lat="43,61139" long="7,12667">Biot</station>
+	<station lat="48,61124" long="7,74123">Bischheim</station>
+	<station lat="48,48680" long="7,49781">Bischoffsheim</station>
+	<station lat="48,76541" long="7,85116">Bischwiller (Bas-Rhin)</station>
+	<station lat="49,04843" long="7,43258">Bitche</station>
+	<station lat="47,82815" long="7,07818">Bitschwiller (Haut-Rhin)</station>
+	<station lat="48,56405" long="6,38827">Blainville-Damelevières</station>
+	<station lat="47,37324" long="4,74138">Blaisy-Bas</station>
+	<station lat="49,93302" long="1,62482">Blangy-sur-Bresle</station>
+	<station lat="50,42336" long="2,16944">Blangy-sur-Ternoise</station>
+	<station lat="44,91761" long="-0,62355">Blanquefort</station>
+	<station lat="46,70211" long="4,40073">Blanzy</station>
+	<station lat="46,69399" long="4,39221">Blanzy-Canal</station>
+	<station lat="45,12794" long="-0,66351">Blaye</station>
+	<station lat="47,33810" long="0,98632">Bléré-la-Croix</station>
+	<station lat="48,72154" long="4,75259">Blesme-Haussignemont</station>
+	<station lat="47,58555" long="1,32353">Blois</station>
+	<station lat="49,33123" long="0,03536">Blonville-sur-Mer-Benerville</station>
+	<station lat="45,74160" long="4,00444">Boën</station>
+	<station lat="49,85845" long="4,76338">Bogny-sur-Meuse</station>
+	<station lat="49,98859" long="3,44263">Bohain</station>
+	<station lat="48,34161" long="2,37879">Boigneville</station>
+	<station lat="48,91373" long="2,27191">Bois-Colombes</station>
+	<station lat="45,90649" long="4,57517">Bois-d'Oingt-Légny</station>
+	<station lat="48,47556" long="2,69199">Bois-le-Roi</station>
+	<station lat="50,21064" long="2,77110">Boisleux</station>
+	<station lat="48,25647" long="1,97296">Boisseaux</station>
+	<station lat="44,78696" long="2,25032">Boisset (Cantal)</station>
+	<station lat="48,52942" long="2,57305">Boissise-le-Roi</station>
+	<station lat="49,07593" long="2,02452">Boissy-l'Aillerie</station>
+	<station lat="49,59170" long="0,48492">Bolbec-Nointot</station>
+	<station lat="44,27151" long="4,70810">Bollène-la-Croisière</station>
+	<station lat="47,85671" long="7,26731">Bollwiller</station>
+	<station lat="48,19858" long="5,13426">Bologne</station>
+	<station lat="42,49778" long="2,09188">Bolquère-Eyne</station>
+	<station lat="48,89385" long="2,47876">Bondy</station>
+	<station lat="47,92703" long="3,54030">Bonnard-Bassou</station>
+	<station lat="48,47709" long="-1,76586">Bonnemain</station>
+	<station lat="48,18630" long="1,38613">Bonneval</station>
+	<station lat="46,07785" long="6,41691">Bonneville</station>
+	<station lat="49,03875" long="1,58131">Bonnières</station>
+	<station lat="46,27000" long="6,36642">Bons-en-Chablais</station>
+	<station lat="45,52246" long="4,21629">Bonson</station>
+	<station lat="49,16730" long="2,36253">Boran-sur-Oise</station>
+	<station lat="44,82582" long="-0,55601">Bordeaux-St-Jean</station>
+	<station lat="44,86664" long="-0,57741">Ravezies</station>
+	<station lat="45,89470" long="-0,79884">Bords</station>
+	<station lat="49,19450" long="2,20688">Bornel-Belle-Église</station>
+	<station lat="47,13778" long="-1,67982">Bouaye</station>
+	<station lat="50,27826" long="3,33197">Bouchain</station>
+	<station lat="43,99236" long="4,18765">Boucoiran</station>
+	<station lat="49,04499" long="2,32323">Bouffemont-Moisselles</station>
+	<station lat="48,85402" long="2,13205">Bougival</station>
+	<station lat="48,85716" long="2,27484">Boulainvilliers</station>
+	<station lat="48,84105" long="2,27185">Boulevard-Victor</station>
+	<station lat="50,72711" long="1,60961">Boulogne-Tintelleries</station>
+	<station lat="50,71561" long="1,61033">Boulogne-Ville</station>
+	<station lat="43,41633" long="6,80834">Boulouris-sur-Mer</station>
+	<station lat="48,53325" long="2,29031">Bouray</station>
+	<station lat="50,95274" long="2,19503">Bourbourg</station>
+	<station lat="48,36032" long="7,13714">Bourg-Bruche</station>
+	<station lat="46,20007" long="5,21513">Bourg-en-Bresse</station>
+	<station lat="47,09437" long="2,39418">Bourges</station>
+	<station lat="45,62753" long="2,56000">Bourg-Lastic-Messeix</station>
+	<station lat="42,43003" long="1,95360">Bourg-Madame</station>
+	<station lat="47,04687" long="-1,95494">Bourgneuf-en-Retz</station>
+	<station lat="45,58373" long="5,27401">Bourgoin-Jallieu</station>
+	<station lat="45,61953" long="6,77146">Bourg-St-Maurice</station>
+	<station lat="49,31750" long="0,83967">Bourgtheroulde-Thuit-Hébert</station>
+	<station lat="46,65148" long="-1,17846">Bournezeau</station>
+	<station lat="48,33267" long="2,69346">Bourron-Marlotte-Grez</station>
+	<station lat="48,76543" long="0,80594">Bourth</station>
+	<station lat="47,05061" long="-1,18351">Boussay-La Bruffière</station>
+	<station lat="43,17964" long="0,97219">Boussens</station>
+	<station lat="48,68098" long="2,53301">Boussy-St-Antoine</station>
+	<station lat="45,52434" long="4,27714">Bouthéon</station>
+	<station lat="48,43491" long="2,37655">Boutigny</station>
+	<station lat="50,57313" long="3,20232">Bouvines</station>
+	<station lat="49,09081" long="4,35360">Bouy</station>
+	<station lat="49,28924" long="6,53253">Bouzonville</station>
+	<station lat="49,84727" long="2,39829">Boves</station>
+	<station lat="43,24383" long="2,11982">Bram</station>
+	<station lat="47,78232" long="-3,19509">Brandérion</station>
+	<station lat="45,41448" long="3,33122">Brassac-les-Mines-Ste-Florine</station>
+	<station lat="43,61510" long="1,23607">Brax-Léguevin</station>
+	<station lat="47,13176" long="5,21183">Brazey-en-Plaine</station>
+	<station lat="49,60357" long="0,41684">Bréauté-Beuzeville</station>
+	<station lat="50,33631" long="3,01355">Brebières-Sud</station>
+	<station lat="43,94432" long="7,51649">Breil-sur-Roya</station>
+	<station lat="48,02883" long="7,10427">Breitenbach (Haut-Rhin)</station>
+	<station lat="48,66907" long="-3,19620">Brélidy-Plouëc</station>
+	<station lat="46,83717" long="-0,49648">Bressuire</station>
+	<station lat="48,38808" long="-4,47892">Brest</station>
+	<station lat="48,14037" long="-1,89764">Breteil</station>
+	<station lat="44,92756" long="1,84420">Bretenoux-Biars</station>
+	<station lat="49,62665" long="2,38411">Breteuil-Embranchement</station>
+	<station lat="48,60624" long="2,30193">Brétigny</station>
+	<station lat="47,38963" long="5,10976">Brétigny-Norges</station>
+	<station lat="48,43293" long="0,89317">Bretoncelles</station>
+	<station lat="49,20317" long="-0,51211">Bretteville-Norrey</station>
+	<station lat="48,57780" long="2,19283">Breuillet-Bruyères-le-Châtel</station>
+	<station lat="48,56481" long="2,17132">Breuillet-Village</station>
+	<station lat="49,30853" long="3,76604">Breuil-Romain</station>
+	<station lat="48,94413" long="1,54302">Bréval</station>
+	<station lat="44,88961" long="6,63263">Briançon</station>
+	<station lat="47,64650" long="2,73370">Briare</station>
+	<station lat="45,86288" long="1,44175">Brignac</station>
+	<station lat="45,67354" long="4,76352">Brignais</station>
+	<station lat="45,26259" long="5,90134">Brignoud</station>
+	<station lat="50,44687" long="1,83174">Brimeux</station>
+	<station lat="46,90852" long="4,20679">Brion-Laizy</station>
+	<station lat="46,17598" long="5,55886">Brion-Montréal-la-Cluse</station>
+	<station lat="49,19635" long="0,71157">Brionne (Eure)</station>
+	<station lat="47,04872" long="-0,18490">Brion-près-Thouet</station>
+	<station lat="45,30069" long="3,37895">Brioude</station>
+	<station lat="48,70200" long="-0,36744">Briouze</station>
+	<station lat="45,15262" long="1,52814">Brive-la-Gaillarde</station>
+	<station lat="48,33336" long="-2,23642">Broons</station>
+	<station lat="48,21712" long="1,16150">Brou</station>
+	<station lat="46,86230" long="4,29499">Broye</station>
+	<station lat="44,88600" long="-0,60894">Bruges</station>
+	<station lat="48,73218" long="7,70038">Brumath</station>
+	<station lat="50,27818" long="3,14636">Brunémont</station>
+	<station lat="48,69947" long="2,50644">Brunoy</station>
+	<station lat="47,71979" long="7,31414">Brunstatt</station>
+	<station lat="48,20493" long="6,71888">Bruyères (Vosges)</station>
+	<station lat="49,15520" long="2,32707">Bruyères-sur-Oise</station>
+	<station lat="48,02852" long="-1,75199">Bruz</station>
+	<station lat="48,92556" long="1,44317">Bueil</station>
+	<station lat="45,60047" long="1,92454">Bugeat</station>
+	<station lat="49,96510" long="2,59907">Buire-sur-l'Ancre</station>
+	<station lat="50,44898" long="2,73222">Bully-Grenay</station>
+	<station lat="48,37041" long="2,38656">Buno-Gironville</station>
+	<station lat="50,03947" long="3,44589">Busigny</station>
+	<station lat="45,21156" long="-0,36804">Bussac</station>
+	<station lat="46,12309" long="2,02311">Busseau-sur-Creuse</station>
+	<station lat="45,60759" long="1,02607">Bussière-Galant</station>
+	<station lat="43,14831" long="-0,45604">Buzy-en-Béarn</station>
+	<station lat="47,11827" long="5,85219">Byans</station>
+	<station lat="44,75223" long="-0,53791">Cadaujac</station>
+	<station lat="49,17655" long="-0,34826">Caen</station>
+	<station lat="50,85057" long="1,81133">Caffiers</station>
+	<station lat="43,65715" long="7,14802">Cagnes-sur-Mer</station>
+	<station lat="44,44916" long="1,43325">Cahors</station>
+	<station lat="50,90259" long="1,81129">Calais-Fréthun</station>
+	<station lat="50,95343" long="1,85139">Calais-Ville</station>
+	<station lat="48,40690" long="-3,41866">Callac</station>
+	<station lat="50,48307" long="2,48183">Calonne-Ricouart</station>
+	<station lat="43,36523" long="-1,39616">Cambo-les-Bains</station>
+	<station lat="50,17700" long="3,24129">Cambrai</station>
+	<station lat="44,42213" long="3,06370">Campagnac-St-Geniez</station>
+	<station lat="42,91625" long="2,20427">Campagne</station>
+	<station lat="43,55416" long="7,01862">Cannes</station>
+	<station lat="43,54912" long="6,98573">Cannes-la-Bocca</station>
+	<station lat="50,31243" long="3,12169">Cantin</station>
+	<station lat="43,72072" long="7,39364">Cap-d'Ail</station>
+	<station lat="44,57896" long="2,07709">Capdenac</station>
+	<station lat="43,76045" long="7,45723">Cap-Martin-Roquebrune</station>
+	<station lat="43,10358" long="0,32954">Capvern</station>
+	<station lat="49,06779" long="-1,24618">Carantilly-Marigny</station>
+	<station lat="43,29838" long="1,21241">Carbonne</station>
+	<station lat="43,21817" long="2,35243">Carcassonne</station>
+	<station lat="49,30181" long="-1,24209">Carentan</station>
+	<station lat="48,27598" long="-3,56395">Carhaix</station>
+	<station lat="49,62852" long="5,16847">Carignan</station>
+	<station lat="44,04861" long="2,15199">Carmaux</station>
+	<station lat="48,34030" long="-3,49070">Carnoët-Locarn</station>
+	<station lat="43,76124" long="7,48090">Carnolès</station>
+	<station lat="43,29746" long="6,18703">Carnoules</station>
+	<station lat="43,33684" long="5,15412">Carry-le-Rouet</station>
+	<station lat="45,78843" long="4,72981">Casino-Lacroix-Laval</station>
+	<station lat="50,78776" long="2,46003">Cassel</station>
+	<station lat="43,23399" long="5,55316">Cassis</station>
+	<station lat="43,31206" long="1,95010">Castelnaudary</station>
+	<station lat="43,78616" long="1,34155">Castelnau-d'Estrétefonds</station>
+	<station lat="44,04022" long="1,11450">Castelsarrasin</station>
+	<station lat="44,85716" long="-0,04069">Castillon</station>
+	<station lat="43,59916" long="2,23122">Castres (Tarn)</station>
+	<station lat="50,12811" long="3,33372">Cattenières</station>
+	<station lat="44,84295" long="-0,62753">Caudéran-Mérignac</station>
+	<station lat="44,58045" long="-0,14469">Caudrot</station>
+	<station lat="50,11138" long="3,40963">Caudry</station>
+	<station lat="48,28436" long="-2,15580">Caulnes</station>
+	<station lat="44,16231" long="1,53346">Caussade (Tarn-et-Garonne)</station>
+	<station lat="43,83470" long="5,04374">Cavaillon</station>
+	<station lat="45,10418" long="-0,38137">Cavignac</station>
+	<station lat="43,21290" long="1,08278">Cazères-sur-Garonne</station>
+	<station lat="43,81065" long="3,15888">Ceilhes-Roqueredonde</station>
+	<station lat="48,52470" long="6,15727">Ceintrey</station>
+	<station lat="44,85599" long="-0,53356">Cenon</station>
+	<station lat="42,44277" long="3,16553">Cerbère</station>
+	<station lat="47,98716" long="1,88470">Cercottes</station>
+	<station lat="46,85781" long="3,64500">Cercy-la-Tour</station>
+	<station lat="48,92013" long="-1,42743">Cérences</station>
+	<station lat="49,04766" long="2,01078">Cergy-le-Haut</station>
+	<station lat="49,03665" long="2,07965">Cergy-Préfecture</station>
+	<station lat="49,04985" long="2,03348">Cergy-St-Christophe</station>
+	<station lat="46,81732" long="-0,66748">Cerizay</station>
+	<station lat="47,80171" long="7,17394">Cernay (Haut-Rhin)</station>
+	<station lat="48,98528" long="2,25702">Cernay (Val-d'Oise)</station>
+	<station lat="44,63298" long="-0,34112">Cérons</station>
+	<station lat="45,56102" long="5,37544">Cessieu</station>
+	<station lat="48,56587" long="2,59417">Cesson</station>
+	<station lat="48,11237" long="-1,60250">Cesson-Sévigné-Halte</station>
+	<station lat="46,18346" long="5,32582">Ceyzériat</station>
+	<station lat="47,98559" long="3,33814">Cézy</station>
+	<station lat="45,87256" long="0,71477">Chabanais</station>
+	<station lat="46,62656" long="1,50786">Chabenet</station>
+	<station lat="45,43778" long="5,42840">Chabons</station>
+	<station lat="47,25666" long="1,64684">Chabris</station>
+	<station lat="46,90735" long="4,74918">Chagny</station>
+	<station lat="48,81428" long="3,15191">Chailly-Boissy-Le Châtel</station>
+	<station lat="47,87749" long="1,78368">Chaingy-Fourneaux-Plage</station>
+	<station lat="45,27068" long="0,04339">Chalais</station>
+	<station lat="46,84381" long="-1,87155">Challans</station>
+	<station lat="47,34291" long="-0,74358">Chalonnes</station>
+	<station lat="48,95547" long="4,34896">Châlons-en-Champagne</station>
+	<station lat="46,78103" long="4,84316">Chalon-sur-Saône</station>
+	<station lat="45,20556" long="3,99211">Chamalières-sur-Loire</station>
+	<station lat="48,51466" long="2,21607">Chamarande</station>
+	<station lat="48,54574" long="3,28692">Champbenoist-Poigny</station>
+	<station lat="45,57093" long="5,92054">Chambéry-Challes-les-Eaux</station>
+	<station lat="46,31381" long="2,70150">Chamblet</station>
+	<station lat="49,16357" long="2,24037">Chambly</station>
+	<station lat="44,30069" long="3,97937">Chamborigaud</station>
+	<station lat="47,18165" long="0,96543">Chambourg</station>
+	<station lat="45,98207" long="4,50719">Chamelet</station>
+	<station lat="45,92256" long="6,87409">Chamonix-Mont-Blanc</station>
+	<station lat="45,55760" long="6,20567">Chamousset</station>
+	<station lat="48,01954" long="0,33456">Champagné</station>
+	<station lat="49,13574" long="2,24208">Champagne-sur-Oise</station>
+	<station lat="48,40634" long="2,79977">Champagne-sur-Seine</station>
+	<station lat="47,70315" long="6,70123">Champagney</station>
+	<station lat="46,74939" long="5,91016">Champagnole</station>
+	<station lat="48,97974" long="2,29175">Champ-de-Courses-d'Enghien</station>
+	<station lat="48,73507" long="6,16936">Champigneulles</station>
+	<station lat="48,32417" long="3,13090">Champigny-sur-Yonne</station>
+	<station lat="48,85869" long="2,29204">Champ-de-Mars-Tour-Eiffel</station>
+	<station lat="47,73829" long="3,60355">Champs-St-Bris</station>
+	<station lat="47,41021" long="-0,86789">Champtocé-sur-Loire</station>
+	<station lat="44,47338" long="3,34496">Chanac</station>
+	<station lat="48,95930" long="3,02632">Changis-St-Jean</station>
+	<station lat="48,97029" long="2,02723">Chanteloup-les-Vignes</station>
+	<station lat="47,19671" long="-1,59596">Chantenay</station>
+	<station lat="46,72780" long="3,17237">Chantenay-St-Imbert</station>
+	<station lat="49,18698" long="2,45957">Chantilly-Gouvieux</station>
+	<station lat="46,68997" long="-1,05461">Chantonnay</station>
+	<station lat="44,83787" long="3,74165">Chapeauroux</station>
+	<station lat="45,69849" long="4,76451">Chaponost</station>
+	<station lat="49,06881" long="2,14056">Chaponval</station>
+	<station lat="45,78226" long="4,73574">Charbonnières-les-Bains</station>
+	<station lat="49,76788" long="4,72513">Charleville-Mézières</station>
+	<station lat="48,37855" long="6,30193">Charmes (Vosges)</station>
+	<station lat="49,16299" long="1,93670">Chars</station>
+	<station lat="48,44881" long="1,48134">Chartres</station>
+	<station lat="48,48690" long="2,69597">Chartrettes</station>
+	<station lat="46,65180" long="0,37282">Chasseneuil (Vienne)</station>
+	<station lat="45,82345" long="0,45207">Chasseneuil-sur-Bonnieure</station>
+	<station lat="44,55397" long="3,83969">Chasseradès</station>
+	<station lat="45,58256" long="4,79550">Chasse-sur-Rhône</station>
+	<station lat="44,06082" long="5,99713">Château-Arnoux-St-Auban</station>
+	<station lat="48,10616" long="-1,40529">Châteaubourg</station>
+	<station lat="47,71247" long="-1,37269">Châteaubriant</station>
+	<station lat="47,68305" long="0,41582">Château-du-Loir</station>
+	<station lat="48,07353" long="1,33843">Châteaudun</station>
+	<station lat="48,14038" long="1,91204">Château-Gaillard</station>
+	<station lat="45,24471" long="0,68845">Château-l'Évêque</station>
+	<station lat="48,20107" long="-4,09485">Châteaulin-Embranchement</station>
+	<station lat="45,76056" long="1,64525">Châteauneuf-Bujaleuf</station>
+	<station lat="45,59998" long="-0,05020">Châteauneuf-sur-Charente</station>
+	<station lat="46,85577" long="2,31164">Châteauneuf-sur-Cher</station>
+	<station lat="47,58829" long="0,90160">Château-Renault</station>
+	<station lat="44,60968" long="6,53017">Châteauroux</station>
+	<station lat="49,03791" long="3,40941">Château-Thierry</station>
+	<station lat="46,07857" long="-1,09120">Châtelaillon</station>
+	<station lat="48,53320" long="-2,97415">Châtelaudren-Plouagat</station>
+	<station lat="47,53766" long="3,63508">Châtel-Censoir</station>
+	<station lat="46,81867" long="0,54959">Châtellerault</station>
+	<station lat="48,30755" long="6,38718">Châtel-Nomexy</station>
+	<station lat="45,87504" long="4,64527">Châtillon-d'Azergues</station>
+	<station lat="46,20738" long="4,34571">Chauffailles</station>
+	<station lat="47,08754" long="5,25505">Chaugey</station>
+	<station lat="49,80709" long="2,80177">Chaulnes</station>
+	<station lat="48,10944" long="5,13443">Chaumont</station>
+	<station lat="49,26141" long="1,87173">Chaumont-en-Vexin</station>
+	<station lat="49,61047" long="3,22266">Chauny</station>
+	<station lat="46,72597" long="-0,93116">Chavagnes-les-Redoux</station>
+	<station lat="48,81183" long="2,18764">Chaville-Rive-Droite</station>
+	<station lat="48,80517" long="2,18951">Chaville-Rive-Gauche</station>
+	<station lat="48,79983" long="2,18318">Chaville-Vélizy</station>
+	<station lat="45,87375" long="4,72648">Chazay-Marcilly</station>
+	<station lat="45,92650" long="6,71962">Chedde-Voie-Étroite</station>
+	<station lat="49,38432" long="-1,34428">Chef-du-Pont-Ste-Mère</station>
+	<station lat="46,89283" long="4,67600">Cheilly-lès-Maranges</station>
+	<station lat="48,87427" long="2,58320">Chelles-Gournay</station>
+	<station lat="47,21776" long="-0,73231">Chemillé</station>
+	<station lat="47,89741" long="3,55430">Chemilly-Appoigny</station>
+	<station lat="48,74805" long="2,31326">Chemin-d'Antony</station>
+	<station lat="48,87747" long="2,55268">Chenay-Gagny</station>
+	<station lat="48,51924" long="6,63303">Chenevières</station>
+	<station lat="47,33060" long="1,06596">Chenonceaux-Chisseaux</station>
+	<station lat="47,94672" long="3,52643">Cheny</station>
+	<station lat="50,06818" long="1,63518">Chepy-Valines</station>
+	<station lat="49,63445" long="-1,61839">Cherbourg</station>
+	<station lat="45,88546" long="4,62229">Chessy</station>
+	<station lat="48,20890" long="-1,63115">Chevaigné</station>
+	<station lat="48,52427" long="5,11183">Chevillon</station>
+	<station lat="48,02667" long="1,87911">Chevilly</station>
+	<station lat="47,62166" long="6,92074">Chèvremont</station>
+	<station lat="49,33727" long="2,68293">Chevrières</station>
+	<station lat="48,99189" long="3,36438">Chézy-sur-Marne</station>
+	<station lat="48,69997" long="2,30952">Chilly-Mazarin</station>
+	<station lat="45,80331" long="5,84668">Chindrieux</station>
+	<station lat="47,16306" long="0,25205">Chinon</station>
+	<station lat="44,52288" long="3,26450">Chirac</station>
+	<station lat="47,33499" long="1,13485">Chissay-en-Touraine</station>
+	<station lat="50,53820" long="2,56493">Chocques</station>
+	<station lat="49,44232" long="2,86228">Choisy-au-Bac</station>
+	<station lat="48,76400" long="2,41118">Choisy-le-Roi</station>
+	<station lat="47,06631" long="-0,87047">Cholet</station>
+	<station lat="44,54571" long="6,27207">Chorges</station>
+	<station lat="47,52052" long="1,24799">Chouzy</station>
+	<station lat="47,34480" long="0,46008">Cinq-Mars</station>
+	<station lat="43,30537" long="1,52050">Cintegabelle</station>
+	<station lat="49,27039" long="2,36034">Cires-lès-Mello</station>
+	<station lat="46,60439" long="4,30070">Ciry-le-Noble</station>
+	<station lat="45,86009" long="4,71908">Civrieux-d'Azergues</station>
+	<station lat="46,21357" long="5,45386">Cize-Bolozon</station>
+	<station lat="49,54358" long="3,57638">Clacy-Mons</station>
+	<station lat="48,81417" long="2,27419">Clamart</station>
+	<station lat="47,46705" long="3,52058">Clamecy</station>
+	<station lat="44,82702" long="5,60472">Clelles-Mens</station>
+	<station lat="49,59955" long="1,10645">Clères</station>
+	<station lat="49,38545" long="2,41752">Clermont-de-l'Oise</station>
+	<station lat="49,10660" long="5,06526">Clermont-en-Argonne</station>
+	<station lat="45,77857" long="3,10052">Clermont-Ferrand</station>
+	<station lat="45,76785" long="3,13264">Clermont-La Pardieu</station>
+	<station lat="47,39637" long="6,49221">Clerval</station>
+	<station lat="48,89771" long="2,29727">Clichy-Levallois</station>
+	<station lat="45,47850" long="-0,50210">Clion-sur-Seugne</station>
+	<station lat="47,08585" long="-1,28675">Clisson</station>
+	<station lat="47,99225" long="1,24340">Cloyes</station>
+	<station lat="46,06148" long="6,58277">Cluses</station>
+	<station lat="43,18178" long="-0,24181">Coarraze-Nay</station>
+	<station lat="48,48044" long="-3,27372">Coat-Guégan</station>
+	<station lat="50,53809" long="3,21956">Cobrieux</station>
+	<station lat="45,68446" long="-0,32616">Cognac</station>
+	<station lat="48,74403" long="1,92181">Coignières</station>
+	<station lat="42,52306" long="3,08302">Collioure</station>
+	<station lat="47,22086" long="5,26615">Collonges (Côte-d'Or)</station>
+	<station lat="45,82884" long="4,84636">Collonges-Fontaines</station>
+	<station lat="48,07320" long="7,34697">Colmar</station>
+	<station lat="48,08576" long="7,33399">Colmar-Mésanges</station>
+	<station lat="48,08211" long="7,34377">Colmar-St-Joseph</station>
+	<station lat="48,92389" long="2,25916">Colombes</station>
+	<station lat="47,45560" long="6,68932">Colombier-Fontaine</station>
+	<station lat="43,60327" long="1,33411">Colomiers</station>
+	<station lat="43,61643" long="1,31393">Colomiers-Lycée-International</station>
+	<station lat="48,31464" long="7,13088">Colroy-Lubine</station>
+	<station lat="48,41598" long="-1,72754">Combourg</station>
+	<station lat="48,66746" long="2,54797">Combs-la-Ville-Quincy</station>
+	<station lat="50,76111" long="3,01013">Comines-France</station>
+	<station lat="46,29550" long="2,74178">Commentry</station>
+	<station lat="48,76575" long="5,58892">Commercy</station>
+	<station lat="48,99160" long="2,66521">Compans</station>
+	<station lat="49,42273" long="2,82445">Compiègne</station>
+	<station lat="48,96234" long="0,93897">Conches</station>
+	<station lat="45,12671" long="1,22665">Condat-le-Lardin</station>
+	<station lat="48,38351" long="0,84897">Condé-sur-Huisne</station>
+	<station lat="48,98831" long="2,07468">Conflans-Fin-d'Oise</station>
+	<station lat="49,16666" long="5,86811">Conflans-Jarny</station>
+	<station lat="48,99678" long="2,09880">Conflans-Sainte-Honorine</station>
+	<station lat="48,12716" long="-0,01107">Conlie</station>
+	<station lat="48,07413" long="0,48764">Connerré-Beillé</station>
+	<station lat="48,17928" long="5,88997">Contrexéville</station>
+	<station lat="50,34340" long="3,04112">Corbehem</station>
+	<station lat="48,61464" long="2,47399">Corbeil-Essonnes</station>
+	<station lat="49,91199" long="2,50005">Corbie</station>
+	<station lat="47,25452" long="3,67740">Corbigny</station>
+	<station lat="48,19841" long="6,87750">Corcieux-Vanémont</station>
+	<station lat="49,25536" long="3,21605">Corcy</station>
+	<station lat="47,30202" long="-1,84617">Cordemais</station>
+	<station lat="47,05115" long="4,34297">Cordesse-Igornay</station>
+	<station lat="44,06701" long="1,89999">Cordes-Vindrac</station>
+	<station lat="47,08425" long="4,91721">Corgoloin</station>
+	<station lat="48,96852" long="2,19345">Cormeilles-en-Parisis</station>
+	<station lat="47,26236" long="0,83383">Cormery</station>
+	<station lat="45,21528" long="1,69742">Cornil</station>
+	<station lat="50,41490" long="2,88478">Coron-de-Méricourt</station>
+	<station lat="47,98562" long="-1,57547">Corps-Nuds</station>
+	<station lat="45,32934" long="1,88039">Corrèze</station>
+	<station lat="48,49601" long="-2,14141">Corseul-Languenan</station>
+	<station lat="47,41399" long="2,93204">Cosne-sur-Loire</station>
+	<station lat="49,55563" long="3,77588">Coucy-les-Eppes</station>
+	<station lat="51,01886" long="2,37482">Coudekerque-Branche</station>
+	<station lat="48,56622" long="2,49227">Coudray-Montceaux</station>
+	<station lat="47,22217" long="-1,72469">Couéron</station>
+	<station lat="43,15518" long="2,31694">Couffoulens-Leuc</station>
+	<station lat="48,88281" long="2,85426">Couilly-St-Germain</station>
+	<station lat="42,94260" long="2,24834">Couiza-Montazels</station>
+	<station lat="47,52681" long="3,54682">Coulanges-sur-Yonne</station>
+	<station lat="48,92359" long="-0,09849">Couliboeuf</station>
+	<station lat="48,80765" long="3,08182">Coulommiers</station>
+	<station lat="48,89786" long="2,24778">Courbevoie</station>
+	<station lat="47,23783" long="0,86763">Courcay-Tauxigny</station>
+	<station lat="50,16876" long="2,78775">Courcelles-le-Comte</station>
+	<station lat="49,06352" long="6,31099">Courcelles-sur-Nied</station>
+	<station lat="49,32916" long="4,01496">Courcy-Brimont</station>
+	<station lat="50,99691" long="2,29306">Courghain</station>
+	<station lat="43,23355" long="3,05068">Coursan</station>
+	<station lat="48,07369" long="1,12660">Courtalain-St-Pellerin</station>
+	<station lat="44,09031" long="4,88843">Courthézon</station>
+	<station lat="48,45157" long="1,23482">Courville-sur-Eure</station>
+	<station lat="46,53514" long="5,38686">Cousance</station>
+	<station lat="45,50797" long="1,31028">Coussac-Bonneval</station>
+	<station lat="49,04281" long="-1,44127">Coutances</station>
+	<station lat="45,03668" long="-0,13141">Coutras</station>
+	<station lat="44,83663" long="0,70290">Couze</station>
+	<station lat="45,84843" long="4,82913">Couzon-au-Mont-d'Or</station>
+	<station lat="49,25635" long="2,40548">Cramoisy</station>
+	<station lat="44,52297" long="2,27117">Cransac</station>
+	<station lat="47,67981" long="3,68089">Cravant-Bazarnes</station>
+	<station lat="46,24608" long="4,78406">Crêches-sur-Saône</station>
+	<station lat="48,85966" long="2,90564">Crécy-en-Brie-La Chapelle</station>
+	<station lat="49,26335" long="2,46784">Creil</station>
+	<station lat="45,80370" long="4,89265">Crépieux-la-Pape</station>
+	<station lat="49,62352" long="3,51666">Crépy-Couvron</station>
+	<station lat="49,23122" long="2,88844">Crépy-en-Valois</station>
+	<station lat="44,72982" long="5,01621">Crest</station>
+	<station lat="44,85563" long="0,58144">Creysse-Mouleydier</station>
+	<station lat="48,16752" long="-0,06510">Crissé</station>
+	<station lat="44,70967" long="-0,81591">Croix-d'Hins</station>
+	<station lat="50,68651" long="3,15068">Croix-l'Allumette</station>
+	<station lat="43,40873" long="5,01973">Croix-Sainte</station>
+	<station lat="50,67858" long="3,13773">Croix-Wasquehal</station>
+	<station lat="43,66025" long="7,16622">Cros-de-Cagnes</station>
+	<station lat="49,40381" long="3,35670">Crouy</station>
+	<station lat="49,09155" long="3,06290">Crouy-sur-Ourcq</station>
+	<station lat="44,97295" long="-0,45923">Cubzac-les-Ponts</station>
+	<station lat="43,23773" long="6,08604">Cuers-Pierrefeu</station>
+	<station lat="47,05769" long="-1,25170">Cugand-la-Bernardière</station>
+	<station lat="50,52207" long="2,74521">Cuinchy</station>
+	<station lat="47,80974" long="5,44302">Culmont-Chalindrey</station>
+	<station lat="45,84276" long="5,77849">Culoz</station>
+	<station lat="50,56058" long="3,21130">Cysoing</station>
+	<station lat="48,54273" long="7,53269">Dachstein</station>
+	<station lat="48,32120" long="7,43551">Dambach-la-Ville</station>
+	<station lat="48,09365" long="5,65631">Damblain</station>
+	<station lat="43,65623" long="1,97431">Damiatte-St-Paul</station>
+	<station lat="49,03245" long="2,69951">Dammartin-Juilly-St-Mard</station>
+	<station lat="46,93782" long="0,60878">Dangé</station>
+	<station lat="47,62741" long="7,12390">Dannemarie</station>
+	<station lat="47,20376" long="5,87362">Dannemarie-Velesmes</station>
+	<station lat="50,57621" long="1,61484">Dannes-Camiers</station>
+	<station lat="49,89905" long="2,45884">Daours</station>
+	<station lat="45,81457" long="4,76167">Dardilly-le-Jubin</station>
+	<station lat="45,79590" long="4,76002">Dardilly-les-Mouilles</station>
+	<station lat="45,14231" long="3,73615">Darsac</station>
+	<station lat="43,72081" long="-1,05051">Dax</station>
+	<station lat="46,83745" long="3,46752">Decize</station>
+	<station lat="44,65350" long="1,34016">Dégagnac</station>
+	<station lat="47,29287" long="6,19995">Deluz</station>
+	<station lat="50,33479" long="3,38810">Denain</station>
+	<station lat="49,70273" long="3,69204">Dercy-Froidmont</station>
+	<station lat="48,75170" long="7,46539">Dettwiller</station>
+	<station lat="48,97561" long="2,33778">Deuil-Montmagny</station>
+	<station lat="50,71643" long="2,99380">Deûlémont</station>
+	<station lat="49,87955" long="4,70702">Deville</station>
+	<station lat="48,39783" long="6,12632">Diarville</station>
+	<station lat="44,75813" long="5,36294">Die</station>
+	<station lat="48,94100" long="7,18478">Diemeringen</station>
+	<station lat="49,91679" long="1,08117">Dieppe</station>
+	<station lat="48,84367" long="6,07129">Dieulouard</station>
+	<station lat="43,86526" long="1,27601">Dieupentale</station>
+	<station lat="46,48547" long="3,99296">Digoin</station>
+	<station lat="47,32309" long="5,05516">Dijon-Porte-Neuve</station>
+	<station lat="47,32350" long="5,02588">Dijon-Ville</station>
+	<station lat="48,45697" long="-2,05298">Dinan</station>
+	<station lat="48,35013" long="-1,68583">Dingé</station>
+	<station lat="46,53074" long="3,75250">Diou (Allier)</station>
+	<station lat="48,39260" long="-4,28559">Dirinon</station>
+	<station lat="46,70374" long="0,42113">Dissay (Vienne)</station>
+	<station lat="49,33512" long="6,26022">Distroff</station>
+	<station lat="49,28236" long="-0,10986">Dives-Cabourg</station>
+	<station lat="49,28920" long="-0,10407">Dives-sur-Mer-Port-Guillaume</station>
+	<station lat="48,14334" long="6,61017">Docelles-Cheniménil</station>
+	<station lat="48,54298" long="-1,75046">Dol</station>
+	<station lat="47,09641" long="5,48797">Dole-Ville</station>
+	<station lat="48,62335" long="6,34354">Dombasle-sur-Meurthe</station>
+	<station lat="46,76106" long="5,59763">Domblans-Voiteur</station>
+	<station lat="48,10776" long="0,02602">Domfront (Sarthe)</station>
+	<station lat="45,84690" long="4,73196">Dommartin-Lissieu</station>
+	<station lat="49,79799" long="2,39189">Dommartin-Remiencourt</station>
+	<station lat="49,03288" long="2,33785">Domont</station>
+	<station lat="50,14621" long="3,87139">Dompierre (Nord)</station>
+	<station lat="46,52643" long="3,67544">Dompierre-Sept-Fons</station>
+	<station lat="49,69813" long="4,87458">Donchery</station>
+	<station lat="47,30884" long="-2,07253">Donges</station>
+	<station lat="48,36593" long="5,14842">Donjeux</station>
+	<station lat="50,55189" long="2,91415">Don-Sainghin</station>
+	<station lat="44,44276" long="4,70454">Donzère</station>
+	<station lat="48,14765" long="2,76253">Dordives</station>
+	<station lat="48,52429" long="7,49283">Dorlisheim</station>
+	<station lat="49,07925" long="3,64174">Dormans</station>
+	<station lat="50,37329" long="3,09077">Douai</station>
+	<station lat="48,53354" long="2,01016">Dourdan</station>
+	<station lat="48,53556" long="1,99694">Dourdan-la-Forêt</station>
+	<station lat="50,43153" long="2,98579">Dourges</station>
+	<station lat="45,07936" long="0,41703">Douzillac</station>
+	<station lat="47,00837" long="4,34350">Dracy-Saint-Loup</station>
+	<station lat="48,93252" long="2,45561">Drancy</station>
+	<station lat="43,75962" long="7,31681">Drap-Cantaron</station>
+	<station lat="47,48182" long="-2,05032">Dreffeac</station>
+	<station lat="49,91514" long="2,22810">Dreuil-lès-Amiens</station>
+	<station lat="48,73122" long="1,37065">Dreux</station>
+	<station lat="48,76590" long="7,94738">Drusenheim</station>
+	<station lat="47,30680" long="0,53547">Druye</station>
+	<station lat="51,03464" long="2,36454">Dunkerque</station>
+	<station lat="48,54405" long="7,58708">Duppigheim</station>
+	<station lat="45,79542" long="3,04883">Durtol-Nohanent</station>
+	<station lat="48,54559" long="7,56563">Duttlenheim</station>
+	<station lat="50,73086" long="2,40881">Ebblinghem</station>
+	<station lat="48,30881" long="7,49271">Ebersheim</station>
+	<station lat="49,27482" long="6,41135">Ebersviller</station>
+	<station lat="45,15313" long="5,71913">Echirolles</station>
+	<station lat="47,82401" long="0,26940">Écommoy</station>
+	<station lat="48,71494" long="-0,12113">Écouché</station>
+	<station lat="49,02276" long="2,36290">Écouen-Ézanville</station>
+	<station lat="47,50387" long="-0,51962">Écouflant</station>
+	<station lat="45,76596" long="4,77969">Écully-la-Demi-Lune</station>
+	<station lat="45,40232" long="2,06515">Égletons</station>
+	<station lat="48,58241" long="2,22221">Égly</station>
+	<station lat="46,44043" long="1,55203">Éguzon</station>
+	<station lat="48,38231" long="7,44986">Eichhoffen</station>
+	<station lat="48,50311" long="6,39275">Einvaux</station>
+	<station lat="49,30348" long="1,00926">Elbeuf-St-Aubin</station>
+	<station lat="42,59736" long="2,96353">Elne</station>
+	<station lat="48,08623" long="6,60032">Éloyes</station>
+	<station lat="44,56686" long="6,49626">Embrun</station>
+	<station lat="48,80666" long="2,61740">Émerainville-Pontault-Combault</station>
+	<station lat="49,01604" long="7,33377">Enchenberg</station>
+	<station lat="48,97353" long="2,30614">Enghien-les-Bains</station>
+	<station lat="50,54985" long="3,15837">Ennevelin</station>
+	<station lat="48,54737" long="7,63001">Entzheim</station>
+	<station lat="46,24486" long="-0,58163">Épannes</station>
+	<station lat="46,22689" long="0,23591">Épanvilliers</station>
+	<station lat="49,04652" long="3,96024">Épernay</station>
+	<station lat="48,60509" long="1,68168">Épernon</station>
+	<station lat="48,36356" long="7,44982">Epfig</station>
+	<station lat="45,45676" long="6,29253">Épierre-St-Léger</station>
+	<station lat="48,17758" long="6,44141">Épinal</station>
+	<station lat="48,66934" long="2,33224">Épinay-sur-Orge</station>
+	<station lat="48,95408" long="2,30237">Épinay-sur-Seine</station>
+	<station lat="48,95849" long="2,32797">Épinay-Villetaneuse</station>
+	<station lat="49,05550" long="2,12346">Épluches</station>
+	<station lat="48,96329" long="1,80928">Épône-Mézières</station>
+	<station lat="49,56679" long="0,22425">Épouville</station>
+	<station lat="49,01825" long="2,09097">Éragny-Neuville</station>
+	<station lat="48,98054" long="2,27276">Ermont-Eaubonne</station>
+	<station lat="48,99105" long="2,26314">Ermont-Halte</station>
+	<station lat="42,44626" long="2,02761">Err</station>
+	<station lat="48,42286" long="7,63810">Erstein</station>
+	<station lat="48,90314" long="2,81060">Esbly</station>
+	<station lat="43,51682" long="1,54238">Escalquens</station>
+	<station lat="50,19254" long="3,27636">Escaudoeuvres</station>
+	<station lat="49,21251" long="2,17081">Esches</station>
+	<station lat="42,93582" long="2,21803">Espéraza</station>
+	<station lat="50,89039" long="2,41202">Esquelbecq</station>
+	<station lat="48,60618" long="2,46368">Essonnes-Robinson</station>
+	<station lat="42,46301" long="2,02327">Estavar</station>
+	<station lat="49,43787" long="2,64266">Estrées-St-Denis</station>
+	<station lat="45,54033" long="4,86797">Estressin</station>
+	<station lat="47,28412" long="0,78157">Esvres</station>
+	<station lat="49,20771" long="5,63949">Étain</station>
+	<station lat="49,56080" long="0,33055">Étainhus-St-Romain</station>
+	<station lat="47,15585" long="6,27097">Étalans</station>
+	<station lat="48,43686" long="2,15900">Étampes</station>
+	<station lat="46,86802" long="4,18363">Étang</station>
+	<station lat="50,51692" long="1,64352">Étaples-Le Touquet</station>
+	<station lat="48,13807" long="3,28984">Étigny-Véron</station>
+	<station lat="48,36667" long="6,87704">Étival-Clairefontaine</station>
+	<station lat="48,49364" long="2,19445">Étréchy</station>
+	<station lat="47,65681" long="-0,46065">Étriché-Châteauneuf</station>
+	<station lat="50,05430" long="1,41691">Eu</station>
+	<station lat="50,04882" long="1,42551">Eu-la-Mouillette</station>
+	<station lat="48,58290" long="5,04489">Eurville</station>
+	<station lat="46,39760" long="6,57715">Évian-les-Bains</station>
+	<station lat="49,01833" long="1,14824">Évreux-Normandie</station>
+	<station lat="48,15547" long="-0,39719">Évron</station>
+	<station lat="48,63484" long="2,45182">Évry</station>
+	<station lat="48,62584" long="2,42960">Évry-Courcouronnes</station>
+	<station lat="45,88638" long="0,66680">Exideuil-sur-Vienne</station>
+	<station lat="45,64515" long="2,46058">Eygurande-Merlines</station>
+	<station lat="45,73963" long="1,74024">Eymoutiers-Lac-de-Vassivière</station>
+	<station lat="43,72212" long="7,35696">Eze</station>
+	<station lat="44,63738" long="-0,96575">Facture Biganos</station>
+	<station lat="49,76756" long="2,04356">Famechon</station>
+	<station lat="50,35769" long="2,83114">Farbus</station>
+	<station lat="49,11809" long="6,86159">Farébersviller</station>
+	<station lat="48,80855" long="2,99341">Faremoutiers-Pommeuse</station>
+	<station lat="49,08801" long="6,90817">Farschviller</station>
+	<station lat="47,36692" long="1,74073">Faubourg-d'Orléans</station>
+	<station lat="43,40446" long="1,28248">Fauga</station>
+	<station lat="49,04568" long="6,60395">Faulquemont</station>
+	<station lat="49,75947" long="0,37390">Fécamp</station>
+	<station lat="48,49079" long="7,67221">Fegersheim-Lipsheim</station>
+	<station lat="47,89733" long="6,98729">Fellering</station>
+	<station lat="45,88651" long="2,16947">Felletin</station>
+	<station lat="43,68407" long="1,40155">Fenouillet-St-Alban</station>
+	<station lat="50,02374" long="4,72575">Fépin</station>
+	<station lat="49,20852" long="3,50402">Fère-en-Tardenois</station>
+	<station lat="48,09663" long="2,77221">Ferrières-Fontenay</station>
+	<station lat="50,06485" long="1,60491">Feuquerolles</station>
+	<station lat="49,65444" long="1,83118">Feuquières-Broquiers</station>
+	<station lat="50,06339" long="1,58898">Feuquières-Fressenneville</station>
+	<station lat="45,74475" long="4,23068">Feurs</station>
+	<station lat="45,66605" long="4,85307">Feyzin</station>
+	<station lat="44,60288" long="2,03769">Figeac</station>
+	<station lat="45,39163" long="4,28541">Firminy</station>
+	<station lat="49,31084" long="3,68232">Fismes</station>
+	<station lat="49,71872" long="3,19061">Flavy-le-Martel</station>
+	<station lat="47,69845" long="7,30421">Flaxlanden</station>
+	<station lat="48,74438" long="-0,57367">Flers</station>
+	<station lat="45,84466" long="4,66054">Fleurieux-sur-l'Arbresle</station>
+	<station lat="46,45084" long="4,88406">Fleurville-Pont-de-Vaux</station>
+	<station lat="47,36285" long="3,61517">Flez-Cuzy-Tannay</station>
+	<station lat="47,17603" long="2,16206">Foëcy</station>
+	<station lat="42,96966" long="1,60699">Foix</station>
+	<station lat="48,82981" long="-1,40755">Folligny</station>
+	<station lat="43,90733" long="4,20663">Fons-St-Mamert</station>
+	<station lat="48,41621" long="2,72679">Fontainebleau-Avon</station>
+	<station lat="48,48712" long="2,75323">Fontaine-le-Port</station>
+	<station lat="45,38756" long="-0,38396">Fontaines-d'Ozillac</station>
+	<station lat="46,85127" long="4,77495">Fontaines-Mercurey</station>
+	<station lat="43,99700" long="7,55162">Fontan-Saorge</station>
+	<station lat="48,80710" long="2,04125">Fontenay-le-Fleury</station>
+	<station lat="48,71140" long="5,97988">Fontenoy-sur-Moselle</station>
+	<station lat="42,51497" long="2,19086">Fontpédrouse-St-Thomas-les-Bains</station>
+	<station lat="42,49094" long="2,04278">Font-Romeu-Odeillo-Via</station>
+	<station lat="49,18948" long="6,90043">Forbach</station>
+	<station lat="49,61386" long="1,55326">Forges-les-Eaux</station>
+	<station lat="49,65468" long="1,72370">Formerie</station>
+	<station lat="46,23461" long="-0,40671">Fors</station>
+	<station lat="43,42800" long="4,97489">Fos-sur-Mer</station>
+	<station lat="49,60832" long="0,59693">Foucart-Alvimare</station>
+	<station lat="48,42479" long="7,18725">Fouday</station>
+	<station lat="48,67919" long="5,79138">Foug</station>
+	<station lat="47,73023" long="-1,85118">Fougeray-Langon</station>
+	<station lat="46,66519" long="-1,23195">Fougeré</station>
+	<station lat="49,73697" long="1,82678">Fouilloy</station>
+	<station lat="50,52548" long="2,60721">Fouquereuil</station>
+	<station lat="47,01917" long="3,08732">Fourchambault</station>
+	<station lat="50,01542" long="4,05374">Fourmies</station>
+	<station lat="46,82370" long="3,72337">Fours</station>
+	<station lat="45,39499" long="4,26082">Fraisse-Unieux</station>
+	<station lat="45,73139" long="4,77028">Francheville</station>
+	<station lat="48,99356" long="2,23499">Franconville-Plessis-Bouchard</station>
+	<station lat="47,22745" long="5,93752">Franois</station>
+	<station lat="46,85784" long="6,15770">Frasne</station>
+	<station lat="49,27760" long="6,49083">Freistroff</station>
+	<station lat="43,43172" long="6,73328">Fréjus</station>
+	<station lat="43,42879" long="6,75500">Fréjus-St-Raphaël</station>
+	<station lat="47,19057" long="-1,49604">Saint-Sébastien-Frêne-Rond</station>
+	<station lat="49,14043" long="-0,25843">Frénouville-Cagny</station>
+	<station lat="49,04579" long="2,19711">Frépillon</station>
+	<station lat="49,95014" long="3,43260">Fresnoy-le-Grand</station>
+	<station lat="50,25087" long="3,18925">Fressies</station>
+	<station lat="47,89204" long="1,21188">Fréteval-Morée</station>
+	<station lat="50,56107" long="3,14840">Fretin (Nord)</station>
+	<station lat="50,34723" long="2,63452">Frévin-Capelle</station>
+	<station lat="46,17131" long="1,43246">Fromental</station>
+	<station lat="48,29664" long="5,14160">Froncles-Buxières</station>
+	<station lat="45,63060" long="6,31432">Frontenex</station>
+	<station lat="43,44459" long="3,75902">Frontignan</station>
+	<station lat="48,40132" long="5,15608">Fronville-St-Urbain</station>
+	<station lat="48,75539" long="6,14465">Frouard</station>
+	<station lat="48,72816" long="-3,12861">Frynaudour</station>
+	<station lat="49,98622" long="4,69200">Fumay</station>
+	<station lat="46,67023" long="0,37811">Futuroscope</station>
+	<station lat="43,92986" long="4,95693">Gadagne</station>
+	<station lat="48,88348" long="2,52649">Gagny</station>
+	<station lat="43,90612" long="1,89441">Gaillac</station>
+	<station lat="49,17468" long="1,35263">Gaillon-Aubevoye</station>
+	<station lat="43,71601" long="4,17105">Gallargues</station>
+	<station lat="46,64246" long="4,33008">Galuzot</station>
+	<station lat="48,69492" long="7,87890">Gambsheim</station>
+	<station lat="44,27041" long="4,14666">Gammal</station>
+	<station lat="43,23429" long="-0,39148">Gan</station>
+	<station lat="49,26089" long="6,13580">Gandrange-Amnéville</station>
+	<station lat="46,09760" long="3,20487">Gannat</station>
+	<station lat="49,57211" long="2,43703">Gannes</station>
+	<station lat="44,56363" long="6,08539">Gap</station>
+	<station lat="48,81042" long="1,76458">Garancières-la-Queue</station>
+	<station lat="48,83798" long="2,18668">Garches-Marnes-la-Coquette</station>
+	<station lat="47,04299" long="3,08584">Garchizy</station>
+	<station lat="43,45636" long="5,46348">Gardanne</station>
+	<station lat="44,83468" long="0,33194">Gardonne</station>
+	<station lat="49,21446" long="3,99359">Champagne Ardenne TGV</station>
+	<station lat="48,95081" long="6,17043">Lorraine TGV</station>
+	<station lat="48,98017" long="5,27182">Meuse TGV</station>
+	<station lat="48,98307" long="1,80921">Gargenville</station>
+	<station lat="48,97685" long="2,39083">Garges</station>
+	<station lat="45,05431" long="-0,39929">Gauriaguet</station>
+	<station lat="48,62596" long="1,77085">Gazeran</station>
+	<station lat="44,77220" long="-0,69914">Gazinet-Cestas</station>
+	<station lat="48,52191" long="7,68535">Geispolsheim</station>
+	<station lat="47,47781" long="5,13009">Gemeaux</station>
+	<station lat="50,52840" long="3,22098">Genech</station>
+	<station lat="46,58107" long="4,23777">Génelard</station>
+	<station lat="43,73298" long="4,34415">Générac</station>
+	<station lat="47,24448" long="5,22387">Genlis</station>
+	<station lat="48,93339" long="2,30749">Gennevilliers</station>
+	<station lat="44,34802" long="3,95182">Génolhac</station>
+	<station lat="49,12795" long="4,02250">Germaine</station>
+	<station lat="48,41330" long="7,46592">Gertwiller</station>
+	<station lat="45,83313" long="3,14304">Gerzat</station>
+	<station lat="47,80311" long="-3,44336">Gestel</station>
+	<station lat="47,22737" long="4,99878">Gevrey-Chambertin</station>
+	<station lat="47,69888" long="2,63675">Gien</station>
+	<station lat="47,27917" long="1,66856">Gièvres</station>
+	<station lat="45,01474" long="1,48326">Gignac-Cressensac</station>
+	<station lat="48,91499" long="1,50557">Gilles-Guainville</station>
+	<station lat="47,05046" long="6,49255">Gilley</station>
+	<station lat="46,53666" long="3,78334">Gilly-sur-Loire</station>
+	<station lat="44,58334" long="-0,09246">Gironde</station>
+	<station lat="49,28526" long="1,78505">Gisors</station>
+	<station lat="50,14025" long="4,81799">Givet</station>
+	<station lat="45,59594" long="4,77215">Givors-Canal</station>
+	<station lat="45,58537" long="4,76625">Givors-Ville</station>
+	<station lat="49,27362" long="0,68187">Glos-Montfort</station>
+	<station lat="44,11620" long="0,85383">Golfech</station>
+	<station lat="43,56615" long="7,07317">Golfe-Juan-Vallauris</station>
+	<station lat="45,34203" long="5,97387">Goncelin</station>
+	<station lat="43,31692" long="6,28166">Gonfaron</station>
+	<station lat="47,10779" long="-1,31374">Gorges</station>
+	<station lat="48,61437" long="-1,90597">La Gouesnière-Cancale</station>
+	<station lat="44,74181" long="1,38955">Gourdon</station>
+	<station lat="48,55995" long="-3,16609">Gourland</station>
+	<station lat="49,48118" long="1,73865">Gournay-Ferrières</station>
+	<station lat="49,02405" long="2,46350">Goussainville</station>
+	<station lat="48,43260" long="7,47872">Goxwiller</station>
+	<station lat="48,53336" long="7,69011">Graffenstaden</station>
+	<station lat="47,78030" long="7,22559">Graffenwald</station>
+	<station lat="43,69580" long="1,56757">Gragnague</station>
+	<station lat="49,65609" long="0,40711">Grainville-Ymauville</station>
+	<station lat="44,77312" long="1,72305">Gramat</station>
+	<station lat="48,64800" long="2,43610">Grand-Bourg</station>
+	<station lat="44,20994" long="4,03347">Grand-Combe-La-Pise</station>
+	<station lat="51,00231" long="2,31215">Grande-Synthe</station>
+	<station lat="46,63429" long="0,35971">Grand-Pont-Preuilly</station>
+	<station lat="49,65931" long="1,93883">Grandvilliers</station>
+	<station lat="48,83884" long="-1,58678">Granville</station>
+	<station lat="43,65385" long="6,92676">Grasse</station>
+	<station lat="50,97850" long="2,12594">Gravelines</station>
+	<station lat="48,68623" long="2,31760">Gravigny-Balizy</station>
+	<station lat="45,19149" long="5,71422">Grenoble</station>
+	<station lat="45,18513" long="5,78552">Grenoble-Université-Gières</station>
+	<station lat="48,53300" long="7,42465">Gresswiller</station>
+	<station lat="45,72425" long="5,92182">Grésy-sur-Aix</station>
+	<station lat="45,59447" long="6,25866">Grésy-sur-Isère</station>
+	<station lat="48,74533" long="2,72865">Gretz-Armainvilliers</station>
+	<station lat="48,65107" long="2,39391">Grigny-Centre</station>
+	<station lat="48,66854" long="2,39704">Grigny-Val-de-Seine</station>
+	<station lat="43,82651" long="1,30270">Grisolles</station>
+	<station lat="46,01053" long="6,17494">Groisy-Thorens-la-Caille</station>
+	<station lat="48,98474" long="2,35434">Groslay</station>
+	<station lat="48,99713" long="2,25906">Gros-Noyer-St-Prix</station>
+	<station lat="48,33749" long="5,14085">Gudmont</station>
+	<station lat="48,81043" long="2,95461">Guérard-Celle-sur-Morin</station>
+	<station lat="46,17411" long="1,87939">Guéret</station>
+	<station lat="43,42539" long="-1,61013">Guéthary</station>
+	<station lat="47,93418" long="-1,76067">Guichen-Bourg-des-Comptes</station>
+	<station lat="49,43545" long="3,96078">Guignicourt (Aisne)</station>
+	<station lat="48,37527" long="2,06077">Guillerval</station>
+	<station lat="48,48500" long="-3,99892">Guimiliau</station>
+	<station lat="48,55533" long="-3,14410">Guingamp</station>
+	<station lat="44,64051" long="-1,06934">Gujan-Mestras</station>
+	<station lat="48,90538" long="7,65311">Gundershoffen</station>
+	<station lat="48,04158" long="7,17488">Gunsbach-Griesbach</station>
+	<station lat="47,73773" long="7,41827">Habsheim</station>
+	<station lat="50,15841" long="3,74310">Hachette</station>
+	<station lat="49,25531" long="6,16424">Hagondange</station>
+	<station lat="48,81342" long="7,78235">Haguenau</station>
+	<station lat="43,37823" long="-1,42823">Halsou-Larressore</station>
+	<station lat="49,73953" long="3,07052">Ham (Somme)</station>
+	<station lat="50,59106" long="2,46588">Ham-en-Artois</station>
+	<station lat="49,98220" long="2,06645">Hangest</station>
+	<station lat="49,51331" long="0,19835">Harfleur</station>
+	<station lat="49,50640" long="0,19233">Harfleur-Halte</station>
+	<station lat="49,71508" long="2,53001">Hargicourt-Pierrepont</station>
+	<station lat="47,73558" long="7,32946">Hasenrain</station>
+	<station lat="49,19345" long="5,90701">Hatrize</station>
+	<station lat="50,60708" long="2,99049">Haubourdin</station>
+	<station lat="48,87495" long="2,33092">Haussmann-St-Lazare</station>
+	<station lat="50,25380" long="3,91550">Hautmont</station>
+	<station lat="49,33052" long="6,07366">Hayange</station>
+	<station lat="50,01174" long="4,70396">Haybes</station>
+	<station lat="50,72553" long="2,53887">Hazebrouck</station>
+	<station lat="48,52747" long="7,38149">Heiligenberg-Mollkirch</station>
+	<station lat="49,34037" long="2,27298">Heilles-Mouchy</station>
+	<station lat="49,94383" long="2,53998">Heilly</station>
+	<station lat="50,62267" long="3,11559">Hellemmes</station>
+	<station lat="43,35317" long="-1,78209">Hendaye</station>
+	<station lat="50,41611" long="2,95073">Hénin-Beaumont</station>
+	<station lat="47,79893" long="-3,28565">Hennebont</station>
+	<station lat="49,01399" long="7,08007">Herbitzheim</station>
+	<station lat="48,99065" long="2,16134">Herblay</station>
+	<station lat="49,48777" long="2,01060">Herchies</station>
+	<station lat="47,57306" long="6,76941">Héricourt</station>
+	<station lat="48,44119" long="2,75913">Héricy</station>
+	<station lat="49,35412" long="2,24138">Hermes-Berthecourt</station>
+	<station lat="49,00409" long="6,47771">Herny</station>
+	<station lat="48,72750" long="7,91035">Herrlisheim (Bas-Rhin)</station>
+	<station lat="48,01756" long="7,32055">Herrlisheim-près-Colmar</station>
+	<station lat="50,66064" long="1,66691">Hesdigneul</station>
+	<station lat="50,37827" long="2,03519">Hesdin</station>
+	<station lat="49,40827" long="6,15604">Hettange-Grande</station>
+	<station lat="43,64944" long="7,14154">Hippodrome-de-la-Côte-d'Azur</station>
+	<station lat="49,91430" long="4,08444">Hirson</station>
+	<station lat="49,92973" long="4,08567">Hirson-Ecoles</station>
+	<station lat="48,75539" long="7,57189">Hochfelden</station>
+	<station lat="48,91624" long="7,83144">Hoelschloch</station>
+	<station lat="48,62821" long="7,75743">Hoenheim-Tram</station>
+	<station lat="48,70297" long="7,77908">Hoerdt</station>
+	<station lat="48,93122" long="7,93298">Hoffen</station>
+	<station lat="48,55548" long="7,66265">Holtzheim</station>
+	<station lat="49,28251" long="6,35064">Hombourg-Budange</station>
+	<station lat="49,12617" long="6,77340">Hombourg-Haut</station>
+	<station lat="49,21822" long="5,99799">Homécourt</station>
+	<station lat="48,79604" long="1,60284">Houdan</station>
+	<station lat="48,64520" long="6,17976">Houdemont</station>
+	<station lat="48,92059" long="2,18474">Houilles-Carrières-sur-Seine</station>
+	<station lat="49,30001" long="-0,07770">Houlgate</station>
+	<station lat="49,10658" long="6,97576">Hundling</station>
+	<station lat="48,96119" long="7,95402">Hunspach</station>
+	<station lat="46,37143" long="2,47612">Huriel</station>
+	<station lat="43,10826" long="6,12463">Hyères</station>
+	<station lat="48,27073" long="6,14055">Hymont-Mattaincourt</station>
+	<station lat="48,27129" long="6,39939">Igney</station>
+	<station lat="48,64640" long="6,80437">Igney-Avricourt</station>
+	<station lat="48,73980" long="2,23107">Igny</station>
+	<station lat="42,66848" long="2,62466">Ille-sur-Têt</station>
+	<station lat="47,67603" long="7,26818">Illfurth</station>
+	<station lat="48,30427" long="1,24493">Illiers-Combray</station>
+	<station lat="46,93325" long="3,25937">Imphy</station>
+	<station lat="48,08863" long="7,29741">Ingersheim-Cité-Scolaire</station>
+	<station lat="47,40594" long="-0,92053">Ingrandes-sur-Loire</station>
+	<station lat="46,87483" long="0,56952">Ingrandes-sur-Vienne</station>
+	<station lat="48,87174" long="7,47677">Ingwiller</station>
+	<station lat="48,86296" long="2,31156">Invalides</station>
+	<station lat="48,99814" long="3,00755">Isles-Armentières</station>
+	<station lat="45,54482" long="3,25412">Issoire</station>
+	<station lat="46,94865" long="1,98544">Issoudun</station>
+	<station lat="48,97928" long="1,78592">Issou-Porcheville</station>
+	<station lat="47,52023" long="5,12983">Is-sur-Tille</station>
+	<station lat="48,82074" long="2,26085">Issy</station>
+	<station lat="48,83112" long="2,26463">Issy Val de Seine</station>
+	<station lat="43,51545" long="4,98028">Istres</station>
+	<station lat="46,48512" long="0,31877">Iteuil</station>
+	<station lat="43,32404" long="-1,39495">Itxassou</station>
+	<station lat="48,81419" long="2,39168">Ivry-sur-Seine</station>
+	<station lat="50,22515" long="3,32975">Iwuy</station>
+	<station lat="49,52730" long="0,18583">Jacques Monod-la demi-lieue</station>
+	<station lat="47,95512" long="-1,49740">Janzé</station>
+	<station lat="45,67130" long="-0,17791">Jarnac-Charente</station>
+	<station lat="45,08542" long="5,74227">Jarrie-Vizille</station>
+	<station lat="48,66983" long="6,20327">Jarville-la-Malgrange</station>
+	<station lat="45,54353" long="2,13963">Jassonneix</station>
+	<station lat="43,39145" long="-1,44465">Jatxou</station>
+	<station lat="46,68231" long="0,38190">Jaunay-Clan</station>
+	<station lat="49,38646" long="2,77720">Jaux</station>
+	<station lat="48,84815" long="2,27930">Javel</station>
+	<station lat="45,74498" long="4,84173">Lyon Jean Macé</station>
+	<station lat="50,29673" long="4,08920">Jeumont</station>
+	<station lat="49,22454" long="6,01716">Joeuf</station>
+	<station lat="47,97349" long="3,39343">Joigny</station>
+	<station lat="49,83337" long="4,76702">Joigny-sur-Meuse</station>
+	<station lat="48,44474" long="5,14430">Joinville (Haute-Marne)</station>
+	<station lat="42,56200" long="2,31186">Joncet</station>
+	<station lat="49,28972" long="3,81987">Jonchery-sur-Vesle</station>
+	<station lat="43,79691" long="4,53252">Jonquières-St-Vincent</station>
+	<station lat="45,43872" long="-0,44199">Jonzac</station>
+	<station lat="47,35420" long="0,66801">Joué-lès-Tours</station>
+	<station lat="48,51113" long="1,55859">Jouy</station>
+	<station lat="48,76454" long="2,16817">Jouy-en-Josas</station>
+	<station lat="48,79062" long="3,27351">Jouy-sur-Morin-Le Marais</station>
+	<station lat="43,57074" long="7,11079">Juan-les-Pins</station>
+	<station lat="48,68920" long="2,38343">Juvisy</station>
+	<station lat="48,99222" long="1,84593">Juziers</station>
+	<station lat="49,03533" long="7,12525">Kalhausen</station>
+	<station lat="49,30567" long="6,33227">Kédange</station>
+	<station lat="47,53678" long="-3,13654">Kerhostin</station>
+	<station lat="48,40960" long="-4,38798">Kerhuon</station>
+	<station lat="48,04382" long="-1,73894">Ker-Lann-Bruz</station>
+	<station lat="48,96515" long="7,04903">Keskastel</station>
+	<station lat="48,67932" long="7,85475">Kilstett</station>
+	<station lat="49,39450" long="6,26886">Koenigsmacker</station>
+	<station lat="48,33874" long="7,53460">Kogenheim</station>
+	<station lat="48,56388" long="7,75231">Krimmeri-Meinau</station>
+	<station lat="47,92247" long="6,96960">Kruth</station>
+	<station lat="49,34991" long="6,23458">Kuntzig</station>
+	<station lat="48,74170" long="7,81308">Kurtzenhouse</station>
+	<station lat="45,15112" long="1,16009">La Bachellerie</station>
+	<station lat="48,96654" long="2,31630">La Barre-Ormesson</station>
+	<station lat="50,52732" long="2,80367">La Bassée-Violaines</station>
+	<station lat="47,20428" long="-1,66105">La Basse-Indre-St-Herblain</station>
+	<station lat="44,59258" long="3,90387">La Bastide-St-Laurent-les-Bains</station>
+	<station lat="47,28867" long="-2,38913">La Baule-Escoublac</station>
+	<station lat="47,28363" long="-2,36466">La Baule-les-Pins</station>
+	<station lat="47,08343" long="-2,03429">La Bernerie</station>
+	<station lat="50,52384" long="2,56179">La Beuvrière</station>
+	<station lat="47,43448" long="-0,40096">La Bohalle</station>
+	<station lat="48,98854" long="1,03583">La Bonneville-sur-Iton</station>
+	<station lat="49,12576" long="2,50765">La Borne-Blanche</station>
+	<station lat="45,59092" long="2,74594">La Bourboule</station>
+	<station lat="49,85977" long="3,98230">La Bouteille</station>
+	<station lat="45,52905" long="5,74694">La Bridoire</station>
+	<station lat="44,06239" long="7,59973">La Brigue</station>
+	<station lat="43,92503" long="5,89243">La Brillane-Oraison</station>
+	<station lat="48,21346" long="-2,11084">La Brohinière</station>
+	<station lat="44,92050" long="2,26538">La Capelle-Viescamp</station>
+	<station lat="45,18380" long="0,62767">La Cave</station>
+	<station lat="45,64133" long="1,82641">La Celle-Corrèze</station>
+	<station lat="48,84303" long="2,13767">La Celle-St-Cloud</station>
+	<station lat="46,67677" long="-1,28328">La Chaize-le-Vicomte</station>
+	<station lat="47,89296" long="1,82674">La Chapelle-St-Mesmin</station>
+	<station lat="47,25123" long="0,21891">La Chapelle-sur-Loire</station>
+	<station lat="47,18028" long="3,02402">La Charité</station>
+	<station lat="46,60476" long="5,96105">La Chaumusse-Fort-du-Plasne</station>
+	<station lat="47,61350" long="1,35503">La Chaussée-St-Victor</station>
+	<station lat="46,65585" long="5,94490">La Chaux-des-Crotenay</station>
+	<station lat="43,19954" long="5,63264">La Ciotat</station>
+	<station lat="46,28790" long="4,29834">La Clayette-Baudemont</station>
+	<station lat="45,54077" long="0,97422">La Coquille</station>
+	<station lat="43,34003" long="5,05262">La Couronne-Carro</station>
+	<station lat="43,14490" long="6,06861">La Crau</station>
+	<station lat="46,36043" long="-0,29627">La Crèche</station>
+	<station lat="47,30046" long="-2,19293">La Croix-de-Méan</station>
+	<station lat="43,28597" long="-0,37924">La Croix-du-Prince</station>
+	<station lat="48,89311" long="2,23789">La Défense</station>
+	<station lat="47,33864" long="0,65301">La Douzillère</station>
+	<station lat="49,69667" long="2,34879">La Faloise</station>
+	<station lat="49,65787" long="3,36978">La Fère</station>
+	<station lat="45,77271" long="4,74691">La Ferrière</station>
+	<station lat="48,48514" long="2,35202">La Ferté-Alais</station>
+	<station lat="48,18599" long="0,63899">La Ferté-Bernard</station>
+	<station lat="48,78219" long="3,29770">La Ferté-Gaucher</station>
+	<station lat="47,38364" long="1,95857">La Ferté-Imbault</station>
+	<station lat="49,17956" long="3,12103">La Ferté-Milon</station>
+	<station lat="48,95097" long="3,12441">La Ferté-sous-Jouarre</station>
+	<station lat="47,72020" long="1,93254">La Ferté-St-Aubin</station>
+	<station lat="50,56530" long="2,92546">La Fontaine-Nord</station>
+	<station lat="48,42620" long="-4,30749">La Forest</station>
+	<station lat="45,49783" long="4,31659">La Fouillouse</station>
+	<station lat="43,55873" long="6,97175">La Frayère</station>
+	<station lat="48,59363" long="-1,84314">La Fresnais</station>
+	<station lat="48,98006" long="2,18011">La Frette-Montigny</station>
+	<station lat="43,11870" long="6,01002">La Garde</station>
+	<station lat="48,90983" long="2,23904">La Garenne-Colombes</station>
+	<station lat="47,14217" long="1,49439">La Gauterie</station>
+	<station lat="44,92875" long="-0,49651">La Gorp</station>
+	<station lat="48,37861" long="2,89725">La Grande-Paroisse</station>
+	<station lat="44,93566" long="-0,47701">La Grave-d'Ambarès</station>
+	<station lat="46,94752" long="2,94871">La Guerche-sur-l'Aubois</station>
+	<station lat="48,11410" long="0,19308">La Guierche</station>
+	<station lat="47,16155" long="-1,39292">La Haie-Fouassière</station>
+	<station lat="48,49607" long="-2,00303">La Hisse</station>
+	<station lat="44,63997" long="-1,11629">La Hume</station>
+	<station lat="48,30323" long="0,10528">La Hutte-Coulombiers</station>
+	<station lat="45,99465" long="1,48063">La Jonchère</station>
+	<station lat="45,96583" long="6,91007">La Joux (Haute-Savoie)</station>
+	<station lat="44,22830" long="4,01069">La Levade</station>
+	<station lat="48,47414" long="1,01115">La Loupe</station>
+	<station lat="50,66060" long="3,07259">La Madeleine (Nord)</station>
+	<station lat="47,13976" long="3,03938">La Marche</station>
+	<station lat="48,49998" long="-2,84501">La Méaugon</station>
+	<station lat="47,43186" long="0,64134">La Membrolle-sur-Choisille</station>
+	<station lat="47,39722" long="-0,27559">La Ménitré</station>
+	<station lat="45,62104" long="1,21235">La Meyze</station>
+	<station lat="45,76380" long="2,82798">La Miouze-Rochefort</station>
+	<station lat="46,60679" long="-1,65949">La Mothe-Achard</station>
+	<station lat="46,38092" long="-0,12986">La Mothe-St-Héray</station>
+	<station lat="49,57102" long="3,59723">La Neuville-sous-Laon</station>
+	<station lat="43,13640" long="6,03502">La Pauline-Hyères</station>
+	<station lat="43,28467" long="5,51544">La Penne-sur-Huveaune</station>
+	<station lat="48,91796" long="2,36254">La Plaine-Stade-de-France</station>
+	<station lat="45,56606" long="-1,06566">La Pointe-de-Grave</station>
+	<station lat="43,29050" long="5,44156">La Pomme</station>
+	<station lat="45,57457" long="1,53746">La Porcherie</station>
+	<station lat="47,37131" long="-0,69168">La Possonnière</station>
+	<station lat="48,09207" long="-1,63078">La Poterie</station>
+	<station lat="43,33419" long="5,19793">La Redonne-Ensuès</station>
+	<station lat="44,57984" long="-0,03037">La Réole</station>
+	<station lat="45,40341" long="4,35815">La Ricamarie</station>
+	<station lat="46,87011" long="6,21344">La Rivière</station>
+	<station lat="45,13971" long="1,36507">La Rivière-de-Mansac</station>
+	<station lat="48,46772" long="-4,21734">La Roche</station>
+	<station lat="47,38501" long="4,17033">La Roche-en-Brenil</station>
+	<station lat="45,74022" long="0,38978">La Rochefoucauld</station>
+	<station lat="0,00000" long="0,00000">La Rochelle Porte Dauphine</station>
+	<station lat="46,15270" long="-1,14529">La Rochelle-Ville</station>
+	<station lat="46,06726" long="6,30396">La Roche-sur-Foron</station>
+	<station lat="46,67156" long="-1,43590">La Roche-sur-Yon</station>
+	<station lat="45,76798" long="3,09020">La Rotonde</station>
+	<station lat="43,11715" long="5,87679">La Seyne-Six Fours</station>
+	<station lat="46,23998" long="1,49241">La Souterraine</station>
+	<station lat="47,89244" long="0,02692">La Suze</station>
+	<station lat="48,40727" long="1,37281">La Taye</station>
+	<station lat="44,63719" long="-1,14295">La Teste</station>
+	<station lat="42,45814" long="1,90586">Latour-de-Carol-Enveitg</station>
+	<station lat="45,79970" long="4,71677">La Tour-de-Salvagny</station>
+	<station lat="45,56021" long="5,44926">La Tour-du-Pin</station>
+	<station lat="46,72867" long="0,44047">La Tricherie</station>
+	<station lat="43,74272" long="7,31159">La Trinité-Victor</station>
+	<station lat="45,84899" long="5,12431">La Valbonne</station>
+	<station lat="46,13282" long="5,28750">La Vavrette-Tossiat</station>
+	<station lat="45,62740" long="5,15080">La Verpillière</station>
+	<station lat="48,75539" long="1,94416">La Verrière</station>
+	<station lat="46,34983" long="2,59181">La Ville-Gozet</station>
+	<station lat="49,20247" long="1,92047">La Villetertre</station>
+	<station lat="48,48237" long="1,52346">La Villette-St-Prest</station>
+	<station lat="48,66506" long="7,82445">La Wantzenau</station>
+	<station lat="47,15327" long="5,69393">Labarre</station>
+	<station lat="43,10504" long="0,85276">Labarthe-Inard</station>
+	<station lat="43,54810" long="1,51210">Labège-Innopole</station>
+	<station lat="43,53080" long="1,53239">Labège-Village</station>
+	<station lat="43,58714" long="-1,42878">Labenne</station>
+	<station lat="49,28818" long="2,13647">Laboissière-le-Déluge</station>
+	<station lat="44,21104" long="-0,92134">Labouheyre</station>
+	<station lat="43,53761" long="2,25983">Labruguière</station>
+	<station lat="45,12166" long="3,61003">Lachaud-Curmilhac</station>
+	<station lat="43,66387" long="1,41380">Lacourtensourt</station>
+	<station lat="45,63416" long="1,13061">Lafarge</station>
+	<station lat="48,88218" long="2,70404">Lagny-Thorigny</station>
+	<station lat="44,14563" long="1,96811">Laguépie</station>
+	<station lat="49,91150" long="4,69286">Laifour</station>
+	<station lat="48,76669" long="0,62074">L'Aigle</station>
+	<station lat="47,87349" long="0,21747">Laigné-St-Gervais</station>
+	<station lat="49,29295" long="2,44926">Laigneville</station>
+	<station lat="45,77881" long="1,20682">L'Aiguille</station>
+	<station lat="47,97061" long="-1,74955">Laillé</station>
+	<station lat="44,37531" long="2,82225">Laissac</station>
+	<station lat="47,29938" long="6,23380">Laissey</station>
+	<station lat="43,64571" long="1,42859">Lalande-Église</station>
+	<station lat="44,33364" long="1,51172">Lalbenque-Fontanes</station>
+	<station lat="44,83965" long="0,74272">Lalinde</station>
+	<station lat="44,12671" long="0,82548">Lamagistère</station>
+	<station lat="43,70039" long="5,09131">Lamanon</station>
+	<station lat="48,09011" long="5,76014">Lamarche</station>
+	<station lat="44,98056" long="2,02985">Lamativie</station>
+	<station lat="48,46592" long="-2,51149">Lamballe</station>
+	<station lat="44,84342" long="0,38032">Lamonzie-St-Martin</station>
+	<station lat="44,56198" long="0,04644">Lamothe-Landerron</station>
+	<station lat="44,85388" long="0,02147">Lamothe-Montravel</station>
+	<station lat="47,59363" long="2,02221">Lamotte-Beuvron</station>
+	<station lat="49,88561" long="2,39817">Lamotte-Brebière</station>
+	<station lat="46,06122" long="4,49228">Lamure-sur-Azergues</station>
+	<station lat="48,76186" long="-3,11798">Lancerf</station>
+	<station lat="45,23449" long="5,88076">Lancey</station>
+	<station lat="50,46892" long="3,29008">Landas</station>
+	<station lat="47,73586" long="-3,08621">Landaul-Mendon</station>
+	<station lat="48,50736" long="-2,33171">Landébia</station>
+	<station lat="48,45371" long="-4,25660">Landerneau</station>
+	<station lat="47,75948" long="-3,12568">Landévant</station>
+	<station lat="48,49562" long="-4,08270">Landivisiau</station>
+	<station lat="50,12857" long="3,68210">Landrecies</station>
+	<station lat="45,57476" long="6,73412">Landry</station>
+	<station lat="48,65571" long="6,22769">Laneuveville-devant-Nancy</station>
+	<station lat="45,10075" long="3,49052">Langeac</station>
+	<station lat="47,32395" long="0,41033">Langeais</station>
+	<station lat="44,73233" long="3,85787">Langogne</station>
+	<station lat="44,55573" long="-0,25585">Langon</station>
+	<station lat="47,87723" long="5,34471">Langres</station>
+	<station lat="43,11424" long="0,38758">Lannemezan</station>
+	<station lat="48,72696" long="-3,46066">Lannion</station>
+	<station lat="47,33520" long="4,86036">Lantenay</station>
+	<station lat="49,57087" long="3,62379">Laon</station>
+	<station lat="46,22961" long="3,63031">Lapalisse-Saint-Prix</station>
+	<station lat="46,22712" long="2,89388">Lapeyrouse</station>
+	<station lat="45,64328" long="2,70275">Laqueuille</station>
+	<station lat="44,31648" long="5,81914">Laragne</station>
+	<station lat="45,83333" long="4,61913">L'Arbresle</station>
+	<station lat="45,13211" long="1,41621">Larche</station>
+	<station lat="43,59653" long="1,38399">Lardenne</station>
+	<station lat="48,52079" long="2,25518">Lardy</station>
+	<station lat="44,79103" long="6,55608">L'Argentière les Ecrins</station>
+	<station lat="43,73416" long="7,30220">L'Ariane la Trinité</station>
+	<station lat="47,96119" long="3,51308">Laroche Migennes</station>
+	<station lat="44,28802" long="0,75009">Laroque</station>
+	<station lat="44,96420" long="2,19285">Laroquebrou</station>
+	<station lat="46,33874" long="0,96418">Lathus</station>
+	<station lat="48,96724" long="8,18280">Lauterbourg</station>
+	<station lat="48,07632" long="-0,76115">Laval</station>
+	<station lat="44,95111" long="1,93181">Laval-de-Cère</station>
+	<station lat="46,32141" long="2,27034">Lavaufranche</station>
+	<station lat="43,70363" long="1,81297">Lavaur</station>
+	<station lat="46,07958" long="2,08903">Lavaveix-les-Mines</station>
+	<station lat="48,18552" long="6,75401">Laveline-devant-Bruyères</station>
+	<station lat="44,03546" long="1,21457">Lavilledieu</station>
+	<station lat="45,12151" long="3,90631">Lavoûte-sur-Loire</station>
+	<station lat="48,93223" long="2,47687">Le Blanc-Mesnil</station>
+	<station lat="43,55226" long="6,98148">Le Bosquet</station>
+	<station lat="43,52350" long="-1,49063">Boucau</station>
+	<station lat="48,93079" long="2,42565">Le Bourget</station>
+	<station lat="43,68997" long="3,16997">Le Bousquet-d'Orb</station>
+	<station lat="48,62325" long="2,45088">Le Bras-de-fer</station>
+	<station lat="45,46775" long="3,26200">Le Breuil-sur-Couze</station>
+	<station lat="44,48108" long="3,35818">Le Bruel</station>
+	<station lat="46,01937" long="6,92057">Le Buet</station>
+	<station lat="44,90597" long="0,94259">Le Bugue</station>
+	<station lat="44,84700" long="0,90802">Le Buisson</station>
+	<station lat="45,21496" long="1,43018">Le Burg</station>
+	<station lat="43,68320" long="4,23477">Le Cailar</station>
+	<station lat="43,33364" long="5,38348">Le Canet</station>
+	<station lat="50,09116" long="3,54062">Le Cateau</station>
+	<station lat="47,31310" long="-1,35116">Le Cellier</station>
+	<station lat="45,72399" long="3,18869">Le Cendre-Orcet</station>
+	<station lat="45,39476" long="4,32252">Le Chambon-Feugerolles</station>
+	<station lat="46,02356" long="4,08632">Le Coteau</station>
+	<station lat="46,80779" long="4,43069">Le Creusot</station>
+	<station lat="46,76533" long="4,50010">Le Creusot TGV (Monceau Montchanin)</station>
+	<station lat="47,28974" long="-2,50691">Le Croisic</station>
+	<station lat="46,21031" long="1,07976">Le Dorat</station>
+	<station lat="43,41734" long="6,83855">Le Dramont</station>
+	<station lat="48,09666" long="-0,88586">Le Genest</station>
+	<station lat="49,14997" long="0,22723">Le Grand-Jardin</station>
+	<station lat="45,39663" long="5,42319">Le Grand-Lemps</station>
+	<station lat="43,53658" long="4,14087">Le Grau-du-Roi</station>
+	<station lat="50,81619" long="1,77182">Le Haut-Banc</station>
+	<station lat="49,49300" long="0,12592">Le Havre</station>
+	<station lat="49,49987" long="0,16049">Le Havre-Graville (IE)</station>
+	<station lat="45,09153" long="2,75687">Le Lioran</station>
+	<station lat="43,38987" long="6,34272">Le Luc-et-Le Cannet</station>
+	<station lat="47,99489" long="0,19431">Le Mans</station>
+	<station lat="48,54003" long="2,62377">Le Mée</station>
+	<station lat="45,76887" long="4,74826">Le Méridien</station>
+	<station lat="48,70242" long="0,28351">Le Merlerault</station>
+	<station lat="49,35873" long="2,75250">Le Meux-la-Croix-St-Ouen</station>
+	<station lat="49,24913" long="-0,88181">Le Molay-Littry</station>
+	<station lat="44,50917" long="3,25234">Le Monastier</station>
+	<station lat="45,57985" long="2,80419">Le Mont-Dore</station>
+	<station lat="45,88491" long="1,34567">Le Palais</station>
+	<station lat="47,14423" long="-1,34779">Le Pallet</station>
+	<station lat="45,37178" long="4,79497">Le Péage-de-Roussillon</station>
+	<station lat="48,36418" long="-3,47667">Le Pénity</station>
+	<station lat="48,69474" long="1,85705">Le Perray</station>
+	<station lat="49,09612" long="2,74467">Le Plessis-Belleville</station>
+	<station lat="48,57383" long="2,47950">Le Plessis-Chenet</station>
+	<station lat="50,33083" long="3,50280">Le Poirier</station>
+	<station lat="48,56823" long="-3,63687">Le Ponthou</station>
+	<station lat="47,28245" long="-2,43413">Le Pouliguen</station>
+	<station lat="45,04273" long="3,89253">Le Puy en Velay</station>
+	<station lat="50,25022" long="3,64608">Le Quesnoy (Nord)</station>
+	<station lat="48,88911" long="2,51208">Le Raincy-Villemomble-Montfermeil</station>
+	<station lat="44,85737" long="2,23562">Le Rouget</station>
+	<station lat="45,60750" long="4,79637">Le Sablon</station>
+	<station lat="45,45275" long="3,30221">Le Saut-du-Loup</station>
+	<station lat="42,67865" long="2,79276">Le Soler</station>
+	<station lat="48,93123" long="2,26066">Le Stade</station>
+	<station lat="43,59544" long="1,40133">Le T.O.E.C. (Toulouse Olympique Employés Club)</station>
+	<station lat="44,63241" long="-1,02583">Le Teich</station>
+	<station lat="44,55319" long="4,68665">Le Teil (Ardèche)</station>
+	<station lat="47,91872" long="-1,43237">Le Theil-de-Bretagne</station>
+	<station lat="48,26723" long="0,69465">Le Theil-La Rouge</station>
+	<station lat="43,92643" long="4,99603">Le Thor</station>
+	<station lat="43,47410" long="6,92333">Le Trayas</station>
+	<station lat="50,06273" long="1,37652">Le Tréport-Mers les Bains</station>
+	<station lat="47,14979" long="6,34111">Le Valdahon</station>
+	<station lat="48,95024" long="2,23075">Val d'Argenteuil</station>
+	<station lat="48,85699" long="2,21652">Le Val-d'Or</station>
+	<station lat="45,86033" long="2,92050">Le Vauriat</station>
+	<station lat="45,54906" long="-1,06612">Le Verdon</station>
+	<station lat="48,78822" long="2,43211">Le Vert-de-Maisons</station>
+	<station lat="47,57342" long="-0,48295">Le Vieux-Briollay</station>
+	<station lat="50,42756" long="3,05953">Leforest</station>
+	<station lat="49,00072" long="7,38010">Lemberg (Moselle)</station>
+	<station lat="50,42694" long="2,82712">Lens</station>
+	<station lat="45,82180" long="4,66719">Lentilly</station>
+	<station lat="48,17254" long="6,67206">Lépanges</station>
+	<station lat="45,54164" long="5,76418">Lépin-le-Lac-La Bauche</station>
+	<station lat="45,54216" long="5,57571">Les Abrets-Fitilieu</station>
+	<station lat="43,45549" long="6,48235">Les Arcs-Draguignan</station>
+	<station lat="48,78426" long="2,40925">Les Ardoines</station>
+	<station lat="47,92705" long="1,90649">Les Aubrais-Orléans</station>
+	<station lat="45,90384" long="1,37681">Les Bardys</station>
+	<station lat="50,27981" long="4,01069">Les Bons-Pères</station>
+	<station lat="45,90689" long="6,83882">Les Bossons</station>
+	<station lat="48,82493" long="2,51125">Les Boullereaux-Champigny</station>
+	<station lat="42,78651" long="1,68634">Les Cabannes</station>
+	<station lat="43,77722" long="3,18621">Les Cabrils</station>
+	<station lat="43,73431" long="1,75457">Les Cauquillous</station>
+	<station lat="48,89694" long="2,80580">Les Champs-Forts</station>
+	<station lat="48,99272" long="1,95481">Les Clairières-de-Verneuil</station>
+	<station lat="46,63784" long="-1,53352">Les Clouzeaux</station>
+	<station lat="45,87426" long="4,91055">Les Échets</station>
+	<station lat="45,09427" long="-0,04352">Les Églisottes</station>
+	<station lat="48,72190" long="1,89007">Les Essarts-le-Roi</station>
+	<station lat="44,94108" long="1,00828">Les Eyzies</station>
+	<station lat="45,77686" long="4,75401">Les Flachères</station>
+	<station lat="50,94027" long="1,84932">Les Fontinettes</station>
+	<station lat="47,30762" long="2,91788">Les Girarmes</station>
+	<station lat="48,91886" long="2,31477">Les Grésillons</station>
+	<station lat="45,89374" long="6,79703">Les Houches</station>
+	<station lat="49,70146" long="0,39014">Les Ifs</station>
+	<station lat="49,10638" long="5,00252">Les Islettes</station>
+	<station lat="48,10903" long="-1,32180">Les Lacs</station>
+	<station lat="47,54331" long="4,46287">Les Laumes-Alésia</station>
+	<station lat="46,75284" long="6,30434">Les Longevilles-Rochejean</station>
+	<station lat="48,42636" long="-3,38289">Les Mais</station>
+	<station lat="45,68818" long="3,19355">Les Martres-de-Veyre</station>
+	<station lat="43,63928" long="3,93913">Les Mazes-le-Crès</station>
+	<station lat="45,91605" long="6,85730">Les Moussoux</station>
+	<station lat="47,06194" long="-2,00167">Les Moutiers-en-Retz</station>
+	<station lat="48,99243" long="1,91304">Les Mureaux</station>
+	<station lat="49,03341" long="2,47833">Les Noues</station>
+	<station lat="46,97079" long="0,60818">Les Ormes-sur-Vienne</station>
+	<station lat="45,91244" long="6,84724">Les Pélerins</station>
+	<station lat="47,00593" long="3,14779">Les Perrières</station>
+	<station lat="45,93975" long="6,88884">Les Praz-de-Chamonix</station>
+	<station lat="47,33299" long="1,70352">Les Quatre-Roues</station>
+	<station lat="44,99703" long="1,64450">Les Quatre-Routes</station>
+	<station lat="43,60236" long="1,35292">Les ramassiers</station>
+	<station lat="47,36219" long="-0,22000">Les Rosiers-sur-Loire</station>
+	<station lat="47,57532" long="-3,13258">Les Sables-Blancs</station>
+	<station lat="46,50014" long="-1,78200">Les Sables-d'Olonne</station>
+	<station lat="44,48310" long="3,27962">Les Salelles</station>
+	<station lat="48,74453" long="2,41709">Les Saules</station>
+	<station lat="45,95058" long="6,89912">Les Tines</station>
+	<station lat="46,41456" long="2,59993">Les Trillers</station>
+	<station lat="48,91365" long="2,25721">Les Vallées</station>
+	<station lat="45,08866" long="0,85722">Les Versannes</station>
+	<station lat="48,82352" long="2,57932">Les Yvris-Noisy-le-Grand</station>
+	<station lat="43,83822" long="7,35294">L'Escarène</station>
+	<station lat="45,30371" long="-0,94572">Lesparre</station>
+	<station lat="50,59013" long="3,11868">Lesquin</station>
+	<station lat="48,28900" long="7,07589">Lesseux-Frapelle</station>
+	<station lat="43,36390" long="5,32162">L'Estaque</station>
+	<station lat="43,11902" long="0,91305">Lestelle</station>
+	<station lat="48,86855" long="2,07761">L'Étang-la-Ville</station>
+	<station lat="42,93285" long="3,01275">Leucate-la-Franqui</station>
+	<station lat="50,18460" long="3,83637">Leval</station>
+	<station lat="44,14223" long="1,88455">Lexos</station>
+	<station lat="50,62057" long="3,10015">Lezennes</station>
+	<station lat="43,19992" long="2,76958">Lézignan (Aude)</station>
+	<station lat="45,82108" long="3,38595">Lezoux</station>
+	<station lat="46,90641" long="-1,37179">L'Herbergement-Les Brouzils</station>
+	<station lat="48,12317" long="-1,81918">L'Hermitage-Mordelles</station>
+	<station lat="47,16911" long="6,21311">L'Hôpital-du-Grosbois</station>
+	<station lat="42,58875" long="1,79946">L'Hospitalet-près-l'Andorre</station>
+	<station lat="49,32451" long="2,44565">Liancourt-Rantigny</station>
+	<station lat="49,22040" long="1,90546">Liancourt-St-Pierre</station>
+	<station lat="49,77101" long="4,33519">Liart</station>
+	<station lat="50,47976" long="3,00880">Libercourt</station>
+	<station lat="44,91580" long="-0,23603">Libourne</station>
+	<station lat="47,21363" long="4,26719">Liernais</station>
+	<station lat="47,05854" long="5,82080">Liesle</station>
+	<station lat="48,62786" long="2,57013">Lieusaint-Moissy</station>
+	<station lat="50,43417" long="2,77052">Liévin</station>
+	<station lat="50,36599" long="2,41662">Ligny-St-Flochel</station>
+	<station lat="46,52215" long="0,33385">Ligugé</station>
+	<station lat="50,61454" long="3,03409">Lille CHR</station>
+	<station lat="50,63969" long="3,07490">Lille-Europe</station>
+	<station lat="50,63577" long="3,07248">Lille-Flandres</station>
+	<station lat="50,61237" long="3,07367">Lille-Porte-de-Douai</station>
+	<station lat="50,56113" long="2,47914">Lillers</station>
+	<station lat="48,98442" long="1,74697">Limay</station>
+	<station lat="47,44985" long="1,04913">Limeray</station>
+	<station lat="48,46110" long="7,65965">Limersheim</station>
+	<station lat="45,15620" long="0,97787">Limeyrat</station>
+	<station lat="45,83722" long="1,26901">Limoges-Bénédictins</station>
+	<station lat="45,83861" long="1,25156">Limoges-Montjovis</station>
+	<station lat="43,05648" long="2,22300">Limoux</station>
+	<station lat="43,06851" long="2,21852">Limoux-Flassian</station>
+	<station lat="48,55947" long="7,67868">Lingolsheim</station>
+	<station lat="49,13829" long="0,23150">Lisieux</station>
+	<station lat="49,11463" long="2,20982">L'Isle-Adam-Parmain</station>
+	<station lat="45,60725" long="5,21954">L'Isle-d'Abeau</station>
+	<station lat="43,91710" long="5,04746">L'Isle-Fontaine-de-Vaucluse</station>
+	<station lat="43,61733" long="1,08973">L'Isle-Jourdain (Gers)</station>
+	<station lat="47,44719" long="6,58151">L'Isle-sur-le-Doubs</station>
+	<station lat="43,85623" long="1,80775">Lisle-sur-Tarn</station>
+	<station lat="49,22687" long="-1,05355">Lison</station>
+	<station lat="47,54644" long="-3,13376">L'Isthme</station>
+	<station lat="48,74925" long="6,06153">Liverdun</station>
+	<station lat="44,77737" long="4,82807">Livron</station>
+	<station lat="48,51035" long="2,67906">Livry-sur-Seine</station>
+	<station lat="49,02189" long="3,03194">Lizy-sur-Ourcq</station>
+	<station lat="47,13040" long="1,00098">Loches</station>
+	<station lat="48,08715" long="7,32154">Logelbach</station>
+	<station lat="50,44012" long="2,85901">Loison</station>
+	<station lat="49,34675" long="3,99042">Loivre</station>
+	<station lat="43,35621" long="1,25199">Longages-Noé</station>
+	<station lat="47,19354" long="5,13474">Longecourt</station>
+	<station lat="48,70193" long="2,29743">Longjumeau</station>
+	<station lat="49,27271" long="3,22979">Longpont</station>
+	<station lat="50,01143" long="2,00317">Longpré-les-Corps-Saints</station>
+	<station lat="49,98245" long="1,55197">Longroy-Gamaches</station>
+	<station lat="49,86432" long="2,35207">Longueau</station>
+	<station lat="49,46699" long="2,86316">Longueil-Annel</station>
+	<station lat="49,34234" long="2,71609">Longueil-Ste-Marie</station>
+	<station lat="49,55625" long="1,27622">Longuerue-Vieux-Manoir</station>
+	<station lat="48,51549" long="3,24788">Longueville (Seine-et-Marne)</station>
+	<station lat="49,79182" long="1,11050">Longueville-sur-Scie</station>
+	<station lat="49,44718" long="5,60360">Longuyon</station>
+	<station lat="49,51256" long="5,76916">Longwy</station>
+	<station lat="46,66844" long="5,55082">Lons-le-Saunier</station>
+	<station lat="50,43781" long="2,79228">Loos-en-Gohelle</station>
+	<station lat="50,61283" long="3,01750">Loos-les-Lille</station>
+	<station lat="47,38985" long="1,83186">Loreux</station>
+	<station lat="47,75555" long="-3,36565">Lorient</station>
+	<station lat="44,75458" long="4,81686">Loriol</station>
+	<station lat="46,69440" long="1,56262">Lothiers</station>
+	<station lat="46,63075" long="5,21712">Louhans</station>
+	<station lat="43,30594" long="-1,36256">Louhossoa</station>
+	<station lat="46,04351" long="-0,50188">Loulay</station>
+	<station lat="50,31024" long="3,34339">Lourches</station>
+	<station lat="43,10060" long="-0,04181">Lourdes</station>
+	<station lat="43,02114" long="0,61046">Loures-Barbazan</station>
+	<station lat="46,22411" long="2,98431">Louroux-de-Bouble</station>
+	<station lat="48,86124" long="2,12272">Louveciennes</station>
+	<station lat="48,10874" long="-0,71431">Louverné</station>
+	<station lat="49,04920" long="2,50176">Louvres</station>
+	<station lat="50,26806" long="3,95304">Louvroil</station>
+	<station lat="45,85417" long="4,68266">Lozanne</station>
+	<station lat="46,73514" long="1,58966">Luant</station>
+	<station lat="45,44528" long="1,38841">Lubersac</station>
+	<station lat="44,65409" long="3,89112">Luc (Lozère)</station>
+	<station lat="47,13515" long="1,43986">Luçay-le-Mâle</station>
+	<station lat="48,43601" long="1,45279">Lucé</station>
+	<station lat="44,61374" long="5,45481">Luc-en-Diois</station>
+	<station lat="42,79729" long="0,59661">Luchon</station>
+	<station lat="46,46381" long="-1,16745">Luçon</station>
+	<station lat="44,29113" long="2,55433">Luc-Primaube</station>
+	<station lat="47,62806" long="3,74579">Lucy-sur-Cure-Bessy</station>
+	<station lat="44,97424" long="-0,61183">Ludon</station>
+	<station lat="48,62157" long="6,16995">Ludres</station>
+	<station lat="49,73318" long="4,78288">Lumes</station>
+	<station lat="43,70829" long="3,19303">Lunas</station>
+	<station lat="43,67952" long="4,13082">Lunel</station>
+	<station lat="43,68094" long="4,09331">Lunel-Viel</station>
+	<station lat="46,93514" long="2,27509">Lunery</station>
+	<station lat="48,58775" long="6,49714">Lunéville</station>
+	<station lat="47,68296" long="6,49275">Lure</station>
+	<station lat="46,43500" long="0,11577">Lusignan</station>
+	<station lat="44,67112" long="5,69727">Lus-la-Croix-Haute</station>
+	<station lat="46,40519" long="0,71900">Lussac-les-Châteaux</station>
+	<station lat="48,03563" long="7,11959">Luttenbach-près-Munster</station>
+	<station lat="47,75791" long="7,27675">Lutterbach (Haut-Rhin)</station>
+	<station lat="48,72966" long="7,25162">Lutzelbourg</station>
+	<station lat="48,51796" long="7,29384">Lutzelhouse</station>
+	<station lat="45,88722" long="0,10916">Luxé</station>
+	<station lat="47,81517" long="6,37187">Luxeuil-les-Bains</station>
+	<station lat="49,11772" long="2,42158">Luzarches</station>
+	<station lat="42,76445" long="1,75316">Luzenac-Garanou</station>
+	<station lat="46,79422" long="3,96941">Luzy (Nièvre)</station>
+	<station lat="45,76591" long="4,80398">Lyon-Gorge-de-Loup</station>
+	<station lat="45,76033" long="4,86051">Lyon-Part-Dieu</station>
+	<station lat="45,74866" long="4,82556">Lyon-Perrache-Voyageurs</station>
+	<station lat="45,72096" long="5,07579">Lyon-St-Exupéry-TGV</station>
+	<station lat="45,76635" long="4,82558">Lyon-St-Paul</station>
+	<station lat="45,77974" long="4,80288">Lyon-Vaise</station>
+	<station lat="45,00419" long="-0,61987">Macau</station>
+	<station lat="46,99032" long="-1,82247">Machecoul</station>
+	<station lat="46,25084" long="6,32776">Machilly</station>
+	<station lat="46,28253" long="4,77888">Mâcon-Loché-TGV</station>
+	<station lat="46,30290" long="4,82448">Mâcon-Ville</station>
+	<station lat="43,46784" long="3,22944">Magalas</station>
+	<station lat="48,88034" long="2,35837">Magenta</station>
+	<station lat="46,01673" long="6,62176">Magland</station>
+	<station lat="45,62838" long="1,44399">Magnac-Vicq</station>
+	<station lat="46,46403" long="2,60286">Magnette</station>
+	<station lat="49,31000" long="3,73316">Magneux-Courlandon</station>
+	<station lat="48,33442" long="1,28107">Magny-Blandainville</station>
+	<station lat="47,05296" long="0,58301">Maillé</station>
+	<station lat="47,60436" long="3,67508">Mailly-la-Ville</station>
+	<station lat="48,58538" long="1,59246">Maintenon</station>
+	<station lat="47,50299" long="4,02123">Maison-Dieu (Yonne)</station>
+	<station lat="48,80202" long="2,42642">Maisons-Alfort-Alfortville</station>
+	<station lat="48,94595" long="2,14419">Maisons-Laffitte</station>
+	<station lat="48,39302" long="2,39297">Maisse</station>
+	<station lat="49,21611" long="6,15830">Maizières-lès-Metz</station>
+	<station lat="47,32729" long="4,80949">Malain</station>
+	<station lat="47,67543" long="-2,29574">Malansac</station>
+	<station lat="49,51324" long="1,04012">Malaunay-Le Houlme</station>
+	<station lat="44,08824" long="0,97153">Malause</station>
+	<station lat="48,29325" long="2,40119">Malesherbes</station>
+	<station lat="49,41985" long="6,29941">Malling</station>
+	<station lat="47,20035" long="6,16289">Mamirolle</station>
+	<station lat="43,52431" long="6,94156">Mandelieu-la-Napoule</station>
+	<station lat="43,82647" long="4,47888">Manduel-Redessan</station>
+	<station lat="47,13256" long="4,32654">Manlay</station>
+	<station lat="43,82316" long="5,79359">Manosque-Gréoux-les-Bains</station>
+	<station lat="48,98954" long="1,70334">Mantes-la-Jolie</station>
+	<station lat="48,98463" long="1,71391">Mantes-Station</station>
+	<station lat="48,80071" long="6,10918">Marbache</station>
+	<station lat="49,85323" long="2,58207">Marcelcave</station>
+	<station lat="44,69048" long="-0,85372">Marcheprime</station>
+	<station lat="48,76845" long="1,51340">Marchezais-Broué</station>
+	<station lat="48,88078" long="2,07926">Mareil-Marly</station>
+	<station lat="48,89390" long="1,87138">Mareil-sur-Mauldre</station>
+	<station lat="50,40817" long="1,92969">Maresquel</station>
+	<station lat="49,13538" long="3,07527">Mareuil-sur-Ourcq</station>
+	<station lat="45,03575" long="-0,68560">Margaux</station>
+	<station lat="49,43927" long="3,40289">Margival</station>
+	<station lat="48,78181" long="7,82336">Marienthal</station>
+	<station lat="42,91555" long="0,65201">Marignac-St-Béat</station>
+	<station lat="46,08879" long="6,50583">Marignier</station>
+	<station lat="46,19903" long="-0,42862">Marigny (Deux-Sèvres)</station>
+	<station lat="48,73427" long="2,86750">Marles-en-Brie</station>
+	<station lat="49,74726" long="3,76969">Marle-sur-Serre</station>
+	<station lat="46,06436" long="5,07353">Marlieux-Châtillon</station>
+	<station lat="48,87160" long="2,09617">Marly-le-Roi</station>
+	<station lat="47,09970" long="2,28322">Marmagne</station>
+	<station lat="46,83354" long="4,35963">Marmagne-sous-Creusot</station>
+	<station lat="44,50320" long="0,16798">Marmande</station>
+	<station lat="48,86995" long="2,78268">Marne-la-Vallée-Chessy</station>
+	<station lat="50,32320" long="2,69769">Maroeuil</station>
+	<station lat="48,56534" long="2,29089">Marolles-en-Hurepoix</station>
+	<station lat="49,47995" long="1,05086">Maromme</station>
+	<station lat="50,67287" long="3,04983">Marquette</station>
+	<station lat="50,54806" long="2,86761">Marquillies</station>
+	<station lat="50,80525" long="1,73132">Marquise-Rinxent</station>
+	<station lat="42,64296" long="2,48575">Marquixanes</station>
+	<station lat="46,09400" long="1,58633">Marsac (Creuse)</station>
+	<station lat="45,18596" long="0,66246">Marsac (Dordogne)</station>
+	<station lat="43,31817" long="3,53542">Marseillan-Plage</station>
+	<station lat="43,29614" long="5,40656">Marseille-Blancarde</station>
+	<station lat="49,57079" long="1,95499">Marseille-en-Beauvaisis</station>
+	<station lat="43,30356" long="5,38142">Marseille-St-Charles</station>
+	<station lat="43,91511" long="2,02677">Marssac-sur-Tarn</station>
+	<station lat="47,83198" long="-1,31372">Martigné-Ferchaud</station>
+	<station lat="48,10895" long="5,82563">Martigny-les-Bains</station>
+	<station lat="43,39224" long="5,02486">Martigues</station>
+	<station lat="43,19615" long="1,01656">Martres-Tolosane</station>
+	<station lat="44,54352" long="3,27929">Marvejols</station>
+	<station lat="47,67460" long="-1,91442">Massérac</station>
+	<station lat="45,53636" long="1,54168">Masseret</station>
+	<station lat="45,25315" long="3,19643">Massiac</station>
+	<station lat="48,72412" long="2,25594">Massy-Palaiseau-Grande-Ceinture</station>
+	<station lat="48,72865" long="2,26496">Massy-TGV</station>
+	<station lat="48,73529" long="2,27454">Massy-Verrières</station>
+	<station lat="48,39899" long="7,61963">Matzenheim</station>
+	<station lat="50,27251" long="3,96634">Maubeuge</station>
+	<station lat="48,90906" long="1,85771">Maule</station>
+	<station lat="48,98736" long="2,06017">Maurecourt</station>
+	<station lat="50,06750" long="3,45623">Maurois</station>
+	<station lat="44,70568" long="2,19925">Maurs</station>
+	<station lat="47,29281" long="-1,38928">Mauves-sur-Loire</station>
+	<station lat="44,85570" long="0,78962">Mauzac</station>
+	<station lat="46,19984" long="-0,67389">Mauzé</station>
+	<station lat="44,97737" long="0,95685">Mauzens-Miremont</station>
+	<station lat="47,75949" long="0,26565">Mayet</station>
+	<station lat="43,49729" long="2,37590">Mazamet</station>
+	<station lat="50,46115" long="2,69965">Mazingarbe</station>
+	<station lat="48,95686" long="2,87316">Meaux</station>
+	<station lat="47,13898" long="2,20723">Mehun-sur-Yèvre</station>
+	<station lat="48,52723" long="2,65577">Melun</station>
+	<station lat="47,64516" long="1,40590">Menars</station>
+	<station lat="44,52233" long="3,50191">Mende</station>
+	<station lat="48,96664" long="1,60151">Ménerville</station>
+	<station lat="48,50482" long="6,65971">Ménil-Flin</station>
+	<station lat="48,57089" long="2,43275">Mennecy</station>
+	<station lat="49,69207" long="3,27027">Mennessis</station>
+	<station lat="47,26908" long="1,87643">Mennetou-sur-Cher</station>
+	<station lat="43,77464" long="7,49344">Menton</station>
+	<station lat="43,78510" long="7,51707">Menton-Garavan</station>
+	<station lat="47,70604" long="1,50625">Mer (Loir-et-Cher)</station>
+	<station lat="42,65933" long="1,83700">Mérens-les-Vals</station>
+	<station lat="43,63664" long="1,15078">Mérenvielle</station>
+	<station lat="49,95555" long="2,57236">Méricourt-Ribemont</station>
+	<station lat="49,07701" long="2,20481">Mériel</station>
+	<station lat="48,05395" long="5,59476">Merrey (Haute-Marne)</station>
+	<station lat="48,87200" long="7,67836">Mertzwiller</station>
+	<station lat="49,23293" long="2,13226">Méru</station>
+	<station lat="46,79880" long="5,17939">Mervans</station>
+	<station lat="47,91311" long="7,30241">Merxheim</station>
+	<station lat="49,05711" long="2,19058">Méry</station>
+	<station lat="47,82222" long="-1,81866">Messac-Guipry</station>
+	<station lat="48,61300" long="6,13764">Messein</station>
+	<station lat="47,24171" long="3,00671">Mesves-Bulcy</station>
+	<station lat="46,86300" long="4,24392">Mesvres</station>
+	<station lat="48,01389" long="7,07340">Metzeral</station>
+	<station lat="49,31818" long="6,28376">Metzervisse</station>
+	<station lat="49,13694" long="6,16710">Metz-Nord</station>
+	<station lat="49,10921" long="6,17778">Metz-Ville</station>
+	<station lat="48,81479" long="2,24084">Meudon</station>
+	<station lat="48,80845" long="2,24172">Meudon-Val-Fleury</station>
+	<station lat="49,00578" long="1,90171">Meulan-Hardricourt</station>
+	<station lat="47,82998" long="1,69176">Meung-sur-Loire</station>
+	<station lat="50,49753" long="2,89328">Meurchin</station>
+	<station lat="46,96917" long="4,79540">Meursault</station>
+	<station lat="45,90169" long="5,19355">Meximieux-Pérouges</station>
+	<station lat="45,52923" long="2,16087">Meymac</station>
+	<station lat="43,64420" long="5,53947">Meyrargues</station>
+	<station lat="46,23490" long="5,04678">Mézériat</station>
+	<station lat="49,07088" long="-0,07500">Mézidon</station>
+	<station lat="46,52621" long="0,41172">Mignaloux-Nouaillé</station>
+	<station lat="45,12902" long="0,91789">Milhac-d'Auberoche</station>
+	<station lat="43,78842" long="4,30308">Milhaud</station>
+	<station lat="42,68825" long="2,69549">Millas</station>
+	<station lat="44,10172" long="3,07378">Millau</station>
+	<station lat="49,50498" long="1,98904">Milly-sur-Thérain</station>
+	<station lat="48,53153" long="-1,91503">Miniac</station>
+	<station lat="45,89691" long="4,91950">Mionnay</station>
+	<station lat="43,58095" long="4,99933">Miramas</station>
+	<station lat="50,09610" long="2,73468">Miraumont</station>
+	<station lat="48,29970" long="6,12877">Mirecourt</station>
+	<station lat="45,82182" long="4,95375">Miribel</station>
+	<station lat="48,97587" long="2,64234">Mitry-Claye</station>
+	<station lat="45,19352" long="6,65943">Modane</station>
+	<station lat="49,75264" long="4,73328">Mohon</station>
+	<station lat="45,32203" long="5,58186">Moirans</station>
+	<station lat="45,32395" long="5,56374">Moirans-la-Galifette</station>
+	<station lat="44,10253" long="1,07740">Moissac</station>
+	<station lat="44,25987" long="4,15929">Molières-sur-Cèze</station>
+	<station lat="48,53751" long="7,50018">Molsheim</station>
+	<station lat="48,75565" long="7,64212">Mommenheim</station>
+	<station lat="44,91176" long="5,63370">Monestier-de-Clermont</station>
+	<station lat="47,85071" long="3,58001">Monéteau-Gurgy</station>
+	<station lat="44,96965" long="3,65047">Monistrol-d'Allier</station>
+	<station lat="47,49926" long="0,79398">Monnaie</station>
+	<station lat="48,34878" long="2,03271">Monnerville</station>
+	<station lat="44,48656" long="0,94113">Monsempron-Libos</station>
+	<station lat="45,35460" long="1,97954">Montaignac-St-Hippolyte</station>
+	<station lat="46,13685" long="1,73477">Montaigut</station>
+	<station lat="46,98375" long="-1,31648">Montaigu-Vendée</station>
+	<station lat="48,00716" long="2,74300">Montargis</station>
+	<station lat="43,71600" long="1,59790">Montastruc-la-Conseillère</station>
+	<station lat="49,25119" long="2,43695">Montataire</station>
+	<station lat="48,18990" long="-2,05310">Montauban-de-Bretagne</station>
+	<station lat="44,01632" long="1,33882">Montauban-Ville-Bourbon</station>
+	<station lat="43,57371" long="1,48000">Montaudran</station>
+	<station lat="43,12691" long="-0,19822">Montaut-Bétharram</station>
+	<station lat="47,61872" long="4,33616">Montbard</station>
+	<station lat="47,03618" long="5,63630">Montbarrey</station>
+	<station lat="43,92413" long="1,26457">Montbartier</station>
+	<station lat="47,29165" long="0,72151">Montbazon</station>
+	<station lat="47,51036" long="6,80165">Montbéliard</station>
+	<station lat="46,53291" long="3,49246">Montbeugny</station>
+	<station lat="48,15140" long="0,19075">Montbizot</station>
+	<station lat="49,19381" long="4,03868">Montbré</station>
+	<station lat="45,60505" long="4,07836">Montbrison</station>
+	<station lat="44,85506" long="0,06265">Montcaret</station>
+	<station lat="46,67105" long="4,36205">Montceau-les-Mines</station>
+	<station lat="46,75902" long="4,48292">Montchanin</station>
+	<station lat="44,67406" long="6,61559">Montdauphin-Guillestre</station>
+	<station lat="43,88473" long="-0,50434">Mont-de-Marsan</station>
+	<station lat="50,61784" long="3,09652">Mont-de-Terre</station>
+	<station lat="49,64143" long="2,56189">Montdidier</station>
+	<station lat="44,55907" long="4,74469">Montélimar</station>
+	<station lat="45,28060" long="-0,39605">Montendre</station>
+	<station lat="48,37959" long="2,94277">Montereau</station>
+	<station lat="49,60302" long="1,33486">Montérolier-Buchy</station>
+	<station lat="49,73781" long="3,25194">Montescourt</station>
+	<station lat="43,93265" long="4,87388">Montfavet</station>
+	<station lat="47,18483" long="5,90746">Montferrand-Thoraise</station>
+	<station lat="48,80278" long="1,81591">Montfort-l'Amaury-Mère</station>
+	<station lat="48,04037" long="0,40566">Montfort-le-Gesnois</station>
+	<station lat="48,13900" long="-1,94884">Montfort-sur-Meu</station>
+	<station lat="48,70859" long="2,46160">Montgeron-Crosne</station>
+	<station lat="49,07990" long="2,00597">Montgeroult-Courcelles</station>
+	<station lat="49,86554" long="4,74102">Monthermé</station>
+	<station lat="49,00778" long="2,19682">Montigny-Beauchamp</station>
+	<station lat="50,36146" long="3,18933">Montigny-en-Ostrevent</station>
+	<station lat="48,33651" long="2,73810">Montigny-sur-Loing</station>
+	<station lat="49,54291" long="0,18960">Montivilliers</station>
+	<station lat="43,47518" long="1,57806">Montlaur</station>
+	<station lat="47,39107" long="0,81675">Montlouis</station>
+	<station lat="42,50264" long="2,11673">Mont-Louis-La Cabanasse</station>
+	<station lat="46,33648" long="2,61406">Montluçon-Rimard</station>
+	<station lat="46,34048" long="2,59196">Montluçon-Ville</station>
+	<station lat="45,84810" long="5,05867">Montluel</station>
+	<station lat="49,52321" long="5,37127">Montmédy</station>
+	<station lat="45,50348" long="6,04263">Montmélian</station>
+	<station lat="45,39831" long="0,13801">Montmoreau</station>
+	<station lat="46,41734" long="0,87377">Montmorillon</station>
+	<station lat="49,29667" long="3,57653">Mont-Notre-Dame</station>
+	<station lat="47,32065" long="-2,16254">Montoir-de-Bretagne</station>
+	<station lat="43,86587" long="3,10849">Montpaon</station>
+	<station lat="43,60584" long="3,88237">Montpellier</station>
+	<station lat="45,00621" long="0,15945">Montpon-Ménestérol</station>
+	<station lat="43,64512" long="1,52407">Montrabé</station>
+	<station lat="43,07806" long="0,57355">Montréjeau-Gourdan-Polignan</station>
+	<station lat="48,80624" long="2,15220">Montreuil</station>
+	<station lat="47,12577" long="-0,14829">Montreuil-Bellay</station>
+	<station lat="48,30633" long="-1,67426">Montreuil-sur-Ille</station>
+	<station lat="50,46612" long="1,76937">Montreuil-sur-Mer</station>
+	<station lat="49,38145" long="2,19967">Montreuil-sur-Thérain</station>
+	<station lat="47,61738" long="7,02464">Montreux-Vieux</station>
+	<station lat="47,34381" long="1,17202">Montrichard</station>
+	<station lat="45,99600" long="6,93442">Montroc-le-Planet</station>
+	<station lat="45,64443" long="4,24934">Montrond-les-Bains</station>
+	<station lat="48,89094" long="2,82636">Montry-Condé</station>
+	<station lat="47,28201" long="0,65474">Monts (Indre-et-Loire)</station>
+	<station lat="49,06626" long="2,32275">Montsoult-Maffliers</station>
+	<station lat="50,34200" long="2,66973">Mont-St-Éloi</station>
+	<station lat="48,56011" long="6,45014">Mont-sur-Meurthe</station>
+	<station lat="48,14122" long="-0,55167">Montsurs</station>
+	<station lat="49,55105" long="1,06965">Montville</station>
+	<station lat="47,86059" long="7,05108">Moosch</station>
+	<station lat="47,73887" long="-0,41811">Morannes</station>
+	<station lat="46,54059" long="6,01725">Morbier</station>
+	<station lat="44,03408" long="-0,90858">Morcenx</station>
+	<station lat="48,37872" long="2,79963">Moret-Veneux-les-Sablons</station>
+	<station lat="49,77689" long="2,47561">Moreuil</station>
+	<station lat="46,53026" long="6,02206">Morez</station>
+	<station lat="49,52288" long="1,24740">Morgny</station>
+	<station lat="48,93670" long="6,65939">Morhange</station>
+	<station lat="43,94230" long="4,90853">Morières-lès-Avignon</station>
+	<station lat="48,57799" long="-3,83276">Morlaix</station>
+	<station lat="48,61392" long="2,88857">Mormant</station>
+	<station lat="47,22621" long="6,06655">Morre</station>
+	<station lat="48,78912" long="2,90772">Mortcerf</station>
+	<station lat="47,05369" long="6,60486">Morteau</station>
+	<station lat="48,93463" long="8,16157">Mothern</station>
+	<station lat="49,63696" long="0,84569">Motteville</station>
+	<station lat="43,62068" long="6,97415">Mouans-Sartoux</station>
+	<station lat="46,97681" long="5,80075">Mouchard</station>
+	<station lat="48,58627" long="2,47345">Moulin-Galant</station>
+	<station lat="46,56064" long="3,33897">Moulins-sur-Allier</station>
+	<station lat="45,08408" long="-0,74461">Moulis-Listrac</station>
+	<station lat="49,11086" long="-0,18610">Moult-Argences</station>
+	<station lat="49,13123" long="4,31773">Mourmelon-le-Petit</station>
+	<station lat="48,81328" long="3,04471">Mouroux</station>
+	<station lat="48,50764" long="-3,24305">Moustéru</station>
+	<station lat="45,48683" long="6,53004">Moûtiers-Salins-Brides-les-Bains</station>
+	<station lat="49,32088" long="2,32622">Mouy-Bury</station>
+	<station lat="49,24678" long="6,04388">Moyeuvre-Grande</station>
+	<station lat="48,02454" long="7,08772">Muhlbach-sur-Munster</station>
+	<station lat="49,27828" long="3,89108">Muizon</station>
+	<station lat="47,74675" long="7,30777">Mulhouse-Dornach</station>
+	<station lat="47,74199" long="7,34344">Mulhouse-Ville</station>
+	<station lat="48,52464" long="7,31270">Mullerhof</station>
+	<station lat="48,92398" long="8,14126">Munchhausen</station>
+	<station lat="48,64491" long="7,72112">Mundolsheim</station>
+	<station lat="48,03825" long="7,13285">Munster</station>
+	<station lat="48,03908" long="7,15274">Munster-Badischhof</station>
+	<station lat="45,10892" long="2,86905">Murat</station>
+	<station lat="43,46479" long="1,32417">Muret</station>
+	<station lat="48,86004" long="2,32860">Musée-d'Orsay</station>
+	<station lat="45,03459" long="0,35386">Mussidan</station>
+	<station lat="48,53367" long="7,46076">Mutzig</station>
+	<station lat="46,75952" long="0,49607">Naintré-les-Barres</station>
+	<station lat="44,22249" long="1,97657">Najac</station>
+	<station lat="49,80809" long="2,10533">Namps-Quevauvillers</station>
+	<station lat="48,71787" long="5,29133">Nançois-Tronville</station>
+	<station lat="48,69000" long="6,17382">Nancy-Ville</station>
+	<station lat="48,56127" long="3,01290">Nangis</station>
+	<station lat="48,90151" long="2,21517">Nanterre-Université</station>
+	<station lat="47,21677" long="-1,54296">Nantes</station>
+	<station lat="49,14258" long="2,79427">Nanteuil-le-Haudouin</station>
+	<station lat="48,97390" long="3,22019">Nanteuil-Saâcy</station>
+	<station lat="46,00589" long="1,15599">Nantiat</station>
+	<station lat="43,19087" long="3,00578">Narbonne</station>
+	<station lat="44,18551" long="2,36337">Naucelle</station>
+	<station lat="48,15745" long="-0,47655">Neau</station>
+	<station lat="45,34613" long="0,86126">Négrondes</station>
+	<station lat="48,26810" long="2,68561">Nemours-St-Pierre</station>
+	<station lat="46,99955" long="2,82259">Nérondes</station>
+	<station lat="46,78351" long="0,52545">Nerpuy</station>
+	<station lat="49,76405" long="2,90937">Nesle (Somme)</station>
+	<station lat="48,35714" long="5,68936">Neufchâteau</station>
+	<station lat="50,62356" long="1,64272">Neufchâtel-Hardelot</station>
+	<station lat="47,55823" long="0,56444">Neuillé-Pont-Pierre</station>
+	<station lat="47,28177" long="5,11080">Neuilly-lès-Dijon</station>
+	<station lat="48,87788" long="2,28466">Neuilly-Porte-Maillot</station>
+	<station lat="49,18732" long="3,27111">Neuilly-St-Front</station>
+	<station lat="45,12530" long="2,97842">Neussargues</station>
+	<station lat="48,61484" long="6,10795">Neuves-Maisons</station>
+	<station lat="45,09979" long="0,44514">Neuvic (Dordogne)</station>
+	<station lat="48,07028" long="0,19968">Neuville-sur-Sarthe</station>
+	<station lat="49,01344" long="2,07847">Neuville-Université</station>
+	<station lat="46,88223" long="1,86189">Neuvy-Pailloux</station>
+	<station lat="46,98754" long="3,15041">Nevers</station>
+	<station lat="47,00682" long="3,16361">Nevers-Le Banlay</station>
+	<station lat="45,69164" long="1,17801">Nexon</station>
+	<station lat="48,93852" long="1,84067">Nézel-Aulnay</station>
+	<station lat="43,70594" long="7,29030">Nice-Riquier</station>
+	<station lat="43,67114" long="7,21731">Nice-St-Augustin</station>
+	<station lat="43,71609" long="7,28777">Nice-St-Roch</station>
+	<station lat="43,70483" long="7,26199">Nice-Ville</station>
+	<station lat="48,95236" long="7,63380">Niederbronn-les-Bains</station>
+	<station lat="50,69658" long="2,82911">Nieppe</station>
+	<station lat="45,92772" long="1,17218">Nieul (Haute-Vienne)</station>
+	<station lat="43,83229" long="4,36584">Nîmes</station>
+	<station lat="43,34023" long="5,25720">Niolon</station>
+	<station lat="46,31935" long="-0,45438">Niort</station>
+	<station lat="43,29548" long="3,11668">Nissan</station>
+	<station lat="45,13826" long="0,80830">Niversac</station>
+	<station lat="50,48301" long="2,67470">Noeux</station>
+	<station lat="48,96877" long="3,32295">Nogent-l'Artaud-Charly</station>
+	<station lat="48,83844" long="2,49436">Nogent-Le Perreux</station>
+	<station lat="48,32592" long="0,81035">Nogent-le-Rotrou</station>
+	<station lat="48,49784" long="3,49373">Nogent-sur-Seine</station>
+	<station lat="47,85285" long="2,73765">Nogent-sur-Vernisson</station>
+	<station lat="49,13281" long="2,28003">Nointel-Mours</station>
+	<station lat="45,81645" long="3,76147">Noirétable</station>
+	<station lat="46,86957" long="-0,39617">Noirterre</station>
+	<station lat="48,84149" long="2,06163">Noisy-le-Roi</station>
+	<station lat="48,89679" long="2,46072">Noisy-le-Sec</station>
+	<station lat="47,40971" long="0,89624">Noizay</station>
+	<station lat="50,50255" long="3,20644">Nomain</station>
+	<station lat="50,50326" long="3,23146">Nomain-Ouvignies</station>
+	<station lat="48,77582" long="1,19227">Nonancourt</station>
+	<station lat="48,70363" long="0,21981">Nonant-le-Pin</station>
+	<station lat="50,88298" long="2,02251">Nortkerque</station>
+	<station lat="48,59185" long="2,26738">La Norville Saint-Germain les Arpajon</station>
+	<station lat="45,53860" long="6,46901">Notre-Dame-de-Briançon</station>
+	<station lat="47,45973" long="0,70825">Notre-Dame-d'Oé</station>
+	<station lat="47,53390" long="2,03275">Nouan-le-Fuzelier</station>
+	<station lat="49,69698" long="4,79495">Nouvion-sur-Meuse</station>
+	<station lat="49,81219" long="4,74271">Nouzonville</station>
+	<station lat="49,02738" long="6,05239">Novéant</station>
+	<station lat="47,28400" long="6,13323">Novillars</station>
+	<station lat="48,11873" long="-1,52854">Noyal-Acigné</station>
+	<station lat="50,18702" long="1,70455">Noyelles</station>
+	<station lat="47,87477" long="-0,09915">Noyen</station>
+	<station lat="49,57683" long="3,00571">Noyon</station>
+	<station lat="43,97583" long="4,20741">Nozières-Brignon</station>
+	<station lat="44,44111" long="2,44140">Nuces</station>
+	<station lat="47,72920" long="4,21126">Nuits-sous-Ravières</station>
+	<station lat="47,13067" long="4,95621">Nuits-St-Georges</station>
+	<station lat="46,18448" long="5,52916">Nurieux</station>
+	<station lat="42,54300" long="2,26252">Nyers</station>
+	<station lat="48,84239" long="7,54771">Obermodern</station>
+	<station lat="48,46187" long="7,48898">Obernai</station>
+	<station lat="45,26524" long="1,40688">Objat</station>
+	<station lat="47,91135" long="6,97353">Oderen</station>
+	<station lat="49,00104" long="7,13185">Oermingen</station>
+	<station lat="43,15387" long="-0,50780">Ogeu-les-Bains</station>
+	<station lat="49,34310" long="1,10198">Oissel</station>
+	<station lat="50,25659" long="3,15753">Oisy-le-Verger</station>
+	<station lat="42,55495" long="2,27340">Olette-Canaveilles-les-Bains</station>
+	<station lat="43,12243" long="5,82488">Ollioules-Sanary-sur-Mer</station>
+	<station lat="46,54875" long="-1,76740">Olonne-sur-Mer</station>
+	<station lat="43,19502" long="-0,61226">Oloron-Ste-Marie</station>
+	<station lat="43,56886" long="-1,45715">Ondres</station>
+	<station lat="49,01333" long="5,97904">Onville</station>
+	<station lat="47,49187" long="1,18611">Onzain</station>
+	<station lat="44,13740" long="4,81971">Orange</station>
+	<station lat="48,63622" long="2,40998">Orangis-Bois-de-l'Épine</station>
+	<station lat="47,15017" long="5,65885">Orchamps (Jura)</station>
+	<station lat="50,47729" long="3,24940">Orchies</station>
+	<station lat="48,82683" long="1,70198">Orgerus-Béhoust</station>
+	<station lat="43,78590" long="5,04526">Orgon</station>
+	<station lat="49,89074" long="4,02436">Origny-en-Thiérache</station>
+	<station lat="47,90815" long="1,90475">Orléans</station>
+	<station lat="48,74284" long="2,40186">Orly-Ville</station>
+	<station lat="49,20090" long="2,83813">Ormoy-Villers</station>
+	<station lat="49,13897" long="2,48951">Orry-la-Ville-Coye</station>
+	<station lat="50,10339" long="3,62691">Ors</station>
+	<station lat="43,48316" long="-0,76767">Orthez</station>
+	<station lat="49,06263" long="2,05916">Osny</station>
+	<station lat="42,42145" long="1,98238">Osséja</station>
+	<station lat="43,23532" long="-1,30510">Ossès-St-Martin-d'Arrossa</station>
+	<station lat="43,18342" long="-0,02126">Ossun</station>
+	<station lat="50,44533" long="3,03181">Ostricourt</station>
+	<station lat="47,34306" long="-1,29166">Oudon</station>
+	<station lat="47,25578" long="5,07282">Ouges</station>
+	<station lat="49,18726" long="3,35237">Oulchy-Breny</station>
+	<station lat="45,71731" long="4,81351">Oullins</station>
+	<station lat="49,53395" long="2,95382">Ourscamps</station>
+	<station lat="46,25957" long="5,65293">Oyonnax</station>
+	<station lat="48,77052" long="2,69042">Ozoir-la-Ferrière</station>
+	<station lat="47,04664" long="5,20134">Pagny</station>
+	<station lat="48,69670" long="5,73394">Pagny-sur-Meuse</station>
+	<station lat="48,98523" long="6,02533">Pagny-sur-Moselle</station>
+	<station lat="48,77559" long="-3,04894">Paimpol</station>
+	<station lat="46,55495" long="4,20791">Palinges</station>
+	<station lat="43,11621" long="1,61972">Pamiers</station>
+	<station lat="46,39981" long="-0,05197">Pamproux</station>
+	<station lat="48,89807" long="2,40028">Pantin</station>
+	<station lat="46,44635" long="4,11536">Paray-le-Monial</station>
+	<station lat="48,97343" long="2,51390">Parc-des-Expositions</station>
+	<station lat="44,94381" long="-0,61954">Parempuyre</station>
+	<station lat="45,61424" long="3,21698">Parent-Coudes-Champeix</station>
+	<station lat="48,84049" long="2,36702">Paris-Austerlitz</station>
+	<station lat="48,84049" long="2,36702">Paris-Austerlitz (Banlieue)</station>
+	<station lat="48,84019" long="2,38467">Paris-Bercy</station>
+	<station lat="48,87760" long="2,35914">Paris-Est</station>
+	<station lat="48,84385" long="2,37469">Paris-Gare-de-Lyon</station>
+	<station lat="48,84414" long="2,37400">Paris-Gare-de-Lyon (Banlieue)</station>
+	<station lat="48,88164" long="2,35614">Paris-Nord-Surface</station>
+	<station lat="48,82668" long="2,30278">Paris-Montparnasse</station>
+	<station lat="48,88164" long="2,35483">Paris-Nord</station>
+	<station lat="48,88164" long="2,35614">Paris-Nord-Souterraine</station>
+	<station lat="48,87645" long="2,32400">Paris-St-Lazare</station>
+	<station lat="48,83741" long="2,31588">Paris-Vaugirard</station>
+	<station lat="46,19831" long="2,17420">Parsac-Gouzon</station>
+	<station lat="47,20699" long="-1,51126">Saint-Sébastien Pas Enchantés</station>
+	<station lat="43,41189" long="5,25267">Pas-des-Lanciers</station>
+	<station lat="43,29147" long="-0,36946">Pau</station>
+	<station lat="45,20359" long="-0,75563">Pauillac</station>
+	<station lat="46,74255" long="5,91979">Champagnole Paul Emile Victor</station>
+	<station lat="45,21016" long="3,50038">Paulhaguet</station>
+	<station lat="49,56453" long="0,95059">Pavilly-Station</station>
+	<station lat="43,79160" long="7,37993">Peille</station>
+	<station lat="43,76779" long="7,36649">Peillon-Ste-Thècle</station>
+	<station lat="49,07437" long="6,22075">Peltre</station>
+	<station lat="47,29025" long="-2,20074">Penhoët</station>
+	<station lat="44,37996" long="0,80302">Penne (Lot-et-Garonne)</station>
+	<station lat="47,55825" long="-3,13321">Penthièvre</station>
+	<station lat="48,88518" long="2,29806">Péreire-Levallois</station>
+	<station lat="50,66701" long="2,97716">Pérenchies</station>
+	<station lat="45,18717" long="0,70718">Périgueux</station>
+	<station lat="45,17840" long="0,73366">Périgueux-St-Georges</station>
+	<station lat="50,48011" long="2,43098">Pernes-Camblain</station>
+	<station lat="45,58465" long="1,97764">Pérols</station>
+	<station lat="42,69608" long="2,87962">Perpignan</station>
+	<station lat="46,30338" long="6,42493">Perrignier</station>
+	<station lat="44,88760" long="2,24023">Pers</station>
+	<station lat="49,14815" long="2,27909">Persan-Beaumont</station>
+	<station lat="43,68458" long="5,50303">Pertuis</station>
+	<station lat="44,80441" long="-0,63178">Pessac</station>
+	<station lat="45,52171" long="6,48412">Petit-Coeur-la-Léchère</station>
+	<station lat="47,61010" long="6,99463">Petit-Croix</station>
+	<station lat="48,76833" long="2,14765">Petit-Jouy-Les Loges</station>
+	<station lat="49,04947" long="7,29991">Petit-Réderching</station>
+	<station lat="48,67738" long="2,33085">Petit-Vaux</station>
+	<station lat="43,26725" long="2,03246">Pexiora</station>
+	<station lat="43,54686" long="-1,11577">Peyrehorade</station>
+	<station lat="45,95983" long="1,17025">Peyrilhac-St-Jouvent</station>
+	<station lat="47,86723" long="1,14071">Pezou</station>
+	<station lat="50,51505" long="3,01989">Phalempin</station>
+	<station lat="43,62151" long="1,28915">Pibrac</station>
+	<station lat="43,33178" long="5,39340">Picon-Busserine</station>
+	<station lat="49,94626" long="2,14295">Picquigny</station>
+	<station lat="45,70680" long="4,82465">Pierre-Bénite</station>
+	<station lat="45,69932" long="1,34737">Pierre-Buffière</station>
+	<station lat="48,96396" long="2,37249">Pierrefitte-Stains</station>
+	<station lat="44,37407" long="4,70383">Pierrelatte</station>
+	<station lat="49,01928" long="2,15403">Pierrelaye</station>
+	<station lat="48,54845" long="6,12430">Pierreville</station>
+	<station lat="44,73720" long="-0,76412">Pierroton</station>
+	<station lat="43,29825" long="6,22436">Pignans</station>
+	<station lat="50,87301" long="1,78588">Pihen</station>
+	<station lat="43,47909" long="1,39981">Pins-Justaret</station>
+	<station lat="48,83218" long="1,94315">Plaisir-Grignon</station>
+	<station lat="48,83100" long="1,96254">Plaisir-les Clayes</station>
+	<station lat="48,52147" long="-2,22884">Plancoët</station>
+	<station lat="42,50333" long="2,13822">Planès</station>
+	<station lat="47,87169" long="-1,77646">Pléchâtel</station>
+	<station lat="48,37655" long="-2,35479">Plénée-Jugon</station>
+	<station lat="48,53154" long="-1,85044">Plerguer</station>
+	<station lat="48,42564" long="-2,44266">Plestan</station>
+	<station lat="48,49930" long="-1,96180">Pleudihen</station>
+	<station lat="48,50759" long="-3,88285">Pleyber-Christ</station>
+	<station lat="48,60919" long="-3,44518">Plouaret</station>
+	<station lat="48,45813" long="-3,37090">Plougonver</station>
+	<station lat="47,60415" long="-3,11849">Plouharnel-Carnac</station>
+	<station lat="48,56481" long="-3,71196">Plouigneau</station>
+	<station lat="48,58147" long="-3,56837">Plounérin</station>
+	<station lat="48,50856" long="-2,89223">Plouvara-Plerneuf</station>
+	<station lat="44,64887" long="-0,35892">Podensac</station>
+	<station lat="48,93298" long="2,04079">Poissy</station>
+	<station lat="46,58231" long="0,33276">Poitiers</station>
+	<station lat="49,77763" long="1,99037">Poix-de-Picardie</station>
+	<station lat="49,65039" long="4,63666">Poix-Terron</station>
+	<station lat="45,25644" long="5,47370">Poliénas</station>
+	<station lat="46,84135" long="5,69626">Poligny</station>
+	<station lat="46,24454" long="5,12385">Polliat</station>
+	<station lat="44,95144" long="2,58079">Polminhac</station>
+	<station lat="43,11218" long="2,28839">Pomas</station>
+	<station lat="44,10236" long="0,93146">Pommevic</station>
+	<station lat="45,39563" long="1,38708">Pompadour</station>
+	<station lat="48,77335" long="6,13139">Pompey</station>
+	<station lat="45,57810" long="-0,53900">Pons</station>
+	<station lat="48,89977" long="6,05059">Pont-à-Mousson</station>
+	<station lat="46,21305" long="4,77252">Pontanevaux-la-Chapelle</station>
+	<station lat="46,90100" long="6,35297">Pontarlier</station>
+	<station lat="50,47158" long="2,87565">Pont-à-Vendin</station>
+	<station lat="48,88759" long="2,31439">Pont-Cardinet</station>
+	<station lat="48,11837" long="-1,69175">Pontchaillou</station>
+	<station lat="45,87151" long="4,49276">Pontcharra-St-Forgeux</station>
+	<station lat="45,43405" long="6,00781">Pontcharra-sur-Breda-Allevard</station>
+	<station lat="47,43518" long="-2,08821">Pontchâteau</station>
+	<station lat="46,05382" long="5,33406">Pont-d'Ain</station>
+	<station lat="50,89216" long="1,97082">Pont-d'Ardres</station>
+	<station lat="45,52455" long="5,68067">Pont-de-Beauvoisin</station>
+	<station lat="50,62398" long="3,12754">Pont-de-Bois</station>
+	<station lat="50,68294" long="1,62636">Pont-de-Briques</station>
+	<station lat="48,25432" long="-4,08630">Pont-de-Buis</station>
+	<station lat="45,12560" long="5,70001">Pont-de-Claix</station>
+	<station lat="45,84329" long="3,49027">Pont-de-Dore</station>
+	<station lat="50,39718" long="3,08514">Pont-de-la-Deule</station>
+	<station lat="48,86281" long="2,30306">Pont-de-l'Alma</station>
+	<station lat="49,31692" long="1,16059">Pont-de-l'Arche</station>
+	<station lat="45,26052" long="4,13809">Pont-de-Lignon</station>
+	<station lat="48,74754" long="2,37138">Pont-de-Rungis-Aéroport-d'Orly</station>
+	<station lat="50,41594" long="2,86407">Pont-de-Sallaumines</station>
+	<station lat="46,26782" long="4,89298">Pont-de-Veyle</station>
+	<station lat="44,23284" long="0,67594">Pont-du-Casse</station>
+	<station lat="45,78834" long="3,23784">Pont-du-Château</station>
+	<station lat="45,82131" long="2,84606">Pontgibaud</station>
+	<station lat="48,47770" long="1,14260">Pontgouin</station>
+	<station lat="49,16205" long="-1,12704">Pont-Hébert</station>
+	<station lat="48,53512" long="2,54447">Ponthierry-Pringy</station>
+	<station lat="49,28748" long="0,19115">Pont-l'Évêque</station>
+	<station lat="49,56392" long="2,98502">Pont-l'Évêque-sur-Oise</station>
+	<station lat="48,47008" long="-3,31159">Pont-Melvez</station>
+	<station lat="45,93947" long="3,16000">Pontmort</station>
+	<station lat="43,26810" long="-1,34513">Pont-Noblia</station>
+	<station lat="49,04673" long="2,09592">Pontoise</station>
+	<station lat="48,55245" long="-1,50507">Pontorson-Mont-St-Michel</station>
+	<station lat="49,06121" long="2,13154">Pont-Petit</station>
+	<station lat="50,04722" long="1,89863">Pont-Remy</station>
+	<station lat="48,70532" long="-3,15730">Pontrieux</station>
+	<station lat="48,69796" long="-3,16458">Pontrieux-Halte</station>
+	<station lat="49,30986" long="2,60225">Pont-Ste-Maxence</station>
+	<station lat="48,60210" long="6,10344">Pont-St-Vincent</station>
+	<station lat="48,28671" long="3,20175">Pont-sur-Yonne</station>
+	<station lat="48,79651" long="2,14997">Porchefontaine</station>
+	<station lat="47,11453" long="-2,09766">Pornic</station>
+	<station lat="47,27034" long="-2,34392">Pornichet</station>
+	<station lat="42,52034" long="1,82237">Porta</station>
+	<station lat="47,24853" long="0,15488">Port-Boulet</station>
+	<station lat="48,11065" long="-0,97425">Port-Brillet</station>
+	<station lat="43,40726" long="4,98457">Port-de-Bouc</station>
+	<station lat="47,01015" long="0,59857">Port-de-Piles</station>
+	<station lat="48,89358" long="2,31165">Porte-de-Clichy</station>
+	<station lat="42,53762" long="1,82399">Porté-Puymorens</station>
+	<station lat="44,69313" long="-0,42610">Portets</station>
+	<station lat="43,52792" long="1,38903">Portet-St-Simon</station>
+	<station lat="43,02093" long="3,03882">Port-la-Nouvelle</station>
+	<station lat="44,25052" long="0,38897">Port-Ste-Marie</station>
+	<station lat="47,11608" long="-1,74009">Port-St-Père-St-Mars</station>
+	<station lat="42,51338" long="3,10239">Port-Vendres-Ville</station>
+	<station lat="49,06099" long="1,52415">Port-Villez</station>
+	<station lat="46,14478" long="5,96122">Pougny-Chancy</station>
+	<station lat="47,07697" long="3,09383">Pougues-les-Eaux</station>
+	<station lat="47,28219" long="2,96601">Pouilly-sur-Loire</station>
+	<station lat="48,10379" long="6,58126">Pouxeux</station>
+	<station lat="46,75242" long="-0,81462">Pouzauges</station>
+	<station lat="42,61704" long="2,42936">Prades-Molitg-les-Bains</station>
+	<station lat="48,43255" long="6,10093">Praye-sous-Vaudémont</station>
+	<station lat="49,20323" long="2,37636">Précy-sur-Oise</station>
+	<station lat="44,57746" long="-0,30170">Preignac</station>
+	<station lat="49,11321" long="2,28768">Presles-Courcelles</station>
+	<station lat="44,85103" long="0,41317">Prigonrieux-La Force</station>
+	<station lat="46,21902" long="-0,63646">Prin-Deyrançon</station>
+	<station lat="45,93912" long="6,12340">Pringy (Haute-Savoie)</station>
+	<station lat="46,15276" long="-0,49367">Prissé-la-Charrière</station>
+	<station lat="50,31697" long="3,46144">Prouvy-Thiant</station>
+	<station lat="48,30401" long="7,08510">Provenchères-sur-Fave</station>
+	<station lat="48,55581" long="3,30333">Provins</station>
+	<station lat="49,19883" long="4,18356">Prunay</station>
+	<station lat="47,31412" long="1,67296">Pruniers</station>
+	<station lat="43,28414" long="6,13993">Puget-Ville</station>
+	<station lat="48,53573" long="6,13767">Pulligny-Autrey</station>
+	<station lat="48,88364" long="2,23391">Puteaux</station>
+	<station lat="44,92171" long="1,78403">Puybrun</station>
+	<station lat="43,52450" long="-0,91055">Puyoô</station>
+	<station lat="48,24855" long="-2,14562">Quédillac</station>
+	<station lat="50,10891" long="1,70255">Quesnoy-le-Montant</station>
+	<station lat="50,70805" long="2,99548">Quesnoy-sur-Deûle</station>
+	<station lat="47,68304" long="-2,44753">Questembert</station>
+	<station lat="47,48553" long="-3,11817">Quiberon</station>
+	<station lat="42,87359" long="2,18157">Quillan</station>
+	<station lat="47,99466" long="-4,09210">Quimper</station>
+	<station lat="47,86913" long="-3,55302">Quimperlé</station>
+	<station lat="45,90667" long="4,77844">Quincieux</station>
+	<station lat="43,81950" long="1,73077">Rabastens-Couffouleux</station>
+	<station lat="47,88699" long="7,28407">Raedersheim</station>
+	<station lat="48,74373" long="0,55413">Rai-Aube</station>
+	<station lat="50,39024" long="3,47830">Raismes (Nord)</station>
+	<station lat="48,64324" long="1,83117">Rambouillet</station>
+	<station lat="47,15277" long="5,72486">Ranchot</station>
+	<station lat="50,41585" long="1,64807">Rang-du-Fliers-Verton</station>
+	<station lat="43,56972" long="6,96886">Ranguin</station>
+	<station lat="48,40373" long="6,83687">Raon-l'Étape</station>
+	<station lat="43,49681" long="4,97293">Rassuen</station>
+	<station lat="48,26512" long="7,03585">Raves-Ban-de-Laveline</station>
+	<station lat="45,16590" long="0,59922">Razac</station>
+	<station lat="44,11482" long="1,47685">Réalville</station>
+	<station lat="45,36878" long="5,53499">Réaumont-St-Cassien</station>
+	<station lat="50,28417" long="4,04459">Recquignies</station>
+	<station lat="48,74262" long="7,09596">Réding</station>
+	<station lat="47,65177" long="-2,08788">Redon</station>
+	<station lat="45,98775" long="4,21568">Régny</station>
+	<station lat="48,93072" long="7,65798">Reichshoffen-Ville</station>
+	<station lat="47,21779" long="0,90130">Reignac</station>
+	<station lat="46,12523" long="6,26784">Reignier</station>
+	<station lat="49,25807" long="4,02277">Reims</station>
+	<station lat="49,24175" long="4,01420">Reims-Franchet-d'Esperey</station>
+	<station lat="49,23339" long="4,02272">Reims-Maison-Blanche</station>
+	<station lat="49,09087" long="7,09180">Rémelfing</station>
+	<station lat="49,01466" long="6,39435">Rémilly</station>
+	<station lat="48,01637" long="6,59905">Remiremont</station>
+	<station lat="49,43319" long="2,70393">Remy (Oise)</station>
+	<station lat="50,73210" long="2,37185">Renescure</station>
+	<station lat="48,10307" long="-1,67213">Rennes</station>
+	<station lat="49,50456" long="4,37033">Rethel</station>
+	<station lat="47,91322" long="-1,38971">Retiers</station>
+	<station lat="45,20120" long="4,03533">Retournac</station>
+	<station lat="47,08569" long="2,04749">Reuilly (Indre)</station>
+	<station lat="48,82403" long="4,98556">Revigny</station>
+	<station lat="49,93864" long="4,64282">Revin</station>
+	<station lat="47,19314" long="-1,54970">Rezé-Pont-Rousseau</station>
+	<station lat="42,60393" long="2,39269">Ria</station>
+	<station lat="49,50616" long="2,92727">Ribécourt</station>
+	<station lat="47,78701" long="7,26169">Richwiller</station>
+	<station lat="48,99038" long="7,96265">Riedseltz</station>
+	<station lat="49,29769" long="2,51925">Rieux-Angicourt</station>
+	<station lat="49,16721" long="4,04118">Rilly-la-Montagne</station>
+	<station lat="45,88997" long="3,12140">Riom-Châtel-Guyon</station>
+	<station lat="48,65940" long="2,41430">Ris-Orangis</station>
+	<station lat="47,26767" long="0,36193">Rivarennes</station>
+	<station lat="45,52434" long="4,60637">Rive-de-Gier</station>
+	<station lat="45,35767" long="5,49167">Rives</station>
+	<station lat="42,76616" long="2,86783">Rivesaltes</station>
+	<station lat="47,74887" long="7,40592">Rixheim</station>
+	<station lat="46,03947" long="4,06286">Roanne</station>
+	<station lat="44,27673" long="4,12246">Robiac</station>
+	<station lat="44,81792" long="1,65745">Rocamadour-Padirac</station>
+	<station lat="45,94742" long="-0,96379">Rochefort</station>
+	<station lat="47,27642" long="6,11128">Roche-lez-Beaupré</station>
+	<station lat="49,39843" long="2,17282">Rochy-Condé</station>
+	<station lat="44,36401" long="2,57873">Rodez</station>
+	<station lat="48,83337" long="8,02953">Roeschwoog</station>
+	<station lat="50,30370" long="2,89488">Roeux (Pas-de-Calais)</station>
+	<station lat="43,48668" long="5,23087">Rognac</station>
+	<station lat="49,05527" long="7,26365">Rohrbach-lès-Bitche</station>
+	<station lat="49,00965" long="2,55980">Roissy-Aéroport-CDG 1-RER</station>
+	<station lat="49,00569" long="2,57063">Roissy-Aéroport-CDG 2-TGV</station>
+	<station lat="49,00366" long="2,57089">Roissy-Aéroport-CDG 2-RER</station>
+	<station lat="48,79549" long="2,65095">Roissy-en-Brie</station>
+	<station lat="49,58180" long="0,21607">Rolleville</station>
+	<station lat="46,17639" long="4,74212">Romanèche-Thorins</station>
+	<station lat="45,04904" long="5,04969">Romans-Bourg-de-Péage</station>
+	<station lat="49,25584" long="6,09835">Rombas-Clouange</station>
+	<station lat="49,00483" long="0,85269">Romilly-la-Puthenaye</station>
+	<station lat="48,51416" long="3,72834">Romilly-sur-Seine</station>
+	<station lat="47,35625" long="1,73912">Romorantin-Blanc Argent</station>
+	<station lat="47,69907" long="6,62319">Ronchamp</station>
+	<station lat="50,60425" long="3,07838">Ronchin</station>
+	<station lat="48,85102" long="8,06207">Roppenheim</station>
+	<station lat="43,75065" long="1,61824">Roquesérière</station>
+	<station lat="48,72055" long="-3,98246">Roscoff</station>
+	<station lat="48,50498" long="7,49129">Rosheim</station>
+	<station lat="49,82271" long="2,71168">Rosières</station>
+	<station lat="48,60528" long="6,34999">Rosières-aux-Salines</station>
+	<station lat="48,88246" long="2,48108">Rosny-Bois-Perrier</station>
+	<station lat="48,87039" long="2,48568">Rosny-sous-Bois</station>
+	<station lat="48,99776" long="1,62941">Rosny-sur-Seine</station>
+	<station lat="47,96019" long="-3,83275">Rosporden</station>
+	<station lat="50,45623" long="3,34989">Rosult</station>
+	<station lat="48,45897" long="7,20732">Rothau</station>
+	<station lat="50,69484" long="3,16274">Roubaix</station>
+	<station lat="49,44951" long="1,09375">Rouen-Rive-Droite</station>
+	<station lat="48,16016" long="-0,20015">Rouessé-Vassé</station>
+	<station lat="47,96008" long="7,31243">Rouffach</station>
+	<station lat="46,41880" long="0,04186">Rouillé</station>
+	<station lat="45,88946" long="0,57901">Roumazières-Loubert</station>
+	<station lat="48,82005" long="8,01142">Rountzenheim</station>
+	<station lat="43,63533" long="1,43836">Route-de-Launaguet</station>
+	<station lat="45,62552" long="-1,01719">Royan</station>
+	<station lat="45,76789" long="3,06176">Royat-Chamalières</station>
+	<station lat="48,12061" long="5,70586">Rozières-sur-Mouzon</station>
+	<station lat="50,27316" long="1,67584">Rue</station>
+	<station lat="45,67623" long="0,22126">Ruelle</station>
+	<station lat="46,03066" long="0,18999">Ruffec (Charente)</station>
+	<station lat="47,37071" long="5,07940">Ruffey</station>
+	<station lat="46,88023" long="4,76097">Rully</station>
+	<station lat="45,86304" long="5,94816">Rumilly</station>
+	<station lat="50,86154" long="2,15907">Ruminghem</station>
+	<station lat="48,74056" long="2,35241">Rungis-la-Fraternelle</station>
+	<station lat="48,49777" long="7,25133">Russ-Hersbach</station>
+	<station lat="48,34726" long="7,11087">Saales</station>
+	<station lat="47,84203" long="-0,34210">Sablé</station>
+	<station lat="42,45828" long="2,02859">Saillagouse</station>
+	<station lat="44,69417" long="5,19418">Saillans</station>
+	<station lat="45,87030" long="0,81295">Saillat-Chassenon</station>
+	<station lat="45,81133" long="4,60168">Sain-Bel</station>
+	<station lat="46,93126" long="3,07162">Saincaize</station>
+	<station lat="50,08878" long="4,00148">Sains-du-Nord</station>
+	<station lat="45,74474" long="-0,61813">Saintes</station>
+	<station lat="47,42517" long="2,04758">Salbris</station>
+	<station lat="42,96300" long="0,63170">Saléchan-Siradan</station>
+	<station lat="44,17312" long="4,15405">Salindres</station>
+	<station lat="45,93553" long="6,63662">Sallanches-Combloux-Megève</station>
+	<station lat="50,42226" long="2,85553">Sallaumines</station>
+	<station lat="44,47555" long="2,07902">Salles-Courbatiers</station>
+	<station lat="50,54210" long="2,83882">Salomé</station>
+	<station lat="43,63918" long="5,08829">Salon</station>
+	<station lat="42,83576" long="2,91756">Salses</station>
+	<station lat="50,23109" long="3,20454">Sancourt</station>
+	<station lat="48,97024" long="2,26398">Sannois</station>
+	<station lat="49,04616" long="6,33665">Sanry-sur-Nied</station>
+	<station lat="46,91066" long="4,70154">Santenay-les-Bains</station>
+	<station lat="50,59185" long="2,96254">Santes</station>
+	<station lat="49,12426" long="1,94894">Santeuil-Le Perchay</station>
+	<station lat="47,20989" long="6,10139">Saône</station>
+	<station lat="48,99541" long="2,36846">Sarcelles-St-Brice</station>
+	<station lat="44,87676" long="1,22083">Sarlat</station>
+	<station lat="45,73872" long="3,16784">Sarliève-Cournon</station>
+	<station lat="49,00001" long="7,03666">Sarralbe</station>
+	<station lat="48,73888" long="7,05221">Sarrebourg</station>
+	<station lat="49,10663" long="7,06812">Sarreguemines</station>
+	<station lat="49,10311" long="7,09326">Sarreguemines-Est</station>
+	<station lat="49,08545" long="7,11194">Sarreinsming</station>
+	<station lat="48,93628" long="7,08491">Sarre-Union</station>
+	<station lat="48,93743" long="2,15742">Sartrouville</station>
+	<station lat="45,81982" long="4,87537">Sathonay-Rillieux</station>
+	<station lat="43,66025" long="-1,19042">Saubusse-les-Bains</station>
+	<station lat="45,66705" long="-0,93057">Saujon</station>
+	<station lat="47,28294" long="4,23609">Saulieu</station>
+	<station lat="47,22405" long="5,10440">Saulon</station>
+	<station lat="48,38988" long="7,14804">Saulxures (Bas-Rhin)</station>
+	<station lat="47,26925" long="-0,07198">Saumur-Rive-Droite</station>
+	<station lat="43,33261" long="5,11071">Sausset-les-Pins</station>
+	<station lat="42,50671" long="2,16308">Sauto</station>
+	<station lat="44,84733" long="0,77813">Sauveboeuf</station>
+	<station lat="44,58937" long="1,01169">Sauveterre-la-Lémance</station>
+	<station lat="47,35889" long="-1,95238">Savenay</station>
+	<station lat="47,38141" long="-0,65479">Savennières-Béhuard</station>
+	<station lat="43,23943" long="1,57042">Saverdun</station>
+	<station lat="48,74476" long="7,36214">Saverne</station>
+	<station lat="48,59526" long="2,58407">Savigny-le-Temple-Nandy</station>
+	<station lat="48,67592" long="2,35178">Savigny-sur-Orge</station>
+	<station lat="47,36042" long="0,54354">Savonnières</station>
+	<station lat="50,35384" long="2,55791">Savy-Berlette</station>
+	<station lat="48,12272" long="0,57247">Sceaux-Boësse</station>
+	<station lat="48,28660" long="7,43054">Scherwiller</station>
+	<station lat="48,48044" long="7,21619">Schirmeck-La Broque</station>
+	<station lat="48,94589" long="7,05566">Schopperten</station>
+	<station lat="48,82885" long="7,74235">Schweighouse-sur-Moder</station>
+	<station lat="48,75365" long="7,60012">Schwindratzheim</station>
+	<station lat="50,54829" long="3,03492">Seclin</station>
+	<station lat="49,69487" long="4,93000">Sedan</station>
+	<station lat="48,60017" long="0,16612">Sées</station>
+	<station lat="48,25962" long="7,44209">Sélestat</station>
+	<station lat="47,38853" long="1,92272">Selles-St-Denis</station>
+	<station lat="47,28176" long="1,54612">Selles-sur-Cher</station>
+	<station lat="48,89642" long="8,09798">Seltz</station>
+	<station lat="43,74031" long="5,07335">Sénas</station>
+	<station lat="46,63969" long="4,87470">Sennecey-le-Grand</station>
+	<station lat="46,39181" long="4,87065">Senozan</station>
+	<station lat="48,19784" long="3,26733">Sens</station>
+	<station lat="43,36229" long="5,34028">Séon-St-Henry</station>
+	<station lat="43,40341" long="5,37016">Septèmes</station>
+	<station lat="49,15149" long="4,25649">Sept-Saulx</station>
+	<station lat="42,56707" long="2,32387">Serdinya</station>
+	<station lat="45,62713" long="4,81803">Sérézin</station>
+	<station lat="48,53550" long="2,06882">Sermaise</station>
+	<station lat="47,52889" long="3,79279">Sermizelles-Vézelay</station>
+	<station lat="49,63118" long="1,53949">Serqueux</station>
+	<station lat="49,10766" long="0,71954">Serquigny</station>
+	<station lat="44,42471" long="5,71841">Serres</station>
+	<station lat="47,05814" long="4,88574">Serrigny</station>
+	<station lat="46,13273" long="5,16975">Servas-Lent</station>
+	<station lat="48,11206" long="-1,46596">Servon</station>
+	<station lat="45,92479" long="6,76335">Servoz</station>
+	<station lat="48,79603" long="7,98927">Sessenheim</station>
+	<station lat="43,41281" long="3,69641">Sète</station>
+	<station lat="49,11918" long="2,39905">Seugy</station>
+	<station lat="46,99639" long="5,15126">Seurre</station>
+	<station lat="47,54975" long="-2,07274">Sévérac</station>
+	<station lat="44,32500" long="3,05678">Sévérac-le-Château</station>
+	<station lat="48,94594" long="2,52480">Sevran-Beaudottes</station>
+	<station lat="48,93652" long="2,53569">Sevran-Livry</station>
+	<station lat="48,82128" long="2,21543">Sèvres-Rive-Gauche</station>
+	<station lat="48,82738" long="2,20095">Sèvres-Ville-d'Avray</station>
+	<station lat="45,96306" long="5,83139">Seyssel-Corbonod</station>
+	<station lat="49,44480" long="6,34889">Sierck-les-Bains</station>
+	<station lat="47,65612" long="7,45951">Sierentz</station>
+	<station lat="46,69101" long="-0,97326">Sigournais</station>
+	<station lat="48,18163" long="-0,12856">Sillé-le-Guillaume</station>
+	<station lat="49,20337" long="4,14407">Sillery</station>
+	<station lat="46,21990" long="5,42000">Simandre-sur-Suran</station>
+	<station lat="43,43476" long="5,42605">Simiane</station>
+	<station lat="47,43315" long="4,12290">Sincey-lès-Rouvray</station>
+	<station lat="50,35650" long="3,11262">Sin-le-Noble</station>
+	<station lat="44,81957" long="0,98368">Siorac-en-Périgord</station>
+	<station lat="44,19002" long="5,94683">Sisteron</station>
+	<station lat="49,36917" long="3,33833">Soissons</station>
+	<station lat="45,75710" long="1,28393">Solignac-Le Vigen</station>
+	<station lat="43,19231" long="6,04666">Solliès-Pont</station>
+	<station lat="50,35553" long="3,27736">Somain</station>
+	<station lat="49,62933" long="1,43602">Sommery</station>
+	<station lat="44,00418" long="4,87542">Sorgues-Châteauneuf-du-Pape</station>
+	<station lat="43,87626" long="7,45313">Sospel</station>
+	<station lat="49,41317" long="1,10250">Sotteville</station>
+	<station lat="46,83437" long="3,39052">Sougy</station>
+	<station lat="44,90234" long="1,46524">Souillac</station>
+	<station lat="45,50754" long="-1,11704">Soulac-sur-Mer</station>
+	<station lat="48,93450" long="7,88213">Soultz-sous-Forêts</station>
+	<station lat="48,18189" long="2,73467">Souppes-Château-Landon</station>
+	<station lat="50,26577" long="3,94035">Sous-le-Bois</station>
+	<station lat="45,99377" long="-1,02856">Saint-Laurent Fouras</station>
+	<station lat="43,59979" long="1,37134">Saint-Martin du Touch</station>
+	<station lat="48,91826" long="2,34991">Stade-de-France-St-Denis</station>
+	<station lat="47,82756" long="7,26494">Staffelfelden</station>
+	<station lat="46,50146" long="3,87921">St-Agnan</station>
+	<station lat="43,57927" long="1,44957">St-Agne</station>
+	<station lat="47,28679" long="1,38390">St-Aignan-Noyers</station>
+	<station lat="45,15737" long="-0,01927">St-Aigulin-La Roche-Chalais</station>
+	<station lat="47,69307" long="1,01184">St-Amand-de-Vendôme</station>
+	<station lat="50,44313" long="3,41875">St-Amand-les-Eaux</station>
+	<station lat="46,72644" long="2,48580">St-Amand-Montrond-Orval</station>
+	<station lat="47,87283" long="7,02877">St-Amarin</station>
+	<station lat="44,25962" long="4,19407">St-Ambroix</station>
+	<station lat="46,43476" long="5,33432">St-Amour</station>
+	<station lat="50,65421" long="3,04426">St-André (Nord)</station>
+	<station lat="45,92590" long="4,94852">St-André-de-Corcy</station>
+	<station lat="44,99110" long="-0,43938">St-André-de-Cubzac</station>
+	<station lat="45,54522" long="5,52412">St-André-le-Gaz</station>
+	<station lat="43,36980" long="5,35742">St-Antoine</station>
+	<station lat="44,84673" long="0,15180">St-Antoine-de-Breuilh</station>
+	<station lat="47,50371" long="0,61642">St-Antoine-du-Rocher</station>
+	<station lat="48,01428" long="-1,59480">St-Armel</station>
+	<station lat="45,13891" long="0,52289">St-Astier</station>
+	<station lat="48,44742" long="1,33348">St-Aubin-St-Luperce</station>
+	<station lat="49,87091" long="1,06664">St-Aubin-sur-Scie</station>
+	<station lat="45,25195" long="1,39952">St-Aulaire</station>
+	<station lat="43,63541" long="3,96312">St-Aunès</station>
+	<station lat="49,08571" long="6,72073">St-Avold</station>
+	<station lat="45,35346" long="6,30228">St-Avre-la-Chambre</station>
+	<station lat="47,86319" long="1,75014">St-Ay</station>
+	<station lat="43,32352" long="5,39249">St-Barthélémy</station>
+	<station lat="45,50388" long="5,73150">St-Béron-La Bridoire</station>
+	<station lat="48,40759" long="7,16533">St-Blaise-la-Roche-Poutay</station>
+	<station lat="46,14850" long="3,13946">St-Bonnet-de-Rochefort</station>
+	<station lat="43,66067" long="4,02734">St-Brès-Mudaison</station>
+	<station lat="45,87725" long="0,95293">St-Brice-sur-Vienne</station>
+	<station lat="48,50733" long="-2,76604">St-Brieuc</station>
+	<station lat="43,81330" long="4,32767">St-Césaire</station>
+	<station lat="43,55101" long="5,03995">St-Chamas</station>
+	<station lat="45,47245" long="4,51715">St-Chamond</station>
+	<station lat="44,80008" long="3,27178">St-Chély-d'Apcher</station>
+	<station lat="48,55095" long="2,12530">St-Chéron</station>
+	<station lat="0,00000" long="0,00000">St-Christau-Lurbe</station>
+	<station lat="44,46491" long="2,40728">St-Christophe</station>
+	<station lat="45,45064" long="4,77025">St-Clair-les-Roches</station>
+	<station lat="46,39000" long="5,86015">St-Claude</station>
+	<station lat="48,53139" long="6,60793">St-Clément-Laronxe</station>
+	<station lat="48,84523" long="2,21694">St-Cloud</station>
+	<station lat="43,59375" long="1,41647">St-Cyprien-Arènes</station>
+	<station lat="48,79881" long="2,07326">St-Cyr</station>
+	<station lat="47,81907" long="1,94743">St-Cyr-en-Val</station>
+	<station lat="43,18523" long="5,70382">St-Cyr-les-Lècques-La Cadière</station>
+	<station lat="44,05643" long="7,58571">St-Dalmas-de-Tende</station>
+	<station lat="48,93547" long="2,34544">St-Denis</station>
+	<station lat="44,97854" long="-0,19807">St-Denis-de-Pile</station>
+	<station lat="45,78840" long="1,55174">St-Denis-des-Murs</station>
+	<station lat="44,94579" long="1,66628">St-Denis-près-Martel</station>
+	<station lat="48,28238" long="6,94595">St-Dié</station>
+	<station lat="48,64278" long="4,94720">St-Dizier</station>
+	<station lat="47,67847" long="-2,96039">Ste-Anne</station>
+	<station lat="44,53231" long="0,09321">Ste-Bazeille</station>
+	<station lat="44,84311" long="0,65073">St-Capraise-de-Lalinde</station>
+	<station lat="44,25513" long="3,97569">Ste-Cécile-d'Andorge</station>
+	<station lat="46,87943" long="6,26621">Ste-Colombe (Doubs)</station>
+	<station lat="45,52759" long="4,86462">Ste-Colombe-les-Vienne-St-Romain-en-Gal</station>
+	<station lat="48,52968" long="3,25581">Ste-Colombe-Septveilles</station>
+	<station lat="50,68110" long="2,51057">Steenbecque</station>
+	<station lat="50,71321" long="2,78624">Steenwerck</station>
+	<station lat="44,89821" long="-0,49344">Ste-Eulalie-Carbon-Blanc</station>
+	<station lat="44,83676" long="0,22149">Ste-Foy-la-Grande</station>
+	<station lat="48,71727" long="0,42810">Ste-Gauburge</station>
+	<station lat="48,65304" long="2,31326">Ste-Geneviève-des-Bois</station>
+	<station lat="45,23570" long="5,67119">St-Égrève-St-Robert</station>
+	<station lat="48,76357" long="7,41579">Steinbourg</station>
+	<station lat="42,44259" long="2,01551">Ste-Léocadie</station>
+	<station lat="47,00265" long="2,03008">Ste-Lizaigne</station>
+	<station lat="46,97095" long="3,21863">St-Éloi</station>
+	<station lat="50,74059" long="3,00919">Ste-Marguerite</station>
+	<station lat="43,33931" long="5,39070">Ste-Marthe-en-Provence</station>
+	<station lat="47,11112" long="0,57701">Ste-Maure-Noyant</station>
+	<station lat="49,09008" long="4,90410">Ste-Menehould</station>
+	<station lat="44,88126" long="-0,15946">St-Émilion</station>
+	<station lat="47,10508" long="-1,81431">Ste-Pazanne</station>
+	<station lat="48,71700" long="7,70480">Stephansfeld</station>
+	<station lat="49,52662" long="3,85769">St-Erme</station>
+	<station lat="49,75249" long="1,91432">Ste-Segrée</station>
+	<station lat="45,41726" long="4,39246">St-Étienne-Bellevue</station>
+	<station lat="45,44669" long="4,38441">St-Étienne-Carnot</station>
+	<station lat="45,44339" long="4,40000">St-Étienne-Châteaucreux</station>
+	<station lat="47,27546" long="-1,78718">St-Étienne-de-Montluc</station>
+	<station lat="49,37659" long="1,10975">St-Étienne-du-Rouvray</station>
+	<station lat="45,46497" long="4,37893">St-Étienne-La Terrasse</station>
+	<station lat="45,43632" long="4,37846">St-Étienne-Le Clapier</station>
+	<station lat="48,67823" long="4,86812">St-Eulien</station>
+	<station lat="48,56429" long="2,54247">St-Fargeau</station>
+	<station lat="42,67642" long="2,74132">St-Féliu-d'Avall</station>
+	<station lat="47,98191" long="3,73550">St-Florentin-Vergigny</station>
+	<station lat="46,99198" long="2,25229">St-Florent-sur-Cher</station>
+	<station lat="45,03466" long="3,10871">St-Flour-Chaudes-Aigues</station>
+	<station lat="45,70573" long="4,85233">St-Fons</station>
+	<station lat="45,56561" long="4,29340">St-Galmier-Veauche</station>
+	<station lat="43,10496" long="0,72927">St-Gaudens</station>
+	<station lat="43,95054" long="4,21513">St-Geniès-de-Malgoirès</station>
+	<station lat="47,37052" long="0,59515">St-Genouph</station>
+	<station lat="45,16028" long="3,49478">St-Georges-d'Aurac</station>
+	<station lat="45,04365" long="5,70055">St-Georges-de-Commiers</station>
+	<station lat="44,06447" long="2,98350">St-Georges-de-Luzençon</station>
+	<station lat="46,06219" long="4,71859">St-Georges-de-Reneins</station>
+	<station lat="43,67131" long="-1,24090">St-Geours-de-Maremne</station>
+	<station lat="45,88879" long="4,80413">St-Germain-au-Mont-d'Or</station>
+	<station lat="48,89455" long="2,07008">St-Germain-Bel-air</station>
+	<station lat="46,20884" long="3,43076">St-Germain-des-Fossés</station>
+	<station lat="47,09628" long="2,48465">St-Germain-du-Puy</station>
+	<station lat="48,90360" long="2,07310">St-Germain-Grande-Ceinture</station>
+	<station lat="45,60956" long="1,47980">St-Germain-les-Belles</station>
+	<station lat="48,75981" long="1,25473">St-Germain-St-Rémy</station>
+	<station lat="48,23892" long="-1,65358">St-Germain-sur-Ille</station>
+	<station lat="45,90628" long="6,70004">St-Gervais-les-Bains-Le Fayet</station>
+	<station lat="47,51640" long="-2,04405">St-Gildas-des-Bois</station>
+	<station lat="48,07535" long="7,26056">St-Gilles (Haut-Rhin)</station>
+	<station lat="46,88066" long="4,65997">St-Gilles (Saône-et-Loire)</station>
+	<station lat="46,69677" long="-1,94245">St-Gilles-Croix-de-Vie</station>
+	<station lat="48,96381" long="2,28538">St-Gratien</station>
+	<station lat="50,13223" long="3,91309">St-Hilaire (Nord)</station>
+	<station lat="49,05578" long="4,37941">St-Hilaire-au-Temple</station>
+	<station lat="45,84990" long="-0,53494">St-Hilaire-Brizambourg</station>
+	<station lat="47,10569" long="-1,86500">St-Hilaire-de-Chaléons</station>
+	<station lat="46,71709" long="-1,94956">St-Hilaire-de-Riez</station>
+	<station lat="45,07153" long="5,24385">St-Hilaire-St-Nazaire</station>
+	<station lat="48,06741" long="-1,71390">St-Jacques-de-la-Lande</station>
+	<station lat="45,94089" long="-0,50979">St-Jean-d'Angély</station>
+	<station lat="47,09991" long="5,24392">St-Jean-de-Losne</station>
+	<station lat="43,38576" long="-1,66089">St-Jean-de-Luz-Ciboure</station>
+	<station lat="45,27796" long="6,35458">St-Jean-de-Maurienne-Arvan</station>
+	<station lat="43,01247" long="1,60807">St-Jean-de-Verges</station>
+	<station lat="43,16808" long="-1,23883">St-Jean-Pied-de-Port</station>
+	<station lat="46,26045" long="4,91599">St-Jean-sur-Veyle</station>
+	<station lat="45,88566" long="4,12506">St-Jodard</station>
+	<station lat="43,73820" long="1,37143">St-Jory</station>
+	<station lat="0,00000" long="0,00000">St-Joseph-du-Castellas</station>
+	<station lat="47,40557" long="5,12805">St-Julien-Clénay</station>
+	<station lat="48,02696" long="3,30274">St-Julien-du-Sault</station>
+	<station lat="46,14187" long="6,08529">St-Julien-en-Genevois</station>
+	<station lat="44,21169" long="4,19293">St-Julien-les-Fumades</station>
+	<station lat="45,88139" long="0,90037">St-Junien</station>
+	<station lat="49,50352" long="2,42912">St-Just-en-Chaussée</station>
+	<station lat="46,57486" long="5,95122">St-Laurent (Jura)</station>
+	<station lat="43,63892" long="4,19271">St-Laurent-d'Aigouze</station>
+	<station lat="43,66247" long="7,19463">St-Laurent-du-Var</station>
+	<station lat="49,52804" long="0,25136">St-Laurent-Gainneville</station>
+	<station lat="46,84801" long="4,62772">St-Léger-sur-Dheune</station>
+	<station lat="48,21657" long="6,94114">St-Léonard (Vosges)</station>
+	<station lat="45,83196" long="1,48135">St-Léonard-de-Noblat</station>
+	<station lat="45,12314" long="0,49197">St-Léon-sur-l'Isle</station>
+	<station lat="49,21416" long="2,41815">St-Leu-d'Esserent</station>
+	<station lat="49,01562" long="2,24260">St-Leu-la-Forêt</station>
+	<station lat="49,11590" long="-1,10108">St-Lô</station>
+	<station lat="46,82286" long="5,64062">St-Lothain</station>
+	<station lat="44,92264" long="-0,43377">St-Loubès</station>
+	<station lat="47,59036" long="7,55553">St-Louis (Haut-Rhin)</station>
+	<station lat="47,60961" long="7,53084">St-Louis-la-Chaussée</station>
+	<station lat="43,34568" long="5,36540">St-Louis-les-Aygalades</station>
+	<station lat="44,56775" long="-0,23139">St-Macaire</station>
+	<station lat="46,40632" long="-0,20130">St-Maixent (Deux-Sèvres)</station>
+	<station lat="48,64701" long="-2,00693">St-Malo</station>
+	<station lat="48,38209" long="2,81583">St-Mammès</station>
+	<station lat="43,28837" long="5,46703">St-Marcel</station>
+	<station lat="45,95063" long="4,97778">St-Marcel-en-Dombes</station>
+	<station lat="45,15074" long="5,32363">St-Marcellin (Isère)</station>
+	<station lat="45,13914" long="-0,39145">St-Mariens-St-Yzan</station>
+	<station lat="48,02828" long="0,36440">St-Mars-la-Brière</station>
+	<station lat="45,96728" long="6,15743">St-Martin-Bellevue</station>
+	<station lat="43,62177" long="4,80190">St-Martin-de-Crau</station>
+	<station lat="48,42768" long="2,14516">St-Martin-d'Étampes</station>
+	<station lat="43,93008" long="-0,65174">St-Martin-d'Oney</station>
+	<station lat="46,09593" long="5,30312">St-Martin-du-Mont</station>
+	<station lat="49,46933" long="1,16073">St-Martin-du-Vivier</station>
+	<station lat="47,35490" long="0,90604">St-Martin-le-Beau</station>
+	<station lat="46,21568" long="3,80598">St-Martin-Sail-les-Bains</station>
+	<station lat="43,13841" long="0,93363">St-Martory</station>
+	<station lat="47,41184" long="-0,31723">St-Mathurin</station>
+	<station lat="45,82727" long="4,97683">St-Maurice-de-Beynost</station>
+	<station lat="45,01553" long="-0,04889">St-Médard-de-Guizières</station>
+	<station lat="44,71595" long="-0,50463">St-Médard-d'Eyrans</station>
+	<station lat="48,27352" long="-1,66658">St-Médard-sur-Ille</station>
+	<station lat="46,79042" long="-0,73218">St-Mesmin-le-Vieux</station>
+	<station lat="48,85312" long="2,34708">St-Michel-Notre-Dame</station>
+	<station lat="45,64433" long="0,11045">St-Michel-sur-Charente</station>
+	<station lat="48,32746" long="6,88790">St-Michel-sur-Meurthe</station>
+	<station lat="48,63535" long="2,30690">St-Michel-sur-Orge</station>
+	<station lat="45,21686" long="6,47156">St-Michel-Valloire</station>
+	<station lat="48,04618" long="6,58187">St-Nabord</station>
+	<station lat="47,28674" long="-2,21130">St-Nazaire</station>
+	<station lat="44,14753" long="0,76085">St-Nicolas-St-Romain</station>
+	<station lat="48,86663" long="2,05073">St-Nom-la-Bretêche-Forêt-de-Marly</station>
+	<station lat="50,75382" long="2,26718">St-Omer (Pas-de-Calais)</station>
+	<station lat="49,53018" long="1,99692">St-Omer-en-Chaussée</station>
+	<station lat="48,90432" long="2,32018">St-Ouen</station>
+	<station lat="49,04539" long="2,10767">St-Ouen-l'Aumône</station>
+	<station lat="49,03969" long="2,10373">St-Ouen-l'Aumône-Église</station>
+	<station lat="49,03384" long="2,12840">St-Ouen-l'Aumône-Liesse</station>
+	<station lat="47,60423" long="0,47794">St-Paterne</station>
+	<station lat="47,28571" long="0,30988">St-Patrice</station>
+	<station lat="46,10017" long="5,12824">St-Paul-de-Varax</station>
+	<station lat="43,10155" long="-0,16197">St-Pé-de-Bigorre</station>
+	<station lat="44,94787" long="4,85046">St-Péray</station>
+	<station lat="48,54244" long="1,59010">St-Piat</station>
+	<station lat="45,55736" long="6,15695">St-Pierre-d'Albigny</station>
+	<station lat="44,57532" long="-0,18711">St-Pierre-d'Aurillac</station>
+	<station lat="45,12339" long="0,85675">St-Pierre-de-Chignac</station>
+	<station lat="47,38577" long="0,72516">St-Pierre-des-Corps</station>
+	<station lat="49,23374" long="1,22437">St-Pierre-du-Vauvray</station>
+	<station lat="46,05934" long="6,37566">St-Pierre-en-Faucigny</station>
+	<station lat="48,11367" long="-1,02521">St-Pierre-la-Cour</station>
+	<station lat="46,79292" long="3,11139">St-Pierre-le-Moûtier</station>
+	<station lat="47,52093" long="-3,13897">St-Pierre-Quiberon</station>
+	<station lat="49,02265" long="-0,04149">St-Pierre-sur-Dives</station>
+	<station lat="48,67681" long="-3,98758">St-Pol-de-Léon</station>
+	<station lat="50,37886" long="2,33905">St-Pol-sur-Ternoise</station>
+	<station lat="45,68665" long="4,93416">St-Priest</station>
+	<station lat="45,88732" long="1,39977">St-Priest-Taurion</station>
+	<station lat="49,83970" long="3,29709">St-Quentin</station>
+	<station lat="48,78712" long="2,04387">St-Quentin-en-Yvelines</station>
+	<station lat="45,63819" long="5,09991">St-Quentin-Fallavier</station>
+	<station lat="45,29799" long="4,81047">St-Rambert-d'Albon</station>
+	<station lat="45,94753" long="5,43924">St-Rambert-en-Bugey</station>
+	<station lat="43,42439" long="6,76847">St-Raphaël-Valescure</station>
+	<station lat="48,56307" long="7,69390">Strasbourg-Roethig</station>
+	<station lat="48,58497" long="7,73458">Strasbourg-Ville</station>
+	<station lat="50,71341" long="2,63073">Strazeele</station>
+	<station lat="49,46761" long="2,42553">St-Remy-en-l'Eau</station>
+	<station lat="49,89344" long="2,28375">St-Roch (Somme)</station>
+	<station lat="45,86169" long="4,54233">St-Romain-de-Popey</station>
+	<station lat="45,55447" long="4,12070">St-Romain-le-Puy</station>
+	<station lat="44,01272" long="2,96674">St-Rome-de-Cernon</station>
+	<station lat="43,95318" long="4,93523">St-Saturnin-d'Avignon</station>
+	<station lat="45,87584" long="-0,67790">St-Savinien-sur-Charente</station>
+	<station lat="46,14716" long="0,21789">St-Saviol</station>
+	<station lat="46,38575" long="1,54646">St-Sébastien</station>
+	<station lat="47,89785" long="-1,76615">St-Senoux-Pléchâtel</station>
+	<station lat="45,01142" long="-0,00191">St-Seurin-sur-l'Isle</station>
+	<station lat="48,84374" long="-1,05208">St-Sever (Calvados)</station>
+	<station lat="48,79925" long="3,20855">St-Siméon</station>
+	<station lat="43,77541" long="1,68104">St-Sulpice (Tarn)</station>
+	<station lat="49,34784" long="2,11591">St-Sulpice-Auteuil</station>
+	<station lat="44,91405" long="-0,39111">St-Sulpice-Izon</station>
+	<station lat="46,04666" long="1,47593">St-Sulpice-Laurière</station>
+	<station lat="46,84433" long="4,33735">St-Symphorien-de-Marmagne</station>
+	<station lat="48,49419" long="-3,94812">St-Thégonnec</station>
+	<station lat="45,18598" long="4,81444">St-Vallier-sur-Rhône</station>
+	<station lat="49,67671" long="1,10997">St-Victor</station>
+	<station lat="46,00222" long="4,28136">St-Victor-Thizy</station>
+	<station lat="45,87663" long="1,00869">St-Victurnien</station>
+	<station lat="43,65757" long="-1,30675">St-Vincent-de-Tyrosse</station>
+	<station lat="45,14940" long="3,91864">St-Vincent-le-Château</station>
+	<station lat="47,18360" long="5,80865">St-Vit</station>
+	<station lat="45,51927" long="1,20561">St-Yrieix</station>
+	<station lat="47,68091" long="1,45473">Suèvres</station>
+	<station lat="49,11999" long="4,54400">Suippes</station>
+	<station lat="48,66491" long="0,13413">Surdon</station>
+	<station lat="48,87150" long="2,22103">Suresnes-Mont-Valérien</station>
+	<station lat="46,11342" long="-0,76212">Surgères</station>
+	<station lat="49,09965" long="2,52552">Survilliers-Fosses</station>
+	<station lat="45,52913" long="4,18239">Sury-le-Comtal</station>
+	<station lat="48,82958" long="1,66918">Tacoignières-Richebourg</station>
+	<station lat="45,89952" long="6,82589">Taconnaz</station>
+	<station lat="47,65482" long="7,26391">Tagolsheim</station>
+	<station lat="45,83078" long="-0,64501">Taillebourg</station>
+	<station lat="45,07237" long="4,83992">Tain-l'Hermitage-Tournon</station>
+	<station lat="48,48393" long="6,12921">Tantonville</station>
+	<station lat="44,10026" long="2,31483">Tanus</station>
+	<station lat="45,88981" long="4,43902">Tarare</station>
+	<station lat="43,80062" long="4,65761">Tarascon</station>
+	<station lat="42,84937" long="1,60007">Tarascon-sur-Ariège</station>
+	<station lat="43,24033" long="0,06917">Tarbes</station>
+	<station lat="45,76174" long="4,75897">Tassin</station>
+	<station lat="49,02514" long="2,22220">Taverny</station>
+	<station lat="48,18125" long="0,19129">Teillé (Sarthe)</station>
+	<station lat="50,52897" long="3,17590">Templeuve</station>
+	<station lat="45,92230" long="5,50096">Tenay-Hauteville</station>
+	<station lat="44,08982" long="7,59432">Tende</station>
+	<station lat="49,65865" long="3,29649">Tergnier</station>
+	<station lat="45,94493" long="4,53330">Ternand</station>
+	<station lat="45,13583" long="1,30045">Terrasson</station>
+	<station lat="43,92840" long="1,93742">Tessonnières</station>
+	<station lat="49,05163" long="6,66422">Teting</station>
+	<station lat="49,86115" long="2,83233">TGV Haute-Picardie</station>
+	<station lat="47,80911" long="7,10701">Thann</station>
+	<station lat="47,81312" long="7,09402">Thann-Nord</station>
+	<station lat="48,24471" long="6,41596">Thaon</station>
+	<station lat="47,31395" long="2,04430">Theillay (Loir-et-Cher)</station>
+	<station lat="47,49437" long="4,62357">Thenissey</station>
+	<station lat="45,15990" long="1,06911">Thenon</station>
+	<station lat="43,51423" long="6,93671">Théoule-sur-Mer</station>
+	<station lat="47,32211" long="1,31224">Thésée</station>
+	<station lat="49,81189" long="2,43602">Thézy-Glimont</station>
+	<station lat="48,41355" long="6,81048">Thiaville</station>
+	<station lat="46,52628" long="3,57890">Thiel-sur-Acolin</station>
+	<station lat="50,65242" long="2,47268">Thiennes</station>
+	<station lat="45,86137" long="3,54286">Thiers</station>
+	<station lat="49,00871" long="2,68055">Thieux-Nantouillet</station>
+	<station lat="49,35426" long="6,17033">Thionville</station>
+	<station lat="45,41901" long="0,92099">Thiviers</station>
+	<station lat="48,39423" long="2,76453">Thomery</station>
+	<station lat="46,36895" long="6,48206">Thonon-les-Bains</station>
+	<station lat="47,26512" long="-1,44093">Thouaré</station>
+	<station lat="46,98523" long="-0,21058">Thouars</station>
+	<station lat="49,47531" long="2,88181">Thourotte</station>
+	<station lat="42,52373" long="2,22335">Thuès</station>
+	<station lat="42,53032" long="2,25012">Thuès-les-Bains</station>
+	<station lat="49,00683" long="1,92014">Thun-le-Paradis</station>
+	<station lat="48,90631" long="7,25511">Tieffenbach-Struth</station>
+	<station lat="47,61792" long="-0,46923">Tiercé</station>
+	<station lat="48,76065" long="1,05372">Tillières</station>
+	<station lat="50,35696" long="2,49762">Tincques</station>
+	<station lat="45,94338" long="-0,89783">Tonnay-Charente</station>
+	<station lat="44,39292" long="0,31418">Tonneins</station>
+	<station lat="47,85962" long="3,97353">Tonnerre</station>
+	<station lat="47,03300" long="-1,11717">Torfou</station>
+	<station lat="47,16380" long="5,88868">Torpes-Boussières</station>
+	<station lat="43,84691" long="7,36389">Touët-de-l'Escarène</station>
+	<station lat="48,67908" long="5,87946">Toul</station>
+	<station lat="43,12836" long="5,92972">Toulon</station>
+	<station lat="43,61144" long="1,45414">Toulouse-Matabiau</station>
+	<station lat="50,71629" long="3,16748">Tourcoing</station>
+	<station lat="48,73931" long="2,75957">Tournan</station>
+	<station lat="43,18351" long="0,23898">Tournay (Hautes-Pyrénées)</station>
+	<station lat="43,96894" long="3,01782">Tournemire-Roquefort</station>
+	<station lat="46,56647" long="4,90640">Tournus</station>
+	<station lat="47,38823" long="0,69472">Tours</station>
+	<station lat="49,32459" long="1,09805">Tourville</station>
+	<station lat="48,19375" long="1,94002">Toury</station>
+	<station lat="47,33688" long="2,88047">Tracy-Sancerre</station>
+	<station lat="48,74854" long="-3,13499">Traou-Nez</station>
+	<station lat="48,77476" long="2,00658">Trappes-Voyageurs</station>
+	<station lat="48,62447" long="-3,17410">Trégonneau-Squiffiec</station>
+	<station lat="44,86244" long="0,83024">Trémolat</station>
+	<station lat="44,44308" long="0,88500">Trentels-Ladignac</station>
+	<station lat="50,61068" long="3,19017">Tressin</station>
+	<station lat="49,56162" long="2,58139">Tricot</station>
+	<station lat="49,28255" long="1,81812">Trie-Château</station>
+	<station lat="48,98074" long="2,00613">Triel-sur-Seine</station>
+	<station lat="48,96014" long="2,94954">Trilport</station>
+	<station lat="50,33198" long="3,48950">Trith-St-Léger</station>
+	<station lat="47,64790" long="6,84605">Trois-Chênes</station>
+	<station lat="49,20678" long="4,03839">Trois-Puits</station>
+	<station lat="47,11299" long="3,05401">Tronsanges</station>
+	<station lat="49,35313" long="0,08850">Trouville-Deauville</station>
+	<station lat="48,29501" long="4,06542">Troyes</station>
+	<station lat="45,25884" long="1,75580">Tulle</station>
+	<station lat="45,30072" long="5,49219">Tullins-Fures</station>
+	<station lat="48,08545" long="7,27889">Turckheim</station>
+	<station lat="45,03984" long="1,59981">Turenne</station>
+	<station lat="43,75806" long="4,26739">Uchaud</station>
+	<station lat="49,30334" long="6,15609">Uckange</station>
+	<station lat="46,62968" long="2,58625">Urçay</station>
+	<station lat="42,45318" long="1,94325">Ur-les-Escaldes</station>
+	<station lat="48,52554" long="7,33828">Urmatt</station>
+	<station lat="43,49937" long="-1,30162">Urt</station>
+	<station lat="49,09904" long="1,97078">Us</station>
+	<station lat="45,55767" long="2,31444">Ussel</station>
+	<station lat="43,40469" long="-1,44877">Ustaritz</station>
+	<station lat="45,44047" long="1,57020">Uzerche</station>
+	<station lat="47,67054" long="0,31728">Vaas</station>
+	<station lat="48,87557" long="2,64230">Vaires-Torcy</station>
+	<station lat="48,85422" long="2,48920">Val-de-Fontenay</station>
+	<station lat="49,27607" long="1,22457">Val-de-Reuil</station>
+	<station lat="49,17841" long="4,22169">Val-de-Vesle (Marne)</station>
+	<station lat="47,63114" long="7,05578">Valdieu</station>
+	<station lat="47,16521" long="1,56075">Valençay</station>
+	<station lat="44,92765" long="4,89342">Valence</station>
+	<station lat="44,11186" long="0,89175">Valence-d'Agen</station>
+	<station lat="44,99155" long="4,97873">Valence-TGV</station>
+	<station lat="50,36333" long="3,51590">Valenciennes</station>
+	<station lat="43,67260" long="4,06022">Valergues-Lansargues</station>
+	<station lat="46,10952" long="5,96727">Valleiry</station>
+	<station lat="49,20550" long="5,93553">Valleroy-Moineville</station>
+	<station lat="46,53621" long="2,61101">Vallon</station>
+	<station lat="46,03221" long="6,93278">Vallorcine</station>
+	<station lat="49,09159" long="2,20200">Valmondois</station>
+	<station lat="49,50539" long="-1,48032">Valognes</station>
+	<station lat="48,95205" long="6,03847">Vandières</station>
+	<station lat="47,66536" long="-2,75253">Vannes</station>
+	<station lat="48,81802" long="2,29144">Vanves-Malakoff</station>
+	<station lat="47,37437" long="-1,01968">Varades-St-Florent-le-Vieil</station>
+	<station lat="48,63534" long="6,31286">Varangéville-St-Nicolas</station>
+	<station lat="46,31535" long="3,39429">Varennes-sur-Allier</station>
+	<station lat="47,21626" long="1,61585">Varennes-sur-Fouzon</station>
+	<station lat="45,19107" long="1,44735">Varetz</station>
+	<station lat="43,04140" long="1,62829">Varilhes</station>
+	<station lat="48,75928" long="2,19193">Vauboyen</station>
+	<station lat="49,02161" long="2,23017">Vaucelles</station>
+	<station lat="48,83669" long="2,15242">Vaucresson</station>
+	<station lat="46,02478" long="1,10910">Vaulry</station>
+	<station lat="49,23368" long="2,98861">Vaumoise</station>
+	<station lat="43,69532" long="4,27025">Vauvert</station>
+	<station lat="49,47416" long="3,41013">Vauxaillon</station>
+	<station lat="49,00743" long="1,96285">Vaux-sur-Seine</station>
+	<station lat="47,00168" long="3,13291">Vauzelles</station>
+	<station lat="44,95014" long="1,70630">Vayrac</station>
+	<station lat="44,89660" long="-0,31615">Vayres</station>
+	<station lat="47,29150" long="0,73444">Veigné</station>
+	<station lat="47,32624" long="4,92675">Velars</station>
+	<station lat="44,85202" long="0,10357">Vélines</station>
+	<station lat="48,66543" long="7,71836">Vendenheim</station>
+	<station lat="48,24035" long="4,46719">Vendeuvre (Aube)</station>
+	<station lat="47,80216" long="1,06768">Vendôme</station>
+	<station lat="47,82184" long="1,02035">Vendôme-Villiers-sur-Loir</station>
+	<station lat="43,43345" long="1,42587">Vénerque-le-Vernet</station>
+	<station lat="45,70511" long="4,88810">Vénissieux-Voyageurs</station>
+	<station lat="49,16554" long="5,37874">Verdun</station>
+	<station lat="47,37144" long="0,81967">Veretz-Montlouis</station>
+	<station lat="43,73982" long="4,21886">Vergèze-Codognan</station>
+	<station lat="47,66058" long="3,73195">Vermenton</station>
+	<station lat="48,04683" long="-1,59656">Vern</station>
+	<station lat="45,64544" long="4,81346">Vernaison</station>
+	<station lat="43,18948" long="1,61170">Vernet-d'Ariège</station>
+	<station lat="48,64469" long="2,82493">Verneuil-l'Étang</station>
+	<station lat="48,74276" long="0,92948">Verneuil-sur-Avre</station>
+	<station lat="49,64709" long="3,66596">Verneuil-sur-Serre</station>
+	<station lat="45,83771" long="1,11276">Verneuil-sur-Vienne</station>
+	<station lat="49,09128" long="1,47836">Vernon (Eure)</station>
+	<station lat="48,98123" long="1,98332">Vernouillet-Verneuil</station>
+	<station lat="48,38647" long="2,84298">Vernou-sur-Seine</station>
+	<station lat="47,43855" long="4,67028">Verrey</station>
+	<station lat="48,79545" long="2,13606">Versailles-Chantiers</station>
+	<station lat="48,80960" long="2,13570">Versailles-Rive-Droite</station>
+	<station lat="48,80002" long="2,12991">Versailles-Rive-Gauche</station>
+	<station lat="49,65734" long="3,43368">Versigny</station>
+	<station lat="45,78460" long="3,28799">Vertaizon</station>
+	<station lat="48,94436" long="2,56718">Vert-Galant</station>
+	<station lat="47,18597" long="-1,47793">Vertou</station>
+	<station lat="49,83013" long="3,89334">Vervins</station>
+	<station lat="43,13042" long="2,32123">Verzeille</station>
+	<station lat="47,61747" long="6,15174">Vesoul</station>
+	<station lat="47,47574" long="1,12408">Veuves-Monteaux</station>
+	<station lat="44,53183" long="5,81579">Veynes-Dévoluy</station>
+	<station lat="48,48068" long="6,10078">Vézelise</station>
+	<station lat="45,89696" long="6,78564">Viaduc-Ste-Marie</station>
+	<station lat="49,11704" long="2,36897">Viarmes</station>
+	<station lat="43,31623" long="3,42538">Vias</station>
+	<station lat="46,12688" long="3,43071">Vichy</station>
+	<station lat="45,66453" long="3,20689">Vic-le-Comte</station>
+	<station lat="43,50097" long="3,79959">Vic-Mireval</station>
+	<station lat="44,97612" long="2,63180">Vic-sur-Cère</station>
+	<station lat="43,43132" long="6,43351">Vidauban</station>
+	<station lat="46,09078" long="1,67333">Vieilleville</station>
+	<station lat="43,62410" long="2,08944">Vielmur-sur-Agout</station>
+	<station lat="45,52138" long="4,87447">Vienne</station>
+	<station lat="47,20932" long="2,10056">Vierzon-Forges</station>
+	<station lat="47,22654" long="2,06098">Vierzon-Ville</station>
+	<station lat="49,29098" long="3,27725">Vierzy</station>
+	<station lat="44,91872" long="2,29034">Viescamp-sous-Jalles</station>
+	<station lat="47,80555" long="7,11989">Vieux-Thann</station>
+	<station lat="44,11179" long="7,56238">Viévola</station>
+	<station lat="45,04816" long="5,68365">Vif</station>
+	<station lat="45,38298" long="1,51549">Vigeois</station>
+	<station lat="48,70810" long="2,41382">Vigneux-sur-Seine</station>
+	<station lat="45,31396" long="1,39711">Vignols-St-Solve</station>
+	<station lat="48,27047" long="5,12419">Vignory</station>
+	<station lat="48,59281" long="2,46161">Villabé</station>
+	<station lat="49,07823" long="2,34826">Villaines (Val-d'Oise)</station>
+	<station lat="46,00415" long="5,02819">Villars-les-Dombes</station>
+	<station lat="47,37349" long="2,90065">Villechaud</station>
+	<station lat="46,79940" long="4,43927">Villedieu-Chanliau</station>
+	<station lat="48,83416" long="-1,22545">Villedieu-les-Poêles</station>
+	<station lat="44,43945" long="3,92333">Villefort</station>
+	<station lat="43,39861" long="1,71433">Villefranche-de-Lauragais</station>
+	<station lat="44,34727" long="2,03619">Villefranche-de-Rouergue</station>
+	<station lat="44,62698" long="1,04922">Villefranche-du-Périgord</station>
+	<station lat="47,29503" long="1,76735">Villefranche-sur-Cher</station>
+	<station lat="43,70681" long="7,31383">Villefranche-sur-Mer</station>
+	<station lat="45,98434" long="4,72102">Villefranche-sur-Saône</station>
+	<station lat="42,59372" long="2,37097">Villefranche-Vernet-les-Bains</station>
+	<station lat="43,43147" long="-1,45626">Villefranque (Pyrénées-Atlantique)</station>
+	<station lat="47,36911" long="1,79623">Villeherviers</station>
+	<station lat="44,76871" long="-0,54745">Villenave-d'Ornon</station>
+	<station lat="46,09874" long="-0,51306">Villeneuve-la-Comtesse</station>
+	<station lat="48,34293" long="3,07170">Villeneuve-la-Guyard</station>
+	<station lat="48,73958" long="2,42641">Villeneuve-le-Roi</station>
+	<station lat="43,54345" long="3,84971">Villeneuve-lès-Maguelone</station>
+	<station lat="43,63004" long="7,13444">Villeneuve-Loubet-Plage</station>
+	<station lat="48,76388" long="2,43347">Villeneuve-Prairie</station>
+	<station lat="48,73009" long="2,44628">Villeneuve-St-Georges</station>
+	<station lat="48,74461" long="2,43876">Villeneuve-St-Georges-Triage</station>
+	<station lat="46,65898" long="3,24712">Villeneuve-sur-Allier</station>
+	<station lat="48,08493" long="3,28626">Villeneuve-sur-Yonne</station>
+	<station lat="48,93930" long="1,99969">Villennes-sur-Seine</station>
+	<station lat="43,43342" long="1,66066">Villenouvelle</station>
+	<station lat="48,95276" long="2,60127">Villeparisis</station>
+	<station lat="47,20207" long="0,63353">Villeperdue</station>
+	<station lat="48,96312" long="2,51233">Villepinte</station>
+	<station lat="48,82386" long="1,99306">Villepreux-les-Clayes</station>
+	<station lat="46,19446" long="5,39801">Villereversure</station>
+	<station lat="49,86259" long="2,52151">Villers-Bretonneux</station>
+	<station lat="49,25001" long="3,09369">Villers-Cotterets</station>
+	<station lat="47,20625" long="5,34850">Villers-les-Pots</station>
+	<station lat="49,28211" long="2,48910">Villers-St-Paul</station>
+	<station lat="49,36699" long="2,22154">Villers-St-Sépulcre</station>
+	<station lat="49,31597" long="0,00992">Villers-sur-Mer</station>
+	<station lat="49,41536" long="2,13548">Villers-sur-Thère</station>
+	<station lat="45,87428" long="4,83298">Albigny-Neuville</station>
+	<station lat="48,66334" long="4,89750">Villiers-en-Lieu</station>
+	<station lat="48,99377" long="2,41632">Villiers-le-Bel-Gonesse</station>
+	<station lat="48,86416" long="2,88165">Villiers-Montbarbin</station>
+	<station lat="48,81556" long="1,87768">Villiers-Neauphle-Pontchartrain</station>
+	<station lat="48,82328" long="2,54256">Villiers-sur-Marne-Le Plessis-Trévise</station>
+	<station lat="50,37316" long="2,82311">Vimy</station>
+	<station lat="45,20794" long="5,40985">Vinay</station>
+	<station lat="42,64820" long="2,52761">Vinça</station>
+	<station lat="47,70410" long="3,62842">Vincelles</station>
+	<station lat="48,34369" long="6,33549">Vincey</station>
+	<station lat="45,82486" long="5,80647">Vions-Chanaz</station>
+	<station lat="48,84636" long="-0,88317">Vire</station>
+	<station lat="50,08287" long="4,72314">Vireux-Molhain</station>
+	<station lat="45,84925" long="5,65473">Virieu-le-Grand-Belley</station>
+	<station lat="45,49224" long="5,47221">Virieu-sur-Bourbre</station>
+	<station lat="48,80549" long="2,16848">Viroflay-Rive-Droite</station>
+	<station lat="48,80069" long="2,17075">Viroflay-Rive-Gauche</station>
+	<station lat="49,58356" long="0,35431">Virville-Manneville</station>
+	<station lat="48,67613" long="2,38704">Viry-Châtillon</station>
+	<station lat="49,62733" long="3,25025">Viry-Noureuil</station>
+	<station lat="50,50498" long="2,51679">Vis-à-Marles</station>
+	<station lat="48,12253" long="-1,21277">Vitré</station>
+	<station lat="43,44077" long="5,23688">Vitrolles Aeroport Marseille Provence</station>
+	<station lat="50,32750" long="2,98134">Vitry-en-Artois</station>
+	<station lat="48,71775" long="4,58724">Vitry-le-François</station>
+	<station lat="48,80085" long="2,40235">Vitry-sur-Seine</station>
+	<station lat="48,20261" long="5,94188">Vittel</station>
+	<station lat="45,64836" long="5,90308">Viviers-du-Lac</station>
+	<station lat="44,55704" long="2,21803">Viviez-Decazeville</station>
+	<station lat="48,23018" long="0,14475">Vivoin-Beaumont</station>
+	<station lat="46,42659" long="0,26541">Vivonne</station>
+	<station lat="48,96190" long="7,14260">Voellerdingen</station>
+	<station lat="45,36404" long="5,59428">Voiron</station>
+	<station lat="47,93054" long="0,08552">Voivres</station>
+	<station lat="45,86476" long="3,00342">Volvic</station>
+	<station lat="46,22728" long="4,99149">Vonnas</station>
+	<station lat="45,29037" long="5,63185">Voreppe</station>
+	<station lat="45,18205" long="3,91265">Vorey</station>
+	<station lat="48,51505" long="2,59831">Vosves</station>
+	<station lat="47,17562" long="4,97126">Vougeot-Gilly-lès-Cîteaux</station>
+	<station lat="47,47938" long="6,77016">Voujeaucourt</station>
+	<station lat="47,56114" long="3,78058">Voutenay</station>
+	<station lat="48,13405" long="-0,29240">Voutré</station>
+	<station lat="48,27499" long="1,62218">Voves</station>
+	<station lat="49,72613" long="3,72008">Voyenne</station>
+	<station lat="48,23707" long="5,12384">Vraincourt-Viéville</station>
+	<station lat="49,70068" long="4,84307">Vrigne-Meuse</station>
+	<station lat="48,42854" long="2,75254">Vulaines-sur-Seine-Samoreau</station>
+	<station lat="49,50355" long="2,61153">Wacquemoulin</station>
+	<station lat="48,05862" long="7,23405">Walbach</station>
+	<station lat="48,88584" long="7,80915">Walbourg</station>
+	<station lat="47,64179" long="7,26316">Walheim</station>
+	<station lat="50,38432" long="3,38976">Wallers</station>
+	<station lat="50,13399" long="3,31135">Wambaix</station>
+	<station lat="50,68173" long="3,03943">Wambrechies</station>
+	<station lat="50,82717" long="2,20676">Watten-Éperlecques</station>
+	<station lat="50,57920" long="3,05153">Wattignies-Templemars</station>
+	<station lat="50,57524" long="2,93759">Wavrin</station>
+	<station lat="47,88974" long="6,99785">Wesserling</station>
+	<station lat="48,71770" long="7,79685">Weyersheim</station>
+	<station lat="48,04628" long="7,20904">Wihr-au-Val-Soultzbach</station>
+	<station lat="47,84263" long="7,06921">Willer-sur-Thur</station>
+	<station lat="48,74590" long="7,50782">Wilwisheim</station>
+	<station lat="50,76527" long="1,61312">Wimille-Wimereux</station>
+	<station lat="48,92026" long="7,38229">Wingen-sur-Moder</station>
+	<station lat="48,50761" long="7,27023">Wisches</station>
+	<station lat="49,03139" long="7,95000">Wissembourg</station>
+	<station lat="47,81732" long="7,26409">Wittelsheim</station>
+	<station lat="49,05567" long="7,14106">Wittring</station>
+	<station lat="49,09488" long="7,19075">Woelfling-lès-Sarreguemines</station>
+	<station lat="50,05893" long="1,53943">Woincourt</station>
+	<station lat="49,14908" long="6,15604">Woippy</station>
+	<station lat="48,05301" long="6,37676">Xertigny</station>
+	<station lat="48,56967" long="6,10197">Xeuilley</station>
+	<station lat="44,32935" long="-0,94597">Ychoux</station>
+	<station lat="48,70640" long="2,48276">Yerres</station>
+	<station lat="48,47012" long="-2,65237">Yffiniac</station>
+	<station lat="43,97830" long="-0,73637">Ygos</station>
+	<station lat="44,91062" long="2,36433">Ytrac</station>
+	<station lat="49,36113" long="6,20950">Yutz</station>
+	<station lat="49,62212" long="0,75007">Yvetot</station>
+	<station lat="49,07785" long="7,13362">Zetting</station>
+	<station lat="47,69434" long="7,29450">Zillisheim</station>
+	<station lat="48,75326" long="7,38517">Zornhoff-Monswiller</station>
+</stations>

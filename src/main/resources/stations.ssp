@@ -1,0 +1,7 @@
+<%@ var stations: List[com.scalate.samples.model.Station] %>
+<?xml version="1.0" encoding="UTF-8"?>
+<stations>
+#for (station <- stations)
+	<station lat="${station.lat}" long="${station.long}">${station.name}</station>
+#end
+</stations>
